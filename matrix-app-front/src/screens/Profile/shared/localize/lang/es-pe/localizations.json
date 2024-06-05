@@ -1,0 +1,10 @@
+{
+  "verify-email": {
+    "modal": {
+      "title": "Verificación",
+      "body": "Necesitas verificar tu correo para seguir usando la aplicación",
+      "label": "Verifica el siguiente correo:",
+      "submit-text": "Verificar ahora"
+    }
+  }
+}

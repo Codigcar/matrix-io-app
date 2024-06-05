@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32758963800",
+    "project_id": "io-dev-7d215",
+    "storage_bucket": "io-dev-7d215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32758963800:android:0c47e3bbf821fc5d63f42d",
+        "android_client_info": {
+          "package_name": "pe.io.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32758963800-hnadf2milpnv3o7mp40ilbk447t40mp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPp3jVOUPY8Cza37VwbMBDkcpCyD3y_Qc"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

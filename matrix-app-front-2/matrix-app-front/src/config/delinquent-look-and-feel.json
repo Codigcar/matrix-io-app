@@ -1,0 +1,369 @@
+[
+    {
+        "code":"M11",
+        "sections": [
+            {
+                "code":"CREDITINFO",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARD",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"TRANSACTIONS",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"ACCOUNTSTATUS",
+                "notification": false,
+                "text": null,
+                "color": "WARNING",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CASHBACK",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARDCONFIG",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"MENU",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            }
+        ]
+    },
+    {
+        "code":"M12",
+        "sections": [
+            {
+                "code":"CREDITINFO",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARD",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"TRANSACTIONS",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"ACCOUNTSTATUS",
+                "notification": false,
+                "text": null,
+                "color": "WARNING",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CASHBACK",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARDCONFIG",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },   
+            {
+                "code":"MENU",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            }
+        ]
+    },
+    {
+        "code":"M21",
+        "sections": [
+            {
+                "code":"CREDITINFO",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARD",
+                "notification": false,
+                "text": null,
+                "color": "GREY",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"TRANSACTIONS",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"ACCOUNTSTATUS",
+                "notification": true,
+                "text": "Inmediato",
+                "color": "DANGER",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CASHBACK",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARDCONFIG",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },   
+            {
+                "code":"MENU",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": true,
+                "status": "ACTIVE"
+            }
+        ]
+    },
+
+    {
+        "code":"M22",
+        "sections": [
+            {
+                "code":"CREDITINFO",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARD",
+                "notification": false,
+                "text": null,
+                "color": "GREY",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"TRANSACTIONS",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"ACCOUNTSTATUS",
+                "notification": true,
+                "text": "Urgente",
+                "color": "DANGER",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CASHBACK",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CARDCONFIG",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },   
+            {
+                "code":"MENU",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": true,
+                "status": "ACTIVE"
+            }
+        ]
+    },
+    {
+        "code":"M31",
+        "sections": [
+            {
+                "code":"CREDITINFO",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"CARD",
+                "notification": false,
+                "text": null,
+                "color": "GREY",
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"TRANSACTIONS",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"ACCOUNTSTATUS",
+                "notification": true,
+                "text": "Urgente",
+                "color": "DANGER",
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"CASHBACK",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"CARDCONFIG",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },   
+            {
+                "code":"MENU",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": true,
+                "status": "ACTIVE"
+            }
+        ]
+    },
+    {
+        "code":"M32",
+        "sections": [
+            {
+                "code":"CREDITINFO",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"CARD",
+                "notification": false,
+                "text": null,
+                "color": "GREY",
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"TRANSACTIONS",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "ACTIVE"
+            },
+            {
+                "code":"ACCOUNTSTATUS",
+                "notification": true,
+                "text": "--",
+                "color": "DANGER",
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"CASHBACK",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },
+            {
+                "code":"CARDCONFIG",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": false,
+                "status": "DISABLED"
+            },   
+            {
+                "code":"MENU",
+                "notification": false,
+                "text": null,
+                "color": null,
+                "itemsReduced": true,
+                "status": "ACTIVE"
+            }
+        ]
+    }
+]

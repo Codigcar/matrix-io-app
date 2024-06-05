@@ -1,0 +1,90 @@
+name: iOS_pipeline
+
+on:
+  push:
+    branches:
+      - develop
+      - release
+      - staging
+      - main
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+    branches:
+      - develop
+      - release
+      - staging
+      - main
+      - neo
+      - smith
+      - morpheus
+      - tank
+      - oraculo
+      - dozer
+      - trinity
+      - echo
+  workflow_dispatch:
+
+env:
+  AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+  AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+  BRANCH_MODEL: B2
+  AGENT_TYPE_IOS: ${{ vars.AGENT_TYPE_IOS }}
+
+jobs:
+  Pipeline:
+    name: iOS
+    runs-on: ${{ vars.AGENT_TYPE_IOS }}
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set Environment
+        id: set_environment
+        run: |
+          branch_name="${{ github.event.pull_request.base.ref }}"
+          event="PullRequest"
+          if [[ -z $branch_name ]]; then
+            branch_name="${{ github.ref }}"
+            event="Push"
+          fi
+          branch_name="${branch_name#refs/heads/}"
+          echo "Event: $event"
+          echo "Branch: $branch_name"
+
+          if [[ $branch_name == "develop" || $branch_name == "release" || $branch_name == "staging" || $branch_name == "main" ]]; then
+              environment="$branch_name"
+          elif [[ $branch_name == "feature/"* || $branch_name == *"-merge-develop" ]]; then
+              environment="develop"
+          elif [[ $branch_name == *"-merge-release" ]]; then
+              environment="release"
+          elif [[ $branch_name == *"-merge-staging" ]]; then
+              environment="staging"
+          elif [[ $branch_name == "hotfix/"* || $branch_name == "releases/"* ]]; then
+              environment="main"
+          else
+              environment="develop"
+              echo "default -> environment=$environment"
+          fi
+
+          echo "El ambiente es $environment"
+          echo "environment=$environment" >> $GITHUB_OUTPUT
+
+      - name: Reusing Workflows
+        uses: actions/checkout@v3
+        with:
+          repository: MATRIXMVP/matrix-script-shelltool
+          ref: ${{ steps.set_environment.outputs.environment }}
+          token: ${{secrets.GITHUBSL_TOKEN}}
+          path: .shelltool/
+
+      - name: Build
+        uses: ./.shelltool/workflows/ios
+        with:
+          AWS_DEFAULT_REGION: ${AWS_DEFAULT_REGION}
+          AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+          AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}

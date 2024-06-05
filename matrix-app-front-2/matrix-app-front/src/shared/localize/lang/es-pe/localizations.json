@@ -1,0 +1,1709 @@
+{
+  "app-name": "iO",
+  "login": "Ingresar",
+  "splash-credits": "Powered by",
+  "button-label-edit": "Editar",
+  "button-label-continue": "Continuar",
+  "button-label-start": "Comenzar",
+  "button-label-try-again": "Intentar de nuevo",
+  "button-label-confirm": "Confirmar",
+  "button-label-know-offer": "Conocer mi oferta",
+  "button-label-init": "Iniciar",
+  "button-label-home": "Ir al Inicio",
+  "button-label-finish": "Finalizar",
+  "dropdown-default-placeholder": "Selecciona una opción",
+  "button-skip": "Omitir",
+  "email": "Correo",
+  "number": "Número",
+  "form-validate-field-mandatory": "Este campo es obligatorio",
+  "form-validate-confirmation-password": "Ambas contraseñas deben coincidir",
+  "invalid-address": "Esta dirección es inválida",
+  "invalid-email": "El formato de correo es inválido",
+  "email-not-match-first-field": "El correo no coincide con el primer campo",
+  "invalid-max-length-address": "Llegaste al límite de caracteres permitidos",
+  "welcome-message": "Habla pues...",
+  "invalid-dni-length": "El DNI debe tener 8 dígitos",
+  "test-closure": "Texto al usar esta aplicación con el nombre: %@",
+  "test-closure-multiple-key": "Texto al usar esta aplicación con el nombre %@ y %@",
+  "otp-first-screen-title": "Para comenzar ingresa tu número de celular",
+  "otp-first-screen-fields-phonenumber": "Número de celular",
+  "otp-first-screen-buttons-continue": "Continuar",
+  "otp-verify-register-title": "Verificación",
+  "otp-verify-register-description": "Ingresa el código de verificación enviado al ",
+  "onboarding": {
+    "first-slide": {
+      "title": "Prepara tu DNI",
+      "text": "Asegúrate de tener tu DNI listo para seguir con la inscripción"
+    },
+    "second-slide": {
+      "title": "Sin membresía",
+      "text": "Usarla es gratis y no tienes la obligación de realizar consumos mínimos"
+    },
+    "third-slide": {
+      "title": "Cashback\ny beneficios",
+      "text": "Recibe de vuelta desde 1% en todos tus consumos y accede a descuentos exclusivos"
+    }
+  },
+  "onboarding-buttons-register": "Crear cuenta",
+  "onboarding-buttons-login": "Iniciar sesión",
+  "wellcome-title": "Bienvenido a iO",
+  "wellcome-subtitle": "Únete al círculo",
+  "wellcome-headline": "La tarjeta de crédito que tiene beneficios increíbles",
+  "card-offer-title": "tu nueva tarjeta ",
+  "card-offer-title-last": " llega con una línea de",
+  "card-offer-subtitle_1": "Ajusta el monto ",
+  "card-offer-subtitle_2": "de tu línea como desees",
+  "card-offer-benefit-first-list-section-title": "¿Qué beneficios tiene esta tarjeta?",
+  "card-offer-benefit-list-first-item-title": "Sin cobro de membresía",
+  "card-offer-benefit-list-second-item-title": "Te devolvemos el 1% de tus gastos",
+  "card-offer-benefit-list-third-item-title": "Personalizable al 100%",
+  "card-offer-benefit-list-third-item-text": "Configura la seguridad, facturación y más",
+  "card-offer-benefit-list-fourth-item-title": "Programa de descuentos exclusivos",
+  "card-offer-benefit-second-list-section-link": "Ver información Adicional",
+  "card-offer-benefit-second-list-section-title": "Información adicional",
+  "card-offer-benefit-second-list-first-item-item": "Tu fecha de facturación será el {{billingDay}} de cada mes",
+  "card-offer-benefit-second-list-second-item-item": "El pago del Seguro de desgravamen aplica sobre el saldo deudor promedio diario con una tasa de {{desgravamen}}% con  tope máximo de S/{{maxValueDesgravamen}}.",
+  "card-offer-benefit-second-list-third-item-item": "Tasa efectiva anual de {{tea}}%",
+  "card-offer-benefit-second-list-fourth-item-item": "Tasa de Costo Efectivo Anual de {{tcea}}%",
+  "card-offer-amount-text": "Monto aprobado",
+  "card-offer-terms-conditions-first-text": "Acepto la ",
+  "card-offer-terms-conditions-link-text": "Cláusula de Protección de Datos Personales",
+  "card-offer-terms-conditions-title": "Cláusula",
+  "card-offer-contract-first-text": "Declaro haber consignado mis datos reales y estar de acuerdo con los términos y condiciones del ",
+  "card-offer-contract-link-text": "contrato, la hoja de resumen, seguro de desgravamen y la autorización del envío de póliza y de comunicaciones sobre mi producto a mi correo electrónico como domicilio legal​.",
+  "card-offer-feedback-message": "Te enviaremos los ",
+  "card-offer-feedback-message-bold": "Documentos de tu tarjeta a tu correo: ",
+  "card-offer-button-label": "¡Quiero esta tarjeta!",
+  "card-offer-documents-title": "Documentos de tu Tarjeta de Crédito",
+  "card-offer-documents-subtitle": "Estos son los documentos de tu tarjeta de crédito que podrás visualizar en cualquier momento.",
+  "card-offer-auth-validation": "Validación \nde autenticación",
+  "card-offer-auth-validation-message": "Necesitamos confirmar que eres tú \nquien está realizando esta solicitud",
+  "card-offer-auth-validation-enable": "Reactivar confirmación",
+  "card-offer-auth-validation-counter-min": "en {{counter}} min.",
+  "card-offer-auth-validation-counter": "en {{counter}} seg.",
+  "card-offer-auth-validation-confirm": "Confirmar",
+  "card-offer-auth-validation-finish": "Terminar",
+  "card-offer-auth-validation-error-retries": "Hemos excedido el número máximo\nde intentos de autenticación",
+  "card-offer-modals": {
+    "loading-offer-title": "Estamos creando la mejor oferta para ti",
+    "loading-offer-subtitle": "Por favor espera un momento",
+    "loading-authorization-title": "Estamos procesando tu solicitud",
+    "loading-authorization-subtitle": "Por favor espera un momento",
+    "warning-authorization-title": "No hemos podido\nprocesar tu solicitud\nen este momento",
+    "warning-authorization-subtitle": "Por favor reintenta de nuevo",
+    "warning-authorization-button": "Reintentar",
+    "error-authorization-title": "No hemos podido\nprocesar tu solicitud\nen este momento",
+    "error-authorization-subtitle": "Por favor intenta más tarde",
+    "error-authorization-button": "Cerrar"
+  },
+  "card-offer-complete-title": "¡Felicidades!",
+  "card-offer-complete-subtitle": "Te hemos enviado un correo electrónico con la información detallada de tu nueva tarjeta de crédito.",
+  "card-offer-complete-text-1": "A continuacón debes seleccionar el ",
+  "card-offer-complete-text-bold": "plan de beneficios ",
+  "card-offer-complete-text-2": "que más se adapte a tu estilo de vida",
+  "card-offer-benefit-first-list-complete-section-title": "Beneficios",
+  "card-offer-benefit-second-list-complete-section-title": "Registro de tu tarjeta",
+  "surprise-title": "¡Sorpresa!\nUnirte al círculo\nte hace más especial",
+  "surprise-subtitle": "Disfruta de 70% de descuento en la Bodega de la Trattoria.",
+  "more-info": "Más información",
+  "card-offer-document-contract-title": "Contrato",
+  "card-offer-document-resume-title": "Hoja resumen",
+  "card-offer-document-insurance-title": "Seguro de Desgravamen",
+  "no-card-offer-title": "Actualmente no tenemos una oferta para ti.",
+  "no-card-offer-subtitle": "Te avisaremos cuando podamos ofrecerte un producto.",
+  "configure-card-title": "Configuración de tarjeta",
+  "configure-card-0-title": "Activa y desactiva de forma\ntemporal tu tarjeta",
+  "configure-card-0-subtitle-init": "¡En ",
+  "configure-card-0-subtitle": " tú tienes el control! activa y desactiva tu tarjeta virtual y/o física para mayor seguridad",
+  "configure-card-0-detail-0": "Control Maestro",
+  "configure-card-0-detail-1": "Tarjeta física",
+  "configure-card-1-title": "Configuraciones de\ncompras",
+  "configure-card-1-detail-0": "Tarjeta virtual",
+  "configure-card-1-detail-1": "Compras en el\nextranjero",
+  "configure-card-2-detail-1": "Realiza pagos con tu celular",
+  "configure-card-error-01": "Cambio no realizado, intenta otra vez",
+  "configure-card-error-02": "Esta función no está disponible",
+  "configure-card-internet-activated": "Compras por internet activadas",
+  "configure-card-internet-deactivated": "Compras por internet desactivadas",
+  "configure-card-foreign-activated": "Compras en el extranjero activadas",
+  "configure-card-foreign-deactivated": "Compras en el extranjero desactiv.",
+  "activated": "Activada",
+  "deactivated": "Desactivada",
+  "activated-purchases": "Activadas",
+  "deactivated-purchases": "Desactivadas",
+  "activating": "Activando...",
+  "deactivating": "Desactivando...",
+  "card-blocked": "Bloqueada",
+  "apple-pay": "Apple Pay",
+  "google-pay": "Google Pay",
+  "finish": "Terminar",
+  "enter-amount": "Ingresar monto",
+  "no-card": "No dispones de este tipo de tarjeta.",
+  "plans-title-detail": "Detalle de Planes",
+  "plans-title-selected": "SELECCIONA TU PLAN",
+  "plans-declare-terms-first-step": "Declaro que he leído y acepto los ",
+  "plans-declare-terms-second-step": "términos y condiciones del plan a contratar",
+  "plans-contract-plan": "Contratar plan",
+  "plans-message-validation-length-dni": "El DNI debe tener 8 dígitos",
+  "plans-message-validation-required-dni": "El DNI es obligatorio",
+  "enrollment-titles-complete-your-data": "Completa los datos para crear tu cuenta",
+  "enrollment-titles-enter-your-phone": "Ingresa tu número de celular",
+  "enrollment-dni-registered": "Intenta iniciar sesión con tu usuario y contraseña",
+  "enrollment-phone-invalid": "Teléfono inválido",
+  "enrollment-titles-enter-your-alias": "¿Cómo te gustaría que te llamemos?",
+  "enrollment-input-enter-your-alias": "Ingresa el nombre que prefieras",
+  "enrollment-titles-enter-your-email": "Ingresa tu correo electrónico.",
+  "enrollment-titles-enter-your-email-2": "Ingresa tu correo\nelectrónico",
+  "enrollment-titles-enter-your-dni-and-email": "Ingresa tu DNI y\ncorreo electrónico.",
+  "enrollment-titles-enter-your-dni-and-email-2": "Ingresa tu DNI y correo electrónico.",
+  "enrollment-input-enter-your-dni-fullname": "Número de DNI",
+  "enrollment-input-enter-your-email": "Correo electrónico",
+  "enrollment-document-detail-policy": "Política de privacidad",
+  "enrollment-document-detail-terms-and-conditions": "Términos y condiciones",
+  "enrollment-titles-enter-your-dni": "Ingresa tu número de DNI",
+  "enrollment-titles-enter-your-dni-2": "Ingresa tu número\nde DNI",
+  "enrollment-email-confirm-label": "Repetir correo electrónico",
+  "enrollment-email-confirm-validation": "Ambos correos deben coincidir",
+  "enrollment-email-confirm-validation-error": "El correo no coincide con el primer campo",
+  "enrollment-input-enter-your-dni": "Ingresa el DNI",
+  "enrollment-titles-enter-your-password": "Creación de clave",
+  "enrollment-titles-confirm-your-password": "Confirma tu clave",
+  "enrollment-titles-accept-terms-and-conditions_1": "Al continuar estoy aceptando los ",
+  "enrollment-titles-accept-terms-and-conditions_2": "términos y condiciones",
+  "enrollment-titles-accept-terms-and-conditions_3": " y ",
+  "enrollment-titles-accept-policy_1": "política de privacidad de datos y cláusula de protección de datos",
+  "enrollment-titles-you-have-an-account": "¡Listo, ya tienes una cuenta!",
+  "enrollment-text-disclosure": "Ahora conoce la oferta que tenemos para tí. Solo necesitamos validar tu identidad, para esto necesitarás escanear tu DNI y tomarte una selfie",
+  "enrollment-buton-validate-my-identity": "Validar mi identidad",
+  "enrollment-titles-referral-code": "¿Tienes un código\nde referido?",
+  "enrollment-titles-enter-referral-code": "Ingresa el código de quien te refirió",
+  "enrollment-referral-code-placeholder": "Ingresa el código de 6 carácteres",
+  "enrollment-referral-code-error": "El código ingresado no existe",
+  "enrollment": {
+    "placeholder-dni": "Ejemplo: 76543210",
+    "email-placeholder": "Ejemplo: correo@mail.com",
+    "mandatory-field": "Este campo es obligatorio",
+    "invalid-message-email": "Correo inválido",
+    "label-submit": "Continuar"
+  },
+  "kyc-document-validation-start-title": "¡Muy bien!",
+  "kyc-document-validation-start-heading": "Haz creado tu usuario y contraseña",
+  "kyc-document-validation-start-text": "Ahora, necesitamos validar tu identidad. Para esto necesitaremos ",
+  "kyc-document-validation-start-text-bold": "escanear tu DNI y grabar un video.",
+  "kyc-document-validation-get-front-first-step-title": "Paso 1 de 2",
+  "kyc-document-validation-get-front-second-step-title": "Paso 2 de 2",
+  "kyc-document-validation-get-front-title": "Enfoca el frente de tu DNI",
+  "kyc-document-validation-get-reverse-title": "Enfoca el reverso de tu DNI",
+  "kyc-document-validation-get-front-description": "No utilices el flash y evita sombras o reflejos sobre el DNI",
+  "kyc-document-validation-steps-heading-top": "¡Prepárate!",
+  "kyc-document-validation-steps-title": "Debes tener listo tu DNI.",
+  "kyc-document-validation-steps-description": "Vamos a escanear tu DNI, asegúrate que esté dentro del recuadro y tengas buena iluminación.",
+  "kyc-document-validation-steps-first-step-title": "PASO 1",
+  "kyc-document-validation-steps-step-text-left": "Tomarás una foto del ",
+  "kyc-document-validation-steps-first-step-text-bold": "frente",
+  "kyc-document-validation-steps-second-step-text-bold": "reverso",
+  "kyc-document-validation-steps-step-text-right": " de tu DNI",
+  "kyc-document-validation-steps-second-step-title": "PASO 2",
+  "kyc-document-validation-front-preview-title": "Verifica tu DNI",
+  "kyc-document-validation-front-preview-subtitle": "Antes de continuar verifica que tu DNI esté completo, legible y nítido",
+  "kyc-document-validation-reverse-preview-title": "Verifica tu DNI",
+  "kyc-document-validation-reverse-preview-subtitle": "Antes de continuar verifica que tu DNI esté completo, legible y nítido",
+  "kyc-document-validation-uploading-title": "Subiendo\ndocumentos",
+  "kyc-document-validation-uploading-text": "Este proceso puede tomar\nentre 1 y 3 minutos",
+  "kyc-document-validation-loading-title": "Estamos validando\ntu DNI...",
+  "kyc-document-validation-loading-text": "Este proceso podría tomar unos segundos...",
+  "kyc-document-validation-uploading-error-title": "Error al subir\ntu DNI",
+  "kyc-document-validation-uploading-error-text": "No se ha podido cargar\nla información",
+  "kyc-document-validation-response-success-title": "¡Muy bien",
+  "kyc-document-validation-response-success-heading-1": "¡La validación de tu DNI",
+  "kyc-document-validation-response-success-heading-2": "ha sido exitosa!",
+  "kyc-document-validation-response-success-text": "Ahora solo queda la validación de\ntu rostro. Este es el último paso",
+  "kyc-document-validation-response-success-button-text": "Validar mi rostro",
+  "kyc-document-validation-response-info-title": "¡Lo sentimos!",
+  "kyc-document-validation-response-info-heading": "No pudimos validar tu DNI",
+  "kyc-document-validation-response-error-text-1": "Parece que las fotos de tu DNI\nno están lo suficientemente",
+  "kyc-document-validation-response-error-text-2": "nítidas, legibles y claras",
+  "kyc-document-validation-response-error-button-text": "Intentar de nuevo",
+  "kyc-document-validation-response-error-title": "¡Hola!",
+  "kyc-document-validation-response-error-heading": "¡Validación de DNI lista!",
+  "kyc-liveness-intro-titles-prepare": "¡Prepárate!",
+  "kyc-liveness-intro-titles-make-a-video": "vamos a grabar un video.",
+  "kyc-liveness-intro-titles-disclosure": "Asegúrate de ubicar tu celular a la altura de tus ojos y si usas lentes o gorra, por favor, retíralos antes de continuar",
+  "kyc-liveness-intro-start": "Comenzar",
+  "kyc-liveness-loading-title": "Estamos validando\nel video con tu DNI",
+  "kyc-liveness-loading-text": "Este proceso puede tomar\nentre 1 y 3 minutos",
+  "kyc-liveness-face-scan-finished-step-message": "¡Perfecto!",
+  "kyc-liveness-face-scan-start-pending-title": "Prepárate para \ngrabar una video selfie",
+  "kyc-liveness-face-scan-start-pending-message": "Presiona el botón para \nempezar la grabación.",
+  "kyc-liveness-face-scan-recording-title": "Grabando...",
+  "kyc-liveness-face-scan-finished-title": "¡Grabación lista!",
+  "kyc-liveness-face-scan-look-right-subtitle": "Mira hacia la derecha",
+  "kyc-liveness-face-scan-look-right-message": "Mueve tu cabeza levemente hacia la derecha",
+  "kyc-liveness-face-scan-look-left-subtitle": "Mira hacia la izquierda",
+  "kyc-liveness-face-scan-look-left-message": "Mueve tu cabeza levemente hacia la izquierda",
+  "kyc-liveness-face-scan-look-up-subtitle": "Mira hacia arriba",
+  "kyc-liveness-face-scan-look-up-message": "Mueve tu cabeza levemente hacia arriba",
+  "kyc-liveness-face-scan-look-down-subtitle": "Mira hacia abajo",
+  "kyc-liveness-face-scan-look-down-message": "Mueve tu cabeza levemente hacia abajo",
+  "kyc-liveness-face-scan-open-mouth-subtitle": "Abre tu boca",
+  "kyc-liveness-face-scan-open-mouth-message": "Abre tu boca",
+  "kyc-liveness-response-title-success": "¡Bienvenido,",
+  "kyc-liveness-response-text-success": "Por último, vamos a registrar\ndatos adicionales para\nconocerte mejor.",
+  "kyc-liveness-response-title-failure": "¡Lo sentimos!",
+  "kyc-liveness-response-heading-failure": "No pudimos validar tu identidad",
+  "kyc-liveness-response-text-failure": "Acércate a un lugar con mejor\niluminación y vuelve a intentarlo",
+  "kyc-liveness-response-title-pending": "¡Oh no!",
+  "kyc-liveness-response-button-label": "Registrar mis datos",
+  "kyc-liveness-response-error-title": "Error al subir\ntu video",
+  "kyc-liveness-response-error-text": "No se ha podido cargar\nla información",
+  "kyc-liveness-response-uploading-title": "Subiendo video",
+  "kyc-liveness-response-uploading-text": "Tomaremos unos segundos en subir tu video",
+  "liveness": {
+    "decline-reasons": {
+      "not-face-detected": "Recuerda que debes tomarte un video selfie de tu rostro real",
+      "invalid-file-format": "Mira fijamente a la cámara, evita mover tu rostro y procura no llevar lentes o gorra"
+    }
+  },
+  "password-confirmation-titles-great": "¡Genial! ",
+  "password-confirmation-titles-great-now": "Ahora,",
+  "password-confirmation-titles-create-password": "crea tu contraseña",
+  "password-confirmation-titles-input-password": "Ingresa tu contraseña",
+  "password-confirmation-buttons-continue": "Continuar",
+  "password-repeat-titles-good": "¡Bien! ",
+  "password-repeat-titles-good-now": "Ahora,",
+  "password-repeat-titles-repeat-password": "Repite tu contraseña",
+  "password-repeat-input-password": "Contraseña",
+  "password-repeat-input-repeat-password": "Repetir contraseña",
+  "password-repeat-input-repeat-password-again": "Repite aquí tu contraseña",
+  "password-repeat-buttons-continue": "Continuar",
+  "password-repeat-error-password-doesnt-match": "Las contraseñas no coinciden",
+  "password-repeat-error-password-must-match": "Ambas contraseñas deben coincidir",
+  "login-titles-enter-your-dni": "Número de DNI",
+  "login-input-enter-your-dni": "Ejemplo: 78930092",
+  "login-titles-enter-your-password": "Contraseña",
+  "login-input-enter-your-password": "Ingrese la contraseña",
+  "login-buttons-continue": "Iniciar sesión",
+  "login-titles-forgot-password": "¿Olvidaste tu contraseña?",
+  "login-titles-main": "Bienvenido a iO",
+  "login-checkbox-remember-dni": "Recordar DNI",
+  "loginFlow": {
+    "enterDNI": "Número de DNI",
+    "placeholderDNI": "Ejemplo: 12345678",
+    "enterPassword": "Contraseña",
+    "placeholderPassword": "Ingresa tu contraseña",
+    "button": "Iniciar sesión",
+    "forgotPasssword": "¿Olvidaste tu contraseña?",
+    "title": "Bienvenido a iO",
+    "rememberDNI": "Recordar DNI",
+    "errorMessage": "El DNI y/o la contraseña son inválidos"
+  },
+  "login-failed": {
+    "alert": {
+      "title": "Evita bloquear tu cuenta",
+      "message": "Exceder los intentos bloqueará tu cuenta"
+    },
+    "exceed-attempts-modal": {
+      "title": "Cuenta bloqueada\ntemporalmente",
+      "message": "Superaste el límite\nde intentos al iniciar sesión.\n\nPor favor vuelve a intentarlo\nmás tarde",
+      "continue-button": "Entendido"
+    }
+  },
+  "recoveryPassword-getDNI-title": "Recuperar tu",
+  "recoveryPassword-getDNI-password": " contraseña",
+  "recoveryPassword-getDNI-input-label": "Ingresa el número de tu DNI",
+  "recoveryPassword-getDNI-input-palceholder": "Ejemplo: 78930092",
+  "recoveryPassword-getDNI-button-text": "Continuar",
+  "recoveryPassword-getDNI-error": "El DNI ingresado no es válido.",
+  "recoveryPassword-verifyOTP-title": "Recuperar tu",
+  "recoveryPassword-verifyOTP-password": " contraseña",
+  "recoveryPassword-verifyOTP-message": "Hemos enviado un código al correo registrado",
+  "recoveryPassword-verifyOTP-new-code-await-label": "Solicita un nuevo código en %@ seg.",
+  "recoveryPassword-verifyOTP-new-code-await-time-label": " %@ seg.",
+  "recoveryPassword-verifyOTP-new--code-button-text": "Reenviar código",
+  "recoveryPassword-verifyOTP-submit-button-text": "Continuar",
+  "recoveryPassword-verifyOTP-code-not-received-text": "¿No recibiste tu código?",
+  "recoveryPassword-verifyOTP-email-code-text": "Escríbenos a contacto@io.pe",
+  "recoveryPassword-verifyPassword-title": "Recuperar tu ",
+  "recoveryPassword-verifyPassword-title-password": "contraseña",
+  "recoveryPassword-verifyPassword-placeholder": "Ingresa tu nueva contraseña",
+  "recoveryPassword-verifyPassword-placeholder-repeat": "Escribe nuevamente tu contraseña",
+  "recoveryPassword-verifyPassword-placeholder-newPassword": "Ingresa tu nueva contraseña",
+  "recoveryPassword-verifyPassword-input-newPassword": "No puedes repertir algujna de tus últimas 5 contraseñas",
+  "recoveryPassword-verifyPassword-input-repetPassword": "Ambas contraseñas deben coincidir",
+  "recoveryPassword-verifyPassword-placeholder-repetPassword": "Escribe nuevamente tu contraseña",
+  "recoveryPassword-verifyPassword-continue": "Confirmar",
+  "recoveryPassword-passwordResponse-title": "¡Listo!",
+  "recoveryPassword-passwordResponse-message": "Se ha guardado tu nueva contraseña",
+  "recoveryPassword-passwordResponse-startButton-label": "Volver a iniciar sesión",
+  "recoveryPassword-passwordResponse-fail-title": "¡Lo sentimos!",
+  "recoveryPassword-passwordResponse-fail-message": "No hemos podido cambiar tu contraseña",
+  "recoveryPassword-passwordResponse-fail-description": "Por favor, verifica los datos ingresados  e inténtalo de nuevo",
+  "recoveryPassword-passwordResponse-failFirstButton-label": "Intentar nuevamente",
+  "recoveryPassword-passwordResponse-failSecondButton-label": "Volver al inicio de sesión",
+  "recoveryPassword-passwordResponse-otp-content": "El código ingresado no es válido",
+  "recoveryPassword-passwordResponse-attempts-exceeded-title": "¡Función no disponible!",
+  "recoveryPassword-passwordResponse-attempts-exceeded-content": "Superas el límite de intentos permitidos",
+  "recoveryPassword-passwordResponse-attempts-exceeded-info": "Por favor, vuelve a intentarlo más tarde",
+  "recoveryPassword-passwordResponse-finish": "Terminar",
+  "password-verification-requirement-lenght": "Mínimo 8 caracteres",
+  "password-verification-requirement-caps": "Al menos 1 letra mayúscula y minúscula",
+  "password-verification-requirement-numbers": "Al menos 1 número",
+  "password-verification-requirement-special-characters": "Al menos 1 caracter especial ($,#,%,@)",
+  "get-personal-data-title": "Datos personales",
+  "get-personal-data-form-label-name": "Erick Javier Zatto Jimenez",
+  "get-personal-data-form-label-document": "DNI:",
+  "get-personal-data-title-form-label-nacionality": "Nacionalidad:",
+  "get-personal-data-form-title": "Domicilio",
+  "get-personal-data-dropdown-label-department": "Departamento",
+  "get-personal-data-dropdown-label-province": "Provincia",
+  "get-personal-data-dropdown-label-district": "Distrito",
+  "get-personal-data-input-label-address": "Dirección",
+  "get-personal-data-checkbox-label-confirmation": "Declaro que la información presentada es real y está actualizada",
+  "get-work-data-title": "Datos personales",
+  "get-work-data-input-occupation": "Ocupación",
+  "get-work-data-input-occupation-placeholder": "¿A qué te dedicas?",
+  "get-work-data-input-profession": "Profesión",
+  "get-work-data-input-profession-placeholder": "Ejemplo: Administrador, ingeniero, doctor, etc.",
+  "get-work-data-input-workplace": "Centro de labores",
+  "get-work-data-input-workplace-placeholder": "Ingresa el centro de Labores",
+  "get-work-data-input-workplace-hint": "Este nombre debe contar con más de 3 caracteres.",
+  "get-work-data-switch-box-title": "¿Estás radicando en Perú?",
+  "get-work-data-switch-label": "Responde",
+  "get-work-data-switch-label-yes": "Sí",
+  "get-work-data-switch-label-no": "No",
+  "get-work-confirmation-checklist-first": "Funciones públicas destacadas",
+  "get-work-confirmation-checklist-second": "Funciones prominentes en una organización internacional, sea en el territorio nacional o extranjero",
+  "get-work-confirmation-checklist-third": "Eres o has sido colaborador directo de las mencionadas instituciones",
+  "get-work-confirmation-title": "Datos personales",
+  "get-work-confirmation-subtitle": "¿En estos últimos 5 años has realizado alguna de estas funciones?",
+  "get-work-confirmation-organization-name-label": "Nombre de la organización",
+  "get-work-confirmation-organization-position-label": "Cargo en la entidad",
+  "get-work-confirmation-organization-name-placeholder": "Ingresa el nombre de la organización",
+  "get-work-confirmation-organization-position-placeholder": "Ingresar el cargo",
+  "personal-data-complete-title": "¡Felicitaciones!",
+  "personal-data-complete-subtitle": "¡Tu registro está completo!",
+  "personal-data-complete-text": "Ahora ingresa y descubre la oferta que tenemos para ti.",
+  "home-provisional-user-name": "Hegel Gonzales",
+  "home-provisional-user-full-name": "Nick e. Fury",
+  "home-available-balance": "Saldo disponible",
+  "home-show-balance": "Mostrar saldo",
+  "home-hide-balance": "Ocultar saldo",
+  "home-credit-info-label": "Línea de crédito",
+  "home-transactions-link-label": "Ver movimientos",
+  "home-payments-title": "Pago del mes",
+  "home-payments-date-label": "Fecha:",
+  "home-cashback-title": "Cashback",
+  "home-cashback-link-label": "Beneficios",
+  "home-soon": "Próximamente",
+  "home-accumulated": "Acumulado",
+  "home-card-configuration-title": "Configura tu \ntarjeta",
+  "home-card-configuration-state-label": "Estado:",
+  "home-card-configuration-state-active": "Activa",
+  "home-card-configuration-virtual": "Virtual",
+  "home-title-session-expired": "Cierre por inactividad",
+  "home-text-session-expired": "Tu sesión se ha cerrado por superar el tiempo de inactividad",
+  "home-last-transaction-empty": "Aún no tienes movimientos en tu tarjeta",
+  "home-service-error": "Datos no disponibles.",
+  "home-tap-refresh": "Tap ",
+  "home-tap-refresh-label": "para recargar",
+  "credit-card-info-title": "Datos tarjeta",
+  "credit-card-consumed-label": "Consumido",
+  "credit-card-exp-label": "Exp.",
+  "credit-card-cvv-label": "CVV2",
+  "myProfile-title": "Mi Perfil",
+  "myProfile-document": "DNI:",
+  "myProfile-label-alias": "Apodo",
+  "myProfile-label-name": "Nombre",
+  "myProfile-label-email": "Correo ",
+  "myProfile-label-email-verify": "Correo por verificar ",
+  "myProfile-label-phone": "Celular",
+  "myProfile-label-address": "Dirección",
+  "myProfile-label-logout": "Cerrar sesión ",
+  "myProfile-label-verify": "Verificar",
+  "myProfile-label-edit": "Editar",
+  "myProfile-edit-data": "Editar",
+  "cancelAccount": {
+    "button": "Anular cuenta iO",
+    "subtitle-button": "¡Esta acción es irreversible!",
+    "header": "Anulación de cuenta",
+    "title": "¡Recuerda!",
+    "subtitle1": "Al anular tu cuenta perderás\nel acceso a los beneficios y a todos\nlos descuentos que te brinda",
+    "subtitle2": "Este procedimiento es irreversible, si deseas regresar tendrás que aprobar la evaluación nuevamente.",
+    "question-label": "¿Estás seguro que deseas continuar?",
+    "continue-button": "Si, continuar",
+    "survey": {
+      "title": "Ayúdanos a mejorar",
+      "subtitle": "Completando esta\npequeña encuesta",
+      "question": "¿Por qué motivo deseas cancelar tu cuenta iO?",
+      "option-1": "Tasas de interés elevadas",
+      "option-2": "Pocos beneficios y promociones",
+      "option-3": "Porcentaje de cashback muy bajo ante otras entidades",
+      "option-4": "Deja tu comentario",
+      "option-4-title": "Comentario",
+      "option-4-placeholder": "Ingresar comentario",
+      "continue-button": "Continuar",
+      "modal": {
+        "title": "¡Atención!",
+        "subtitle-1": "Estás a punto de terminar tu relación contractual con ",
+        "subtitle-2": "iO",
+        "text-title": "Bloquearemos tu tarjeta\n",
+        "text-subtitle": "Dejarás de acceder a tus beneficios y no podrás realizar más consumos",
+        "checkbox-info": "Estoy de acuerdo en bloquear mi tarjeta\nde crédito, para continuar con la anulación\nde mi cuenta iO",
+        "btnCancelAccount": "Anular mi cuenta"
+      }
+    },
+    "modal-positive-bal": {
+      "title": "¡Recuerda!",
+      "subtitle": "Que aún tienes pendiente, los siguientes puntos por resolver",
+      "title-card": "Tienes pendiente:",
+      "subtitle-card": "Saldo a favor en soles:",
+      "button": "Contactar un experto iO"
+    }
+  },
+  "home-services-errors": {
+    "title": "¡Lo sentimos!",
+    "subtitle": "Los datos no están disponibles.",
+    "message": "Por favor inténtalo nuevamente en unos minutos.",
+    "button": "Volver a intentarlo"
+  },
+  "cancelAccountComplete": {
+    "header": "Solicitud ingresada",
+    "title": "Hemos procesado de manera exitosa tu solicitud de anulación de cuenta ",
+    "subtitle": "En las próximas 24 horas recibirás un email de confirmación",
+    "first-section-title": "Datos de la solicitud de anulación",
+    "second-section-title": "Recuerda que tienes pendiente:",
+    "second-section-text-1": "Deuda pendiente de pago:",
+    "second-section-text-2": "Saldo a favor en soles:",
+    "second-section-text-3": "(Al día de hoy)",
+    "third-section-text-1": "Recuerda que luego de 30 días, a partir de la fecha en la que anulas tu cuenta ",
+    "third-section-text-2": ", perderás el acceso a la aplicación de forma definitiva",
+    "third-section-text-3": "Comunícate con un asesor para retirar tu saldo a favor.",
+    "continue-button": "Ir al inicio",
+    "payment-button": "Realizar pago de tarjeta",
+    "chat-button": "Chatear con un asesor"
+  },
+  "cancel-account-waiting": {
+    "waiting-title": "Espera un momento",
+    "waiting-subtitle-1": "Estamos procesando la anulación\nde tu cuenta ",
+    "waiting-subtitle-2": ", puede tomar\nunos minutos",
+    "errorTitle": "¡Lo sentimos!",
+    "errorSubtitle": "No hemos podido cancelar tu cuenta",
+    "errorDescription": "Por favor, verifica tu conexión a Internet y vuelve a intentarlo.",
+    "errorButtonLabel": "Volver al inicio"
+  },
+  "cardReissue": {
+    "modal": {
+      "title": "Hola {{name}}",
+      "message": "Tu tarjeta virtual ha sido bloqueada por motivos de seguridad\n\nA continuación vamos a generar tu nueva tarjeta virtual ",
+      "submit-button": "Generar tarjeta",
+      "cancel-button": "Cancelar"
+    },
+    "load": {
+      "generating-card-title": "Estamos generando tu nueva tarjeta de crédito iO",
+      "generating-card-subtitle": "Por favor espera un momento"
+    },
+    "error": {
+      "errorTitle": "¡Lo sentimos!",
+      "errorSubtitle": "No hemos podido generar tu nueva tarjeta",
+      "errorDescription": "Por favor, verifica tu conexión a Internet y vuelve a intentarlo.",
+      "errorButtonLabel": "Volver al login"
+    }
+  },
+  "alias-title": "Ingresa tu nuevo alias",
+  "alias-label": "Alias",
+  "alias-placeholder": "Ingresa tu alias",
+  "alias-label-submit": "Guardar",
+  "alias-error-message": "Este campo es obligatorio.",
+  "alias-error-invalid": "Alias inválido",
+  "email-title": "Ingresa tu correo electrónico actual",
+  "email-label": "Correo electrónico",
+  "email-placeholder": "correo@mail.com",
+  "email-feedback": "Ingresa tu correo actual %@",
+  "email-label-submit": "Continuar",
+  "email-error-message": "Este campo es obligatorio.",
+  "email-error-invalid": "Correo inválido",
+  "email-error-coincidence": "Este correo no coincide con tu correo actual.",
+  "email-error-duplicate": "Correo inválido, intenta con otro correo",
+  "new-email-title": "Ingresa tu nuevo correo electrónico",
+  "new-email-label": "Correo electrónico",
+  "new-email-placeholder": "correo@mail.com",
+  "new-email-repeat-label": "Repetir correo electrónico",
+  "new-email-label-submit": "Guardar",
+  "phone-title": "Ingresa tu número de celular actual",
+  "phone-head": "Ingresa tu nuevo\nnúmero de celular",
+  "phone-label": "Número de celular",
+  "phone-feedback": "Ingresa tu número de celular actual %@",
+  "phone-label-submit": "Continuar",
+  "phone-label-error": "El número celular está errado",
+  "phone-label-invalid": "El número de celular es incorrecto",
+  "phone-error-duplicate": "Número de celular inválido, intenta con otro número",
+  "phone-error-min-length": "El número de celular debe tener {{length}} dígitos.",
+  "new-phone-title": "Ingresa tu nuevo\nnúmero de celular",
+  "new-phone-label": "Número de celular",
+  "new-phone-label-submit": "Guardar",
+  "address-title": "Dirección",
+  "address-sub-title": "Domicilio",
+  "address-city-label": "Departamento",
+  "address-province-label": "Provincia",
+  "address-district-label": "Distrito",
+  "address-name-label": "Dirección",
+  "address-checkbox": "Declaro que la información presentada es real y está actualizada",
+  "address-label-submit": "Guardar",
+  "generic-error-title": "¡Ups!",
+  "generic-error-heading": "No hemos podido completar\ntu petición",
+  "generic-error-description": "Por favor, verifica tu conexión a Internet y vuelva a intentarlo.",
+  "manual-check": {
+    "title": "¡Lo sentimos!",
+    "document-message": "No pudimos validar tu DNI",
+    "liveness-message": "No pudimos validar tu identidad",
+    "feedback-1": "¡No te preocupes!",
+    "feedback-2": "Vamos a realizar\nuna doble verificación.",
+    "feedback-3": "Esto puede\ntomar algunas horas.",
+    "feedback-4": "¡Te contactaremos muy pronto!"
+  },
+  "forgotPassword": {
+    "getDocument": {
+      "title": "Restablecer tu contraseña",
+      "input-label": "Número de DNI",
+      "input-palceholder": "Ejemplo: 78930092",
+      "button-text": "Continuar"
+    },
+    "newPassword": {
+      "title": "Restablecer tu contraseña",
+      "title-bold": "contraseña",
+      "input-label": "Contraseña",
+      "input-placeholder": "Ingresa tu nueva contraseña",
+      "input-repeat-label": "Repetir contraseña",
+      "input-repeat-placeholder": "Escribe nuevamente tu contraseña",
+      "input-feedback": "No puedes repetir alguna de tus últimas 5 contraseñas",
+      "input-repeat-feedback": "Ambas contraseñas deben coincidir",
+      "button-text": "Continuar",
+      "validation-min-8": "Mínimo 8 caracteres",
+      "validation-uppercase": "Al menos 1 letra mayúscula y minúscula",
+      "validation-number": "Al menos 1 número",
+      "validation-special-chars": "Al menos 1 caracter especial (Ejm: $,#,%,@,etc.)"
+    },
+    "error": {
+      "previous-password": "No puedes repetir alguna de tus últimas 5 contraseñas"
+    }
+  },
+  "verifyOTP": {
+    "title": "Verificación",
+    "otp-message-sms": "Ingresa el código de verificación enviado al ",
+    "otp-message-email": "Hemos enviado un código al correo registrado ",
+    "button-await-text": "Reenviar código ",
+    "button-await-en-text": "en ",
+    "button-end-min-text": "{{time}} min.",
+    "button-end-seg-text": "{{time}} seg.",
+    "button-resend-text": "Reenviar código",
+    "resend-error-code_1": "Superaste el límite de códigos",
+    "resend-error-code_2": "Inténtelo de nuevo más tarde",
+    "resend-success-code_1": "Se envió nuevamente el código",
+    "resend-success-code_2": "para verificar tu número de celular",
+    "feedback-error": "¿No recibiste el código?",
+    "problems-recovering-password": "¿Tienes problemas para recuperar tu contraseña?",
+    "matrix-email": "Escríbenos a contacto@io.pe",
+    "get-otp-error-title": "Se ha presentado un error",
+    "get-otp-error-message": "La verificación del correo no está disponible, por favor inténtalo más tarde.",
+    "otp-message": "Hemos enviado un código al {{destination}} registrado",
+    "update-phone-success-sms_1": "Actualización exitosa",
+    "update-phone-success-sms_2": "Tu número de celular ha sido actualizado",
+    "update-email-success-sms_1": "Actualización exitosa",
+    "update-email-success-sms_2": "Tu correo electrónico ha sido actualizado",
+    "update-data-in-progress-msg-1": "Actualización en curso",
+    "update-data-in-progress-msg-2": "Los datos se actualizarán en unos segundos",
+    "feedback-error-update-email-phone": "¿No recibiste el código?",
+    "otp-error-expired": "El código ha caducado",
+    "otp-error-incorrect": "El código ingresado es incorrecto"
+  },
+  "network-error-title": "Error de\nconexión",
+  "network-error-description": "Parece que hay problemas con la\nconexión a internet",
+  "network-error-button-text": "Verificar conexión",
+  "yes": "Si",
+  "no": "No",
+  "notification": {
+    "title": "Notificaciones",
+    "title-detail": "Detalle de notificación",
+    "seeMore": "Ver más",
+    "emptyNotifications": "Aún no tienes mensajes",
+    "notificationsMessageDeleted": "El mensaje fue eliminado.",
+    "confirmNotificationModal": {
+      "delete-notification": "Eliminar mensaje",
+      "confirm-question": "¿Estás seguro que deseas eliminar el mensaje?",
+      "yes": "Si",
+      "no": "No"
+    },
+    "permissions": {
+      "title": "Permitir notificaciones",
+      "message": "Por favor activa las notificaciones para tener un mayor control de tus transacciones"
+    }
+  },
+  "understood": "Entendido",
+  "request-card": {
+    "introductionRequest": {
+      "title": "¡Pide ahora\ntu tarjeta física!",
+      "description": "Duplica tus beneficios y descuentos con\nla tarjeta física. Úsala para pagar en\nestablecimientos y terminales POS",
+      "continue": "Solicitar tarjeta física",
+      "cancel": "No, por ahora"
+    },
+    "locationForm": {
+      "title": "Solicitud de tarjeta física",
+      "description": "Completa los siguientes pasos para solicitar tu tarjeta de crédito física.",
+      "subtitle": "Información de entrega",
+      "department-label": "Departamento",
+      "province-label": "Provincia",
+      "district-label": "Distrito",
+      "address-label": "Dirección",
+      "reference-label": "Referencia",
+      "department-placeholder": "Selecciona departamento",
+      "province-placeholder": "Selecciona provincia",
+      "district-placeholder": "Selecciona distrito",
+      "address-placeholder": "Ejemplo: Av. Javier Prado 123",
+      "reference-placeholder": "Colegio, Edificio, Parque, Iglesia, etc.",
+      "submit": "Continuar"
+    },
+    "dateForm": {
+      "title": "Solicitud de tarjeta física",
+      "description": "Completa los siguientes pasos para solicitar tu tarjeta de crédito física.",
+      "subtitle": "Programación de entrega",
+      "dateLabel": "Fecha de entrega",
+      "hourLabel": "Horario de entrega",
+      "submit": "Continuar",
+      "modalSubmit": "Confirmar",
+      "cancelSubmit": "Cancelar",
+      "titleSubmit": "Seleccionar fecha",
+      "selectHour": "Seleccionar horario"
+    },
+    "schedule": {
+      "message": "Completa los siguientes pasos para solicitar tu tarjeta de crédito física.",
+      "title": "Programación de entrega",
+      "title-editing": "Editar programación de entrega",
+      "scheduleTitle": "Selecciona la fecha de entrega",
+      "inningTitle": "Selecciona el horario de entrega",
+      "weekTitle": "Semana de",
+      "inningLabel": "Rango de horarios establecidos",
+      "inningMorningLabel": "Mañana",
+      "inningAfternoonLabel": "Tarde",
+      "submit": "Continuar"
+    },
+    "userForm": {
+      "title": "Solicitud de tarjeta física",
+      "description": "Verifica que todos los datos son correctos",
+      "subtitle": "Confirmación de datos",
+      "contactLabel": "Contacto asignado",
+      "addressLabel": "Dirección de entrega:",
+      "scheduleLabel": "Fecha y hora de entrega",
+      "edit": "Editar",
+      "submit": "Confirmar y continuar",
+      "cancel": "Cancelar",
+      "submitModal": "Guardar"
+    },
+    "phoneForm": {
+      "title": "Editar número telefónico",
+      "label": "Número telefónico",
+      "placeholder": "Ingresar número"
+    },
+    "addressForm": {
+      "title": "Editar dirección de\nentrega",
+      "provinceLabel": "Provincia",
+      "provincePlaceholder": "Elige la provincia de entrega...",
+      "districtLabel": "Distrito",
+      "disctrictplaceholder": "Elige el distrito de entrega...",
+      "addressLabel": "Dirección",
+      "addressPlaceholder": "Ejemplo: Av. Javier Prado 123",
+      "referenceLabel": "Referencia",
+      "referencePlaceholder": "Colegio, Edificio, Parque, Iglesia, etc."
+    },
+    "sumary": {
+      "title": "¡Genial!",
+      "description": "Tu solicitud de tarjeta física\nha sido procesada con éxito",
+      "subTitleUserData": "Información de entrega",
+      "subTitleSchedule": "Fecha y hora de entrega",
+      "sendEmail": "Te hemos enviado una constancia de tu solicitud al correo:",
+      "submit": "Terminar"
+    },
+    "error": {
+      "zone-title-error": "Dirección fuera de\ncobertura",
+      "zone-message-error": "Para coordinar la recepción\nde tu tarjeta comunícate con atención al usuario llamando al (01) 644 1010 o por nuestro chat de ayuda",
+      "inning-title-error": "Fecha y hora no disponibles",
+      "inning-message-error": "Por favor selecciona una nueva hora y fecha para la entrega de tu tarjeta de crédito ",
+      "chat-modal-button": "Activar chat",
+      "close-modal-button": "Terminar",
+      "warning-schedule-toast": "Horario no disponible",
+      "warning-schedule-message-toast": "Entregas de tarjeta de lunes a sábado",
+      "schedule-unavailable-title": "¡Lo sentimos!",
+      "schedule-unavailable-subtitle": "La fecha que seleccionaste\nya no está disponible",
+      "schedule-unavailable-description": "Por favor selecciona una nueva fecha y hora para la entrega de tu tarjeta física",
+      "schedule-unavailable-button": "Elegir nueva fecha",
+      "process-error-title": "¡Lo sentimos!",
+      "process-error-subtitle": "No pudimos procesar la\nsolicitud de tu tarjeta física",
+      "process-error-description": "No eres tú, somos nosotros, estamos\ntrabajando para solucionar el\ninconveniente.",
+      "process-error-button": "Intentar de nuevo"
+    }
+  },
+  "order-status": {
+    "summary": {
+      "title": "¡Tu tarjeta está en camino!",
+      "description": "Si tienes alguna duda o necesitas ayuda, escríbenos a nuestro chat de soporte.",
+      "infoButton": "Ver información de entrega",
+      "submit": "Activar tarjeta física",
+      "modalTitle": "Información de entrega",
+      "modalSubmit": "Entendido",
+      "afternoonInningText": "2:00 p.m. hasta las 6:00 p.m.",
+      "morningInningText": "9:00 a.m. hasta las 1:00 p.m.",
+      "uniqueInningText": "9:00 a.m. hasta las 6:00 p.m."
+    }
+  },
+  "card-info": {
+    "title": "Tarjeta física iO",
+    "description-1": "Tu tarjeta de crédito física\nse encuentra ",
+    "message-active": "Recuerda que puedes desactivarla\ntemporalmente, desde el menú\nconfiguración de tarjeta",
+    "message-inactive": "Recuerda que puedes activarla nuevamente\ndesde el menú configuración de tarjeta",
+    "message-pending-1": "Para",
+    "message-pending-bold": " activarla ",
+    "message-pending-2": "debes realizar\nel cambio de PIN de tu tarjeta física",
+    "active": "Activada",
+    "inactive": "Desactivada",
+    "pending": "Activación pendiente",
+    "pending-activate": "pendiente de activar",
+    "change-pin": {
+      "button-text": "Cambiar PIN de tarjeta física",
+      "button-detail": "Requerido en compras presenciales",
+      "forgot-pin-button": "¿Olvidaste tu PIN?"
+    }
+  },
+  "activate-card": {
+    "title": "Código de activación",
+    "description": "Para activar tu tarjeta física, ingresa los dígitos que viene en el sobre de la tarjeta",
+    "inputError": "*El código ingresado es incorrecto",
+    "submit": "Continuar"
+  },
+  "activate-card-response": {
+    "title": "¡Muy bien!",
+    "subTitle": "¡Solo un paso más!",
+    "message-bold": "Por seguridad debes cambiar\nel código PIN de tu tarjeta, ",
+    "message": "el cual se\nencuentra al interior del sobre de bienvenida",
+    "submit": "Cambiar PIN",
+    "errorTitle": "¡Lo sentimos!",
+    "errorSubtitle": "No hemos podido activar tu\ntarjeta en este momento",
+    "errorDescription": "Por favor, verifica tu conexión\na Internet y vuelva a intentarlo.",
+    "errorButtonLabel": "Reintentar",
+    "change-pin-disabled": {
+      "subTitle": "¡Tu tarjeta física ya está activa!",
+      "message": "Ahora podrás hacer consumos en cualquier punto de venta físico",
+      "submit": "Entendido"
+    }
+  },
+  "transactions": {
+    "title": "Movimientos",
+    "cashback-label": "Cashback",
+    "cashback-moneyType": "+S/ {{amount}}",
+    "amount-moneyType": "S/ {{amount}}",
+    "installment-label": "#Cuotas: ",
+    "card-label": "Tarjeta Crédito: {{card}}",
+    "cashback-payment-label": "Cashback Acumulado",
+    "method-label": "Compra: {{method}}",
+    "label-empty": "No se han registrado \nmovimientos en este mes",
+    "filter-label": "Filtro",
+    "purchase-virtual": "Virtual",
+    "purchase-face-to-face": "Presencial",
+    "reached-end-message": "Últimos movimientos para mostrar",
+    "types": {
+      "virtual": "Compra Virtual",
+      "payment": "Pago de tarjeta",
+      "physical": "Compra Presencial"
+    }
+  },
+  "transactions-detail": {
+    "title-purchase": "Detalle de consumo",
+    "title-extorn": "Detalle de extorno",
+    "title-purchase-failed": "Detalle de rechazo",
+    "title-movement": "Detalle de movimiento",
+    "amount": "S/ {{amount}}",
+    "card-label": "Número de tarjeta:",
+    "payment-method": "Medio de pago",
+    "dateProcess-label": "Fecha de proceso",
+    "dateBuy-label": "Fecha de consumo",
+    "hour-label": "Hora de consumo",
+    "cuotes-label": "Cuotas",
+    "cuoteValue-label": "Valor de cuota",
+    "cashback-label": "Cashback",
+    "dateReturnProcess-label": "Fecha de extorno",
+    "hourReturn-label": "Hora de extorno",
+    "return": "Extorno",
+    "return-label": "Procede de:"
+  },
+  "accountStatus": {
+    "header-title": "Pago de tarjeta",
+    "available-balance": "Saldo disponible",
+    "current-consumption": "Consumo de línea de crédito",
+    "total-consumption": "Consumo total",
+    "payment-month": "Pago del mes\nde ",
+    "billing-cycle": "Ciclo de facturación:",
+    "to-the": " al ",
+    "payment-mouth": "Pago del mes\nde",
+    "last-day-for-payment": "Último día de pago",
+    "billing-closure": "Cierre de facturación:",
+    "view-account-status": "Ver estados\nde cuenta",
+    "payment-for-the-month": "Pago total del mes",
+    "minimum-payment": "Pago mínimo",
+    "current-consummation": "Consumo actual",
+    "no-attentions": "Aún no se han facturado tus consumos del mes",
+    "continue-with-payment": "Continuar con el pago",
+    "select-money-payment": "Selecciona la moneda a pagar:",
+    "without-consumption": "Estás al día con tus pagos del mes.",
+    "not-consumed-this-money": "Actualmente tus consumos en dólares se muestran en soles"
+  },
+  "paymentMethod": {
+    "title": "Añadir Tarjeta",
+    "add-payment-method": "Añadir",
+    "adding-payment-method": {
+      "title": "Agregando\nmétodo de pago",
+      "subtitle": "Verifica que la tarjeta de débito\nesté activa para operaciones\npor internet"
+    },
+    "enterNumberCard": "Número de la tarjeta",
+    "placeholderNumberCard": "0000 - 0000 - 0000 - 0000",
+    "enterExpired": "Vence",
+    "placeholderExpired": "mm/yyyy",
+    "enterCVV": "CVV2",
+    "placeholderCVV": "Ejm. 132",
+    "enterHolderName": "Titular de la tarjeta",
+    "placeholderHolderName": "Ingresar nombre",
+    "enterEmail": "Correo electrónico",
+    "placeholderEmail": "Ingresar correo",
+    "errorMessage": "Datos invalidos",
+    "form": {
+      "cardNumberValidateError": "El número de la tarjeta es requerido",
+      "emailRequiredValidateError": "El correo electrónico es requerido",
+      "cardDateValidateError": "Tarjeta vencida",
+      "enterCardDate": "Fecha de expiración incorrecta",
+      "enterCardDateRequired": "La fecha de expiración es requerido",
+      "enterCVV2Code": "Por favor ingrese su código CVV2",
+      "invalidCVV2": "El CVV2 ingresado no es válido",
+      "invalidEmail": "Elcorreo electrónico ingresado no es válido"
+    },
+    "errorsCard": {
+      "typeCardError": "Tipo de tarjeta desconocido",
+      "emptyCardNumber": "No se proporcionó número de tarjeta",
+      "invalidCardNumber": "Número de tarjeta inválido",
+      "invalidCardNumberCreditCard": "El número de la tarjeta de crédito es inválido",
+      "invalidLength": "El número de la tarjeta de crédito tiene una cantidad de dígitos inapropiada",
+      "fraud": "¡Advertencia! Este número de tarjeta de crédito está asociado con un intento de estafa"
+    }
+  },
+  "cardPayment": {
+    "title": "Paga tu tarjeta",
+    "payment_method": "Elige tu método de pago:",
+    "add-credit-card": "Añade aquí tu método de pago",
+    "add-credit-card-error": "No se pudo añadir tarjeta",
+    "select-payment-method": "Elige monto a pagar:",
+    "total-payment-month": "Pago total del mes",
+    "min-payment": "Pago mínimo",
+    "other-amount": "Otro monto",
+    "make-payment": "Realizar pago",
+    "card-adding": "Agregando tarjeta",
+    "title-delete": "Eliminar método de pago",
+    "message-delete": "¿Estás seguro de que deseas eliminar este método de pago?",
+    "yes": "Sí, eliminar",
+    "no": "Cancelar",
+    "method-deleted": "Se eliminó este método de pago",
+    "method-deleted-error": "Hubo un error al eliminar la tarjeta",
+    "remember-minimum-amount-pay": "El monto mínimo para poder procesar tu pago es de S/ 1.00.",
+    "guide-error-amount-pay": "El monto mínimo para procesar tu pago es de S/1.00, continua con la operación desde la sección 'Otro monto'",
+    "go-home": "Ir al inicio",
+    "card-add": "Añadir",
+    "modal-error-confirm": "Entiendo",
+    "screen-error-title": "¡Lo sentimos!",
+    "screen-error-title-attention": "Atención!",
+    "screen-error-title-stolen_card": "Tarjeta robada",
+    "screen-error-title-invalid_cvv": "CVV Inválido",
+    "screen-error-title-too_many_attempts_cvv": "Límite de intentos permitidos",
+    "screen-error-title-invalid_card": "Tarjeta inválida",
+    "screen-error-title-processing_error": "Error de procesamiento",
+    "screen-error-title-gateway_timeout": "Error inesperado",
+    "screen-error-title-card_already_registered": "Esta tarjeta ya está registrada",
+    "screen-error-title-soft_block": "La tarjeta ha sido bloqueada",
+    "screen-error-title-DNGE0030": "Tarjeta perdida",
+    "screen-error-title-DNGE0031": "Tarjeta robada",
+    "screen-error-subtitle": "Algo salió mal al intentar\nagregar tu tarjeta",
+    "screen-error-subtitle-generic": "Hay un problema",
+    "screen-error-subtitle-stolen_card": "La tarjeta fue bloqueada y reportada al banco emisor como una tarjeta robada.",
+    "screen-error-subtitle-invalid_cvv": "El código de seguridad (CVV, CVC2, CID) de la tarjeta es inválido.",
+    "screen-error-subtitle-too_many_attempts_cvv": "Intentaste demasiadas veces ingresar el código de seguridad (CVV2, CVC2, CID).",
+    "screen-error-subtitle-invalid_card": "La tarjeta utilizada tiene restricciones, contacta al banco emisor.",
+    "screen-error-subtitle-processing_error": "Ocurrió un error durante la transacción. Por favor contáctanos para brindarte soporte.",
+    "screen-error-subtitle-gateway_timeout": "No eres tú, somos nosotros, estamos trabajando para solucionar el inconveniente.",
+    "screen-error-subtitle-card_already_registered": "Podrás encontrarla en las tarjetas añadidas de métodos de pago.",
+    "screen-error-subtitle-soft_block": "La tarjeta que estás usando como medio de pago ha sido bloqueada temporalmente por superar el límite de intentos. \n\nIntenta nuevamente con otra tarjeta.",
+    "screen-error-subtitle-DNGE0030": "La tarjeta fue bloqueada y reportada al banco emisor como una tarjeta perdida.",
+    "screen-error-subtitle-DNGE0031": "La tarjeta fue bloqueada y reportada al banco emisor como una tarjeta robada.",
+    "try-again": "Intentar de nuevo",
+    "to-back": "Regresar",
+    "go-start": "Ir al inicio",
+    "card-block": "Tarjeta de pago bloqueada",
+    "modal-error-title": "Operacion denegada",
+    "invalid-card-type": "Solo puede agregar tarjetas débito",
+    "added-payment-method-success-description": "El cobro de la transacción será realizado en soles. Si la cuenta asociada a tu tarjeta débito es en dólares, entonces se utilizará el tipo de cambio del banco de tu tarjeta",
+    "payment-info-title": "Acerca de la transacción",
+    "payment-info-body": "El pago será realizado en Soles. Si la cuenta asociada a tu tarjeta débito es en Dólares, entonces se aplicará el tipo de cambio del banco de tu tarjeta",
+    "understood": "Entendido",
+    "modal-same-currency": {
+      "title": "Información sobre los pagos de tarjeta",
+      "description-1": "El banco emisor de la tarjeta de débito es el que define el tipo de cambio de dólares a soles que se utilizará para pagar tu tarjeta iO.",
+      "description-2": "Si la tarjeta de débito tiene más de una cuenta (ahorros, cuenta corriente, CTS, etc.) el banco emisor de esta tomará el dinero de la cuenta principal para pagar tu tarjeta iO.",
+      "description-3": "Si la cuenta principal no tiene fondos suficientes el pago no procederá, incluso si cuentas con fondos en las cuentas secundarias."
+    },
+    "added-payment-method-success-title": "Tarjeta de débito agregada con éxito",
+    "screen-error": {
+      "METODOS_DE_PAGOS": {
+        "international_card": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta inválida",
+          "description": "Por el momento no se pueden realizar pagos con una tarjeta de débito de banco internacional. Por favor, utiliza otra tarjeta."
+        },
+        "issuer_decline_operation": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "No se pudo añadir esta tarjeta",
+          "description": "Por favor, contacta al banco emisor para conocer el motivo o intenta utilizar otra tarjeta."
+        },
+        "fraudulent_issuer": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "No se pudo añadir esta tarjeta",
+          "description": "Por favor, contacta al banco emisor para conocer el motivo o intenta utilizar otra tarjeta."
+        },
+        "fraudulent": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Operación denegada",
+          "description": "La operación fue rechazada por prevención de fraude. Por favor, utiliza otra tarjeta."
+        },
+        "incorrect_cvv": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "CVV Inválido",
+          "description": "Asegúrate de haber ingresado correctamente el código CVV, ya sea el dinámico o el que se encuentra al reverso de la tarjeta."
+        },
+        "insufficient_funds": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Fondos insuficientes",
+          "description": "La tarjeta de débito no tiene fondos suficientes para ser utilizada como método de pago. Por favor, utiliza otra tarjeta."
+        },
+        "contact_issuer": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "No se pudo añadir esta tarjeta",
+          "description": "Por favor, contacta al banco emisor para conocer el motivo o intenta utilizar otra tarjeta."
+        },
+        "error_processing": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Error de procesamiento",
+          "description": "La operación no se procesó correctamente. Por favor, vuelve a intentarlo o utiliza otra tarjeta."
+        },
+        "issuer_not_available": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Banco emisor no disponible",
+          "description": "La tarjeta a utilizar no se pudo añadir como método de pago ya que el banco emisor no responde. Por favor, vuelve a inténtalo en unos minutos o utiliza otra tarjeta."
+        },
+        "expired_card": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta vencida",
+          "description": "La tarjeta a utilizar está vencida o la fecha ingresada es incorrecta. Verifica el dato y vuelve a intentarlo o utiliza otra tarjeta."
+        },
+        "lost_card": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta perdida",
+          "description": "La tarjeta a utilizar fue bloqueada y reportada al banco emisor como una tarjeta perdida. Por favor, utiliza otra tarjeta."
+        },
+        "debit_card_only": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta inválida",
+          "description": "Solo puedes añadir tarjetas de débito. Por favor, inténtalo nuevamente con otra tarjeta."
+        },
+        "internet_not_available": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Operación denegada",
+          "description": "Verifica que la tarjeta de débito a utilizar esté activa para operaciones por internet e inténtalo nuevamente.\n\nSi el error persiste contacta al banco emisor para saber el motivo."
+        },
+        "invalid_card": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta inválida",
+          "description": "La tarjeta utilizada tiene restricciones, contacta al banco emisor."
+        },
+        "invalid_cvv": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "CVV Inválido",
+          "description": "El código de seguridad (CVV, CVC2, CID) de la tarjeta es inválido."
+        },
+        "too_many_attempts_cvv": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Límite de intentos permitidos",
+          "description": "Intentaste demasiadas veces ingresar el código de seguridad (CVV2, CVC2, CID)."
+        },
+        "card_already_registered": {
+          "type": "warning",
+          "title": "¡Atención!",
+          "subtitle": "Esta tarjeta ya está registrada",
+          "description": "Podrás encontrarla en las tarjetas añadidas de métodos de pago."
+        },
+        "processing_error": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Error de procesamiento",
+          "description": "Ocurrió un error durante la transacción. Por favor contáctanos para brindarte soporte."
+        },
+        "soft_block": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "La tarjeta ha sido bloqueada",
+          "description": "La tarjeta que estás usando como medio de pago ha sido bloqueada temporalmente por superar el límite de intentos. \n\nIntenta nuevamente con otra tarjeta."
+        },
+        "stolen_card": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta robada",
+          "description": "La tarjeta fue bloqueada y reportada al banco emisor como una tarjeta robada."
+        },
+        "gateway_timeout": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Error inesperado",
+          "description": "No eres tú, somos nosotros, estamos trabajando para solucionar el inconveniente."
+        },
+        "DNGE0031": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta robada",
+          "description": "La tarjeta fue bloqueada y reportada al banco emisor como una tarjeta robada."
+        },
+        "DNGE0030": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta robada",
+          "description": "La tarjeta fue bloqueada y reportada al banco emisor como una tarjeta perdida."
+        },
+        "general_error": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Operación denegada",
+          "description": "No se pudo añadir el método de pago. Por favor, inténtalo nuevamente más tarde."
+        }
+      },
+      "PAGOS": {
+        "payment_insufficient_funds": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Fondos insuficientes",
+          "description": "La tarjeta de débito no tiene fondos suficientes para realizar el pago. Por favor, utiliza otra tarjeta."
+        },
+        "payment_fraudulent_issuer": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "No se pudo realizar el pago",
+          "description": "Por favor, contacta al banco emisor para conocer el motivo o intenta  utilizar otra tarjeta."
+        },
+        "payment_internet_not_available": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Transacción denegada",
+          "description": "Verifica que la tarjeta de débito utilizada esté activa para operaciones por internet e inténtalo nuevamente.\n\nSi el error persiste contacta al banco emisor para saber el motivo."
+        },
+        "payment_attemps_exceed": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "La tarjeta ha sido bloqueada",
+          "description": "La tarjeta que estás usando como método de pago ha sido bloqueada temporalmente por superar el límite de intentos.\n\nPor favor intenta nuevamente con otra tarjeta."
+        },
+        "payment_fraudulent": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Operación denegada",
+          "description": "El pago fue rechazado por prevención de fraude. Por favor, utiliza otra tarjeta."
+        },
+        "payment_issuer_not_available": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "No se pudo realizar el pago",
+          "description": "El banco emisor de la tarjeta no responde. Por favor, inténtalo nuevamente en unos minutos o utiliza otra tarjeta."
+        },
+        "payment_transaction_limit": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Límite de transacciones superado",
+          "description": "Superaste el límite de transacciones diarias permitidas de tu tarjeta de débito.\nContacta al banco emisor para cambiar el límite o utiliza otra tarjeta."
+        },
+        "payment_contact_issuer": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "No se pudo realizar el pago",
+          "description": "Contacta al banco emisor para saber el motivo. Por favor, utiliza otra tarjeta."
+        },
+        "payment_error_processing": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Error de procesamiento",
+          "description": "El pago no se procesó correctamente. Por favor, vuelve a intentarlo o utiliza otra tarjeta."
+        },
+        "payment_issuer_decline_operation": {
+          "type": "error",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Operación restringida",
+          "description": "Por favor, contacta al banco emisor para conocer el motivo o intenta utilizar otra tarjeta."
+        },
+        "payment_expired_card": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Tarjeta vencida",
+          "description": "La tarjeta utilizada está vencida. Por favor utiliza otra tarjeta."
+        },
+        "payment_general_error": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Operación denegada",
+          "description": "No se pudo realizar el pago.\nPor favor, inténtalo nuevamente más tarde o utiliza otra tarjeta."
+        },
+        "payment_failed": {
+          "type": "warning",
+          "title": "¡Lo sentimos!",
+          "subtitle": "Error inesperado",
+          "description": "No eres tú, somos nosotros, estamos trabajando para solucionar el inconveniente."
+        }
+      }
+    }
+  },
+  "paymentLoading": {
+    "validating": {
+      "title": "Estamos validando\ntu solicitud",
+      "description": "Este proceso puede tomar\nalgunos segundos"
+    },
+    "applying": {
+      "title": "Estamos aplicando\ntu pago",
+      "description": "Gracias por tu paciencia,\nsolo un momento más"
+    },
+    "completing": {
+      "title": "Estamos completando\nla transacción",
+      "description": "¡Casi hemos terminado!\nEstamos a punto de finalizar"
+    }
+  },
+  "paymentSuccess": {
+    "title": "Felicidades,",
+    "sub-title": "Tu pago está siendo procesado",
+    "box-tittle": "Datos de la operación",
+    "card-expiration": "Expira ",
+    "email-sent": "Te notificaremos a tu correo una vez el pago haya sido completado, podrás verlo reflejado en movimientos en los",
+    "email-sent-blue": "próximos minutos.",
+    "operation-code": "Código de operación:",
+    "delay-information-info": "La actualización de tu pago se verá reflejada en los ",
+    "next-few-minutes": "próximos minutos."
+  },
+  "sdk-zendesk": {
+    "start": {
+      "title": "Bienvenido al chat\nde ayuda en línea",
+      "sub-title": "Activa el chat, escribe tu consulta y quédate en línea para responder tu solicitud",
+      "button": "Activar chat"
+    },
+    "finish": {
+      "title": "Chat de ayuda\nfinalizada",
+      "sub-title": "Tu conversación ha sido cerrada.\nPara iniciar una nueva conversación por favor presiona “Activar chat”",
+      "button": "Activar chat"
+    }
+  },
+  "mistery-box": {
+    "close": "Entendido",
+    "surprise": "Ganaste un regalo en\n",
+    "message-your-gift": "Tu regalo incluye:",
+    "message-email": "Te enviaremos un correo con mayor información sobre el uso y las condiciones de tu beneficio.",
+    "message-connector-in": "en"
+  },
+  "biometric-modal": {
+    "title": "Ingresa más rápido a tu cuenta",
+    "cancel": "Cancelar",
+    "faceId": {
+      "message": "Habilitando el Face ID podrás entrar con un solo toque.",
+      "submit": "Habilitar Face ID"
+    },
+    "touchId": {
+      "message": "Habilitando el Touch ID podrás entrar con un solo toque.",
+      "submit": "Habilitar Touch ID"
+    }
+  },
+  "biometric-alert": {
+    "faceId": {
+      "title": "Deseas permitir a “Matrix” usar Face ID?",
+      "message": "Usa Face ID para ingresar rápido y  seguro a Matrix"
+    },
+    "touchId": {
+      "title": "Deseas permitir a “Matrix” usar Touch ID?",
+      "message": "Usa Touch ID para ingresar rápido y  seguro a Matrix"
+    },
+    "submit": "Permitir",
+    "cancel": "No Permitir"
+  },
+  "biometric-ok": {
+    "face-id": {
+      "title": "Face ID",
+      "message": "Desde ahora podrás ingresar a Matrix usando tu rostro"
+    },
+    "touch-id": {
+      "title": "Touch ID",
+      "message": "Desde ahora podrás ingresar a Matrix usando tu huella digital"
+    },
+    "subTitle": " habilitado",
+    "feedback": "Recuerda que puedes deshabilitar esta esta opción en cualquier momento",
+    "submit": "Ir al inicio"
+  },
+  "biometric-failed": {
+    "face-id": {
+      "message": "No pudimos configurar el Face ID, por favor vuelve a intentarlo más tarde."
+    },
+    "touch-id": {
+      "message": "No pudimos configurar el Touch ID, por favor vuelve a intentarlo más tarde."
+    },
+    "title": "¡Ups!",
+    "submit": "Ir al inicio"
+  },
+  "wallet-flow": {
+    "continue": "Continuar",
+    "pay-with-io-title-ios": "Afíliate y paga con iO usando tu celular",
+    "pay-with-io-info-first": "Paga fácil sin contacto y de forma segura con tu iPhone usando Apple Pay.",
+    "pay-with-io-info-second": "Al afiliarte, no olvides configurar tu tarjeta iOs como",
+    "pay-with-io-predetermined": "predeterminada",
+    "pay-with-io-title-android": "Puedes pagar con iO usando tu celular",
+    "pay-with-io-subtitle-android": "Paga fácil sin contacto y de forma segura con tu celular usando NFC.",
+    "pay-with-io-info": "También puedes afiliar la tarjeta después en ",
+    "pay-with-io-configuration": "Configura tu tarjeta",
+    "pay-with-io-button-label": "Afíliate ahora",
+    "pay-with-io-button-label-ios": "Afíliate a ",
+    "pay": " Pay",
+    "pay-with-nfc": "Pago con NFC",
+    "pay-with_nfc_tyc_title": "Términos y condiciones del uso de la tarjeta",
+    "pay-with_nfc_tyc": "La protección de tus datos personales es de gran importancia para iO, por lo que iO toma todas las precauciones razonables para garantizar que sus datos personales se procesen de forma segura.",
+    "pay-with-nfc-continue": "Continuar",
+    "pay-with-nfc-accept": "Acepto los ",
+    "pay-with-nfc-accept-tyc": "Términos y condiciones del uso de la tarjeta",
+    "pay-with-io-message": "Agrega tu tarjeta a Pago con NFC",
+    "affiliate": "Afiliado",
+    "end": "Terminar",
+    "understood": "Entendido",
+    "card-io": "Tarjeta iO ",
+    "set-up": "Configurar",
+    "applePay": {
+      "label": "Apple Pay",
+      "affiliate": {
+        "card": "Tarjeta afiliada a Apple Pay",
+        "unsubscribe-card": "Si deseas desafiliar tu tarjeta, debes hacerlo desde tu ",
+        "unsubscribe-wallet": "aplicación Wallet."
+      }
+    },
+    "nfc": {
+      "affiliate": {
+        "card": "Tarjeta afiliada a Pago con NFC",
+        "success": "Agregaste con éxito tu Tarjeta iO"
+      },
+      "activate": {
+        "title": "Activa tu NFC",
+        "message": "Al activarlo podrás realizar pagos acercando tu celular al POS"
+      },
+      "incompatible": {
+        "title": "Este dispositivo es incompatible",
+        "message": "Lo sentimos, no es posible afiliar la tarjeta porque tu equipo no cuenta con tecnología NFC"
+      }
+    }
+  },
+  "cardPaymentError": {
+    "ups": "¡Lo sentimos!",
+    "unexpected-error": "Error inesperado",
+    "its-not-you": "No eres tú, somos nosotros, estamos trabajando para solucionar el inconveniente.",
+    "try-again": "Intentar de nuevo",
+    "description-invalid-card": "Pago rechazado",
+    "detail-invalid-card": "No pudimos procesar el pago con la tarjeta inscrita.",
+    "description-general-error": "Hay un problema",
+    "detail-general-error": "No pudimos procesar el pago, por favor inténtalo más tarde.",
+    "go-start": "Ir al inicio",
+    "try-another-card": "Intentar con otra tarjeta"
+  },
+  "comingSoon": {
+    "text": "Vista próximamente disponible",
+    "title": " ¡Próximamente!",
+    "benefit-summary": "Estamos trabajando para brindarte beneficios increíbles con tu tarjeta",
+    "benefit-cashback-title": "Cashback",
+    "benefit-cashback-desc": "Te devolveremos un porcentaje del dinero utilizado en cada consumo, para que lo acumules y uses a tu gusto.",
+    "benefit-discount-title": "Descuentos",
+    "benefit-discount-desc": "Encontrarás descuentos de distintas categorías como restaurantes, viajes, hogar, bienestar y muchas más.",
+    "benefit-exclusive-title": "Exclusividad",
+    "benefit-exclusive-desc": "Tendrás acceso a ofertas y promociones especiales que solo estarán disponibles para nuestros clientes.",
+    "card-summary": "Con tu tarjeta de crédito física para realizar compras en puntos de venta presenciales en Perú y el mundo.",
+    "card-line-title": "100% en línea",
+    "card-line-desc": "Podrás solicitar y activar tu tarjeta física desde tu App en la comodidad de tu casa.",
+    "card-custom-title": "Entrega personalizada",
+    "card-custom-desc": "Podrás escoger el día, hora y lugar en el que recibirás tu tarjeta.",
+    "card-exclusive-title": "Exclusividad",
+    "card-exclusive-desc": "Úsala para comprar en restaurantes exclusivos, tiendas de ropa y disfrutar de las mejores vacaciones.",
+    "chat-summary_1": "Pronto podrás comunicarte con uno de nuestros expertos",
+    "chat-summary_2": "ante cualquier duda o sugerencia.",
+    "chat-efficient-title": "Atención eficiente",
+    "chat-efficient-desc_1": "Nuestros expertos",
+    "chat-efficient-desc_2": "estarán totalmente capacitados para resolver correctamente todas tus dudas y consultas.",
+    "chat-custom-title": "Atención personalizada",
+    "chat-custom-desc": "Para nosotros eres único y muy importante, por eso te ofreceremos la mejor y más rápida atención.",
+    "chat-available-title": "Disponibilidad inmediata",
+    "chat-available-desc_1": "Queremos estar cuando más nos necesites. Por eso, nuestros expertos",
+    "chat-available-desc_2": "te atenderán de forma inmediata a través de la App."
+  },
+  "app-settings": {
+    "title": "Configuraciones",
+    "card-title-biometry": "Configuración de Biometría",
+    "switch-item-title-biometry": "Touch / Face ID",
+    "switch-item-subtitle-biometry": "Configurado"
+  },
+  "email-not-verify": "Necesitas verificar tu correo",
+  "email-verified-message": "Se ha verificado tu correo con éxito",
+  "verify-email": {
+    "modal": {
+      "title": "Necesitas verificar tu correo para seguir usando la aplicación",
+      "label": "Verifica el siguiente correo:",
+      "submit-text": "Verificar ahora"
+    }
+  },
+  "accountStatements": {
+    "header-title": "Estados de cuenta",
+    "recent-account-statements": "Estados de cuenta recientes",
+    "select-month": "Selecciona el mes para visualizar",
+    "title-pdf": "Estados",
+    "error-load-pdf": "Ocurrió un error al mostrar el PDF, inténtalo nuevamente.",
+    "error-load-list-history-movements": "Ocurrió un error al cargar los estados de cuenta.",
+    "without-prior-account-statements": "Aún no tienes estados de cuenta."
+  },
+  "menu": {
+    "home": "Inicio",
+    "benefits": "Beneficios",
+    "card": "Tarjeta física",
+    "chat": "Chat"
+  },
+  "seed": {
+    "check-device": {
+      "title": "Dispositivo no asociado",
+      "message": "Es necesario asociar este\ndispositivo a tu cuenta iO.",
+      "submit-text": "Continuar",
+      "cancel-text": "Cancelar"
+    },
+    "liveness": {
+      "intro": {
+        "title-regular": "¡Para asociar este dispositivo es necesario validar tu identidad,",
+        "title-bold": "vamos a realizar un video!",
+        "message": "Asegúrate de ubicar tu celular a la altura de tus ojos. Si usas lentes o gorra, por favor, retíralos antes de continuar",
+        "start": "Iniciar"
+      },
+      "scan": {
+        "title-await": "Prepárate para grabar una video selfie",
+        "title-recording": "Grabando...",
+        "subtitle-recording": "Mantén tu mirada en la cámara por unos segundos",
+        "title-finished": "¡Grabación lista!",
+        "message-await": "Presiona el botón para empezar la grabación.",
+        "message-recording": "Mantén tu mirada en la cámara por unos segundos",
+        "message-finished": "¡Perfecto!"
+      },
+      "response": {
+        "title": "Dispositivo asociado correctamente",
+        "message": "Tu dispositivo [{{device}}]\nse ha asociado correctamente\na tu cuenta ",
+        "brand": "iO.",
+        "submit": "Ingresar"
+      }
+    }
+  },
+  "userBlocked": {
+    "login-modal": {
+      "title": "¡Hola, {{name}}!",
+      "message": "Tu cuenta ha sido bloqueada por motivos de seguridad. Validaremos tu identidad para reactivar tu cuenta",
+      "submit-text": "Si, continuar",
+      "cancel-text": "Cancelar"
+    },
+    "unblocekd-screen": {
+      "title": "¡Bienvenido de vuelta,",
+      "subtitle": "A continuación vamos a generar tu nueva tarjeta virtual iO",
+      "submit-text": "Generar tarjeta"
+    },
+    "error-modal": {
+      "title": "Validación no disponible",
+      "subtitle": "No pudimos validar tu identidad",
+      "submit-text": "Terminar"
+    }
+  },
+  "CardReplacement": {
+    "validation-success": {
+      "title": "¡Bienvenido de vuelta,",
+      "name": "Alejandro!",
+      "continue-message": "A continuación vamos a generar tu nueva tarjeta virtual ",
+      "button": "Generar tarjeta"
+    },
+    "validation-error": {
+      "title": "¡Lo sentimos!",
+      "subtitle": "No pudimos validar tu identidad",
+      "message": "Acércate a un lugar con mejor iluminación y vuelve a intentarlo",
+      "button": "Intentar de nuevo"
+    },
+    "loading-modal": {
+      "subtitle": "Estamos generando tu nueva tarjeta de crédito iO",
+      "message": "Por favor espera un momento"
+    },
+    "summary-offer": {
+      "congrats": "¡Felicidades!",
+      "subtitle": "Contarás con los mismos beneficios que tenías con tu anterior tarjeta de crédito ",
+      "benefits": "Beneficios",
+      "feedback-message": "Ten en cuenta que hemos actualizado tu número de tarjeta y CVV2, para tus pagos frecuentes.",
+      "go-home": "Ir al inicio"
+    }
+  },
+  "UserNotFoundError": {
+    "title": "¡Lo sentimos!",
+    "subtitle": "Se ha presentado un error inesperado",
+    "button": "Terminar"
+  },
+  "physical-card": {
+    "title": "Tarjeta física",
+    "first-slide-title": "¿Quieres una \ntarjeta física?",
+    "first-slide-text": "Solicita tu tarjeta física para realizar compras en puntos de venta de manera fácil y segura.",
+    "second-slide-title": "Diseñada pensando \nen tu seguridad",
+    "second-slide-text": "Tu tarjeta no incluye tu nombre, número de tarjeta o cualquier dato sensible.",
+    "third-slide-title": "Recíbela donde \ntu quieras",
+    "third-slide-text": "Puedes escoger qué día y en qué horario deseas recibir tu tarjeta física.",
+    "button": "Solicitar tarjeta física",
+    "order-status": {
+      "title": "¡Tu tarjeta está \nen camino!",
+      "title-info": "Información de entrega",
+      "title-schedule": "Fecha y hora de entrega",
+      "button": "Activar tarjeta",
+      "afternoonInningText": "2:00 p.m. hasta las 6:00 p.m.",
+      "morningInningText": "9:00 a.m. hasta las 1:00 p.m.",
+      "uniqueInningText": "9:00 a.m. hasta las 6:00 p.m."
+    },
+    "inactive-virtual-card-modal": {
+      "title": "Control Maestro\ndesactivado",
+      "subtitle": "Para continuar con la activación de tu\ntarjeta, debes tener activa esta opción"
+    }
+  },
+  "generic-error-load-pdf": "Ocurrió un error al mostrar el documento. Por favor inténtalo nuevamente",
+  "supports": {
+    "head": "Deseo ayuda para restablecer mi contraseña",
+    "label-email": "Correo electrónico",
+    "placeholder-email": "Ejemplo: correo@gmail.com",
+    "label-dni": "DNI",
+    "placeholder-dni": "Ingresar número de DNI",
+    "label-name": "Nombres",
+    "placeholder-name": "Ingresar nombres",
+    "label-last-name": "Apellidos",
+    "placeholder-last-name": "Ingresar apellidos",
+    "label-phone": "Celular",
+    "placeholder-phone": "000 000 000",
+    "policy-privacy": "Políticas de privacidad",
+    "button-send": "Enviar solicitud",
+    "tittle": "¡Enviado exitosamente!",
+    "header-text": "Tu solicitud ha sido recibida de forma exitosa",
+    "subheader-text": "Te contactaremos muy pronto a través de los datos de contacto entregados.",
+    "button-succeed": "Terminar",
+    "modal-title": "Ya estamos atendiendo esta solicitud",
+    "modal-sub-tittle": "Te contactaremos muy pronto cuando podamos brindarte la solución.",
+    "modal-button": "Entendido",
+    "errorMessage": "Dato invalido"
+  },
+  "i2cModalError": {
+    "title": "Datos no disponibles",
+    "description": "Por favor, vuelve \na intentarlo más tarde"
+  },
+  "change-email": {
+    "edit": {
+      "title": "Editar correo",
+      "subtitle": "Debes ingresar tu correo actual\nregistrado ",
+      "label": "Correo actual",
+      "placeholder": "Ingresa tu correo actual"
+    },
+    "new": {
+      "title": "Ingresa tu nuevo\ncorreo electrónico.",
+      "subtitle": "Te enviaremos un código de verificación al\ncorreo que ingreses",
+      "label": "Nuevo correo electrónico",
+      "label-repeat": "Repetir nuevo correo electrónico",
+      "placeholder": "Ingresar correo",
+      "placeholder-repeat": "Repetir correo"
+    }
+  },
+  "verifyPush": {
+    "error-toast-message": "Ha ocurrido un error, intenta de nuevo",
+    "notifications-modal": {
+      "title": "Activa las notificaciones",
+      "description": "Para continuar con el proceso de contratación debes activar las notificaciones de tu celular",
+      "confirm-button": "Ir a configuración",
+      "close-button": "Cerrar"
+    }
+  },
+  "verifyPushEdition": {
+    "error-toast-message": "Ha ocurrido un error, intenta de nuevo",
+    "notifications-modal": {
+      "title": "Activa las notificaciones",
+      "description": "Para continuar con la edición debes activar las notificaciones de tu celular",
+      "confirm-button": "Ir a configuración",
+      "close-button": "Cerrar"
+    }
+  },
+  "changeData": {
+    "email": {},
+    "phone": {},
+    "address": {
+      "title": "Editar dirección",
+      "subtitle": "Debes ingresar los datos de la nueva dirección a registrar",
+      "declaration": "Declaro que la información presentada es real y esta actualizada.",
+      "button-save": "Continuar"
+    },
+    "notAvailable": {
+      "button-finish": "Finalizar",
+      "title": "¡Lo sentimos!",
+      "subtitle": "Función no disponible",
+      "description": "No pudimos editar tu información,\npor favor inténtalo más tarde"
+    }
+  },
+  "fraudBlockModal": {
+    "title": "Tu tarjeta iO ha sido bloqueada temporalmente",
+    "first-message-init": "Por motivos de seguridad, hemos suspendido temporalmente el uso de tu tarjeta ",
+    "first-message-final": " debido a la detección de actividades sospechosas.",
+    "second-message": "Para desbloquearla por favor ponte en contacto con nosotros",
+    "first-button": "Llamar al call center",
+    "second-button": "Chatear con un experto iO"
+  },
+  "credit-card-home": {
+    "title-toast-not-available": "Datos de la tarjeta no disponibles",
+    "message-toast-card-off": "Reactiva tu tarjeta en el menú configuración",
+    "message-toast-card-error": "Vuelve a intentarlo más tarde"
+  },
+  "card-configuration-home": {
+    "physical-card": "Física",
+    "virtual-card": "Virtual"
+  },
+  "card-configuration": {
+    "physical-card": "Tarjeta Física",
+    "virtual-card": "Tarjeta Virtual",
+    "supplementary-card": {
+      "label": "Tarjeta física",
+      "helper": "Activación pendiente",
+      "message": "Para activar tu tarjeta física ",
+      "action-text": "cambia el PIN"
+    }
+  },
+  "session-error": {
+    "sessionExpired": {
+      "title": "Error",
+      "message": "Por favor vuelve a intentarlo nuevamente unos 5 minutos",
+      "submit": "Entendido"
+    },
+    "score": {
+      "title": "Error de conexión",
+      "message": "Intenta cambiando de red o usando datos móviles",
+      "submit": "Entendido"
+    },
+    "server": {
+      "title": "Error inesperado",
+      "message": "Inténtalo de nuevo más tarde,\nestamos trabajando para\nsolucionar el inconveniente",
+      "submit": "Entendido"
+    },
+    "signUp": {
+      "title": "¡Lo sentimos!",
+      "message": "Tu sesión se ha cerrado por superar el tiempo para registrarte, vuelve a intentarlo",
+      "submit": "Entendido"
+    },
+    "forgotPassword": {
+      "title": "¡Lo sentimos!",
+      "message": "Superaste el tiempo para terminar el proceso, vuelve a intentarlo",
+      "submit": "Entendido"
+    },
+    "attemptsExceeded": {
+      "title": "¡Función no disponible!",
+      "message": "Superas el límite de intentos permitidos",
+      "submit": "Entendido"
+    }
+  },
+  "change-pin": {
+    "change-success": {
+      "title": "¡Felicitaciones!",
+      "sub-title-after-activation": "Cambiaste el PIN y tu tarjeta\nfísica ha sido activada",
+      "sub-title": "Cambiaste el PIN de tu\ntarjeta física",
+      "message": "Usa tu nuevo tu PIN para confirmar las \ncompras que realices de forma presencial",
+      "submit": "Terminar"
+    },
+    "change-error": {
+      "title": "¡Lo sentimos!",
+      "sub-title": "No pudimos cambiar el PIN\nde tu tarjeta física",
+      "message": "No eres tú, somos nosotros, estamos\ntrabajando para solucionar el\ninconveniente",
+      "submit": "Inténtalo más tarde"
+    },
+    "forgot-pin-modal": {
+      "title": "Para recuperar tu PIN debes solicitar una nueva tarjeta",
+      "subtitle": "Si olvidaste o perdiste el PIN de tu tarjeta, debes comunicarte con nosotros para solicitar una nueva tarjeta física",
+      "button": "Llamar al call center",
+      "button-close": "Cerrar"
+    },
+    "inactive-physical-card-modal": {
+      "title": "Tarjeta física desactivada",
+      "subtitle": "Para cambiar el PIN, tu tarjeta\nfísica debe estar activa",
+      "button-config": "Ir a configuración",
+      "button-close": "Cerrar"
+    },
+    "sdk-error-modal": {
+      "title": "¡Lo sentimos!",
+      "subtitle": "Esta función no esta disponible debido a un error en el sistema, por favor inténtalo en unos minutos",
+      "button-close": "Entendido",
+      "button-close-2": "Inténtalo más tarde"
+    }
+  },
+  "toastCardInactive": {
+    "title": "Tu tarjeta aún no ha sido activada",
+    "message": "Activación en proceso: Te avisaremos por correo tan pronto tu tarjeta esté activa"
+  },
+  "force-update": {
+    "modal": {
+      "title": "¡Actualización\nrequerida!",
+      "message": "Es necesario que actualices tu aplicación para disfrutar de nuevas funcionalidades y mejoras hechas para ti",
+      "button": "Actualizar ahora"
+    }
+  },
+  "maintenance":{
+    "title": "¡Mantenimiento\nen progreso!",
+    "message": "Estamos mejorando para que tu experiencia sea excepcional."
+  },
+  "referral-banner": {
+    "title": "Refiere y gana",
+    "message-1": "Gana",
+    "message-2": "por cada referido\nque contrate la tarjeta iO"
+  },
+  "referral-code": {
+    "title": "Referidos",
+    "title-page": "¡Refiere y Gana!",
+    "message-1": "Invita a tus amigos y gana",
+    "amount": "S/ 20",
+    "message-2": "por cada usuario que use tu código al\ncontratar una Tarjeta de Crédito",
+    "io": "iO.",
+    "message-3": "Aplican",
+    "link": "términos y condiciones",
+    "url": "https://www.io.pe/terminos-condiciones-promo/",
+    "extra-message": "Copia y comparte tu código de referido",
+    "clipboard": "Copiar",
+    "button": "Compartir código",
+    "share": {
+      "title": "¡Únete al círculo y gana!",
+      "message": "¡Obtén hoy mismo la Tarjeta de Crédito iO y podrás recibir S/20 de regalo!\n\nTe invito a unirte al círculo de beneficios iO. Ingresa el código, completa tu registro y gana S/20 de regalo cuando realices tu primera compra. Aplican T&C.\n\nCÓDIGO: {{referralCode}}\n",
+      "url": {
+        "ios": "https://ioprod.onelink.me/76Mf/xngha46r",
+        "android": "https://ioprod.onelink.me/76Mf/xngha46r"
+      }
+    }
+  }
+}

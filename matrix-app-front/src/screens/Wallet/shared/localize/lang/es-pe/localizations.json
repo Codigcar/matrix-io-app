@@ -1,0 +1,75 @@
+{
+  "wallet-flow": {
+    "google-pay": "Google Pay",
+    "continue": "Continuar",
+    "pay-with-io-apple-pay-title": "Agrega tu tarjeta iO a Apple Pay",
+    "pay-with-io-apple-pay-info-first-title": "Paga con tu iPhone",
+    "pay-with-io-apple-pay-info-first": "Paga de forma segura, fácil y sin contacto con tu iPhone usando Apple Pay",
+    "pay-with-io-apple-pay-info-second-title": "Tarjeta predeterminada",
+    "pay-with-io-apple-pay-info-second": "Para acceder directamente a tu tarjeta iO en Apple Pay, puedes configurarla  como “predeterminada”",
+    "pay-with-io-google-pay-title": "Agrega tu tarjeta iO a Google Pay",
+    "pay-with-io-google-pay-subtitle": "Paga de forma segura, fácil y sin contacto con tu celular usando Google Pay",
+    "pay-with-io-button-label": "Agregar a",
+    "pay-with-io-apple-pay": "Apple Pay",
+    "pay-with-io-apple-pay-empty": "Agregar tarjeta al Apple Wallet",
+    "pay-with-io-google-pay": "Google Pay",
+    "pay-with-io-google-pay-empty": "Agregar tarjeta a la Billetera \n de Google",
+    "pay-with-io-omit-button-label": "Omitir",
+    "pay-with-io-retry-message": "Disculpa fallo algo puedes intentar nuevamente.",
+    "pay": " Pay",
+    "pay-with-nfc": "Pago con NFC",
+    "pay-with_nfc_tyc_title": "Términos y condiciones del uso de la tarjeta",
+    "pay-with_nfc_tyc": "La protección de tus datos personales es de gran importancia para iO, por lo que iO toma todas las precauciones razonables para garantizar que sus datos personales se procesen de forma segura.",
+    "pay-with-nfc-continue": "Continuar",
+    "pay-with-nfc-accept": "Acepto los ",
+    "pay-with-nfc-accept-tyc": "Términos y condiciones del uso de la tarjeta",
+    "pay-with-io-message": "Agrega tu tarjeta a Pago con NFC",
+    "affiliate": "Afiliado",
+    "end": "Terminar",
+    "understood": "Entendido",
+    "card-io": "Tarjeta iO ",
+    "set-up": "Configurar",
+    "your-card": "Tu tarjeta",
+    "io": " iO",
+    "googlePay": {
+      "label": "Google Pay",
+      "affiliate": {
+        "active": "Activa",
+        "inactive": "Inactiva",
+        "congratulations": "¡Felicidades!",
+        "added": " ha sido \nagregada a Google Pay",
+        "delete": "Si deseas eliminar tu tarjeta de Google Pay debes hacerlo desde tu"
+      },
+      "wallet-app": " aplicación de Billetera de Google",
+      "you-need-google-wallet-installed": "Necesitas la \n Billetera de Google",
+      "wallet-indication": "Para agregar tu tarjeta a la Billetera \n de Google, debes instalar esta aplicación en tu celular",
+      "go-to-google-play": "Ir a Google Play",
+      "close-modal-verify-wallet-installed": "Cerrar"
+    },
+    "applePay": {
+      "label": "Apple Pay",
+      "affiliate": {
+        "card": "Tarjeta afiliada a Apple Pay",
+        "unsubscribe-card": "Si deseas desafiliar tu tarjeta, debes hacerlo desde tu ",
+        "unsubscribe-wallet": "aplicación Wallet.",
+        "added": " ha sido \nagregada a Apple Pay",
+        "delete": "Si deseas eliminar tu tarjeta de Apple Pay debes hacerlo desde tu"
+      },
+      "wallet-app": " aplicación Apple Wallet."
+    },
+    "nfc": {
+      "affiliate": {
+        "card": "Tarjeta afiliada a Pago con NFC",
+        "success": "Agregaste con éxito tu Tarjeta iO"
+      },
+      "activate": {
+        "title": "Activa tu NFC",
+        "message": "Al activarlo podrás realizar pagos acercando tu celular al POS"
+      },
+      "incompatible": {
+        "title": "Este dispositivo es incompatible",
+        "message": "Lo sentimos, no es posible afiliar la tarjeta porque tu equipo no cuenta con tecnología NFC"
+      }
+    }
+  }
+}

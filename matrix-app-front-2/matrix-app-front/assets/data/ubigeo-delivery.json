@@ -1,0 +1,257 @@
+[
+  {
+    "zone": "C",
+    "description": "ANCON",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "B",
+    "description": "ATE VITARTE",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "BARRANCO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "BELLAVISTA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "BREÑA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "CARABAYLLO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "B",
+    "description": "CARMEN DE LA LEGUA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "CERCADO CALLAO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "CERCADO DE LIMA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "CHACLACAYO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "B",
+    "description": "CHORRILLOS",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "CIENEGUILLA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "B",
+    "description": "COMAS",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "EL AGUSTINO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "INDEPENDENCIA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "JESUS MARIA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "LA MOLINA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "LA PERLA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "LA PUNTA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "LA VICTORIA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "LINCE",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "LOS OLIVOS",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "LURIGANCHO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "LURIN",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "A",
+    "description": "MAGDALENA DEL MAR",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "MIRAFLORES",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "PACHACAMAC",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "PUCUSANA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "A",
+    "description": "PUEBLO LIBRE",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "PUENTE PIEDRA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "PUNTA HERMOSA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "PUNTA NEGRA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "RICARDO PALMA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "B",
+    "description": "RIMAC",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "SAN BARTOLO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "A",
+    "description": "SAN BORJA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "SAN ISIDRO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "SAN JUAN DE LURIGANCHO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "SAN JUAN DE MIRAFLORES",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "SAN LUIS",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "SAN MARTIN DE PORRES",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "SAN MIGUEL",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "SANTA ANITA",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "SANTA EULALIA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SANTA MARIA DEL MAR",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SANTA ROSA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "A",
+    "description": "SANTIAGO DE SURCO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "A",
+    "description": "SURQUILLO",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "C",
+    "description": "VENTANILLA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "B",
+    "description": "VILLA EL SALVADOR",
+    "innings": ["morning", "afternoon"]
+  },
+  {
+    "zone": "B",
+    "description": "VILLA MARIA DEL TRIUNFO",
+    "innings": ["morning", "afternoon"]
+  }
+]

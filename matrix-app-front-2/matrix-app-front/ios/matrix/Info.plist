@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>iope</string>
+			</array>
+			<key>CFBundleURLName</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>$(APP_NAME)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>$(PRODUCT_NAME) necesita acceder a tu cámara para digitalizar tu DNI y grabar un video de tu rostro para validar tu identidad.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Privacy - Location always and when In Use Usage Description.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Para habilitar la función de carga de capturas de pantalla en el chat de soporte, iO necesita acceso a tu biblioteca de fotos.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Graphie-Bold.otf</string>
+		<string>Graphie-Light.otf</string>
+		<string>Graphie-Regular.otf</string>
+		<string>Graphie-SemiBold.otf</string>
+		<string>Recoleta-Bold.otf</string>
+		<string>Recoleta-Regular.otf</string>
+		<string>icomoon.ttf</string>
+		<string>EuclidCircularA-Bold.ttf</string>
+		<string>EuclidCircularA-Italic.ttf</string>
+		<string>EuclidCircularA-Light.ttf</string>
+		<string>EuclidCircularA-Medium.ttf</string>
+		<string>EuclidCircularA-Regular.ttf</string>
+		<string>EuclidCircularA-SemiBold.ttf</string>
+		<string>Outfit-Bold.ttf</string>
+		<string>Outfit-Medium.ttf</string>
+		<string>Outfit-Regular.ttf</string>
+		<string>Outfit-SemiBold.ttf</string>
+		<string>RobotoSerif-Medium.ttf</string>
+		<string>RobotoSerif-Regular.ttf</string>
+		<string>RobotoSerif-SemiBold.ttf</string>
+		<string>GoogleSans-Medium.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

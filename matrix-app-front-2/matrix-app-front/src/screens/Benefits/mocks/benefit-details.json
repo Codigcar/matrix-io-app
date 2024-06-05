@@ -1,0 +1,20 @@
+{
+  "coupons-detail": {
+    "coupon": {
+      "imgPathInternal": "https://via.placeholder.com/150",
+      "imgPathLogo": "https://static.vecteezy.com/system/resources/previews/006/259/278/non_2x/elegant-b-letter-square-floral-logo-with-creative-elegant-leaf-monogram-branch-line-and-pink-black-color-usable-for-business-fashion-cosmetics-spa-science-medical-and-nature-logos-vector.jpg",
+      "benefit": "Oferta",
+      "channel": "Virtual",
+      "offerTitle": "Descuentos para pedidos online",
+      "benefitDetail": "- Válido de lunes a miércoles. - Válido para pedidos online ingresando a la web https://www.lanacional.pe/- Dscto. máximo S/ 100 por pedido.",
+      "benefitUse": "Ingresa tu código en el checkout de tu pedido para recibir tu descuento.",
+      "codeIO": "iO50LN",
+      "period": "Del 15/05/2023 al 15/08/2023.",
+      "partnerName": "La Nacional Restaurante",
+      "category": "Restaurante de comida criolla",
+      "termsConditions": "Promoción válida de..."
+    },
+    "error": 0,
+    "message": "Datos procesados correctamente"
+  }
+}

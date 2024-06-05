@@ -1,0 +1,65 @@
+{
+  "cancelAccountComplete": {
+    "header": "Solicitud ingresada",
+    "title": "Hemos procesado de manera exitosa tu solicitud de anulación de cuenta ",
+    "subtitle": "En las próximas 24 horas recibirás un email de confirmación",
+    "first-section-title": "Datos de la solicitud de anulación",
+    "second-section-title": "Recuerda que tienes pendiente:",
+    "second-section-text-1": "Deuda pendiente de pago:",
+    "second-section-text-2": "Saldo a favor en soles:",
+    "second-section-text-3": "(Al día de hoy)",
+    "third-section-text-1": "Recuerda que luego de 30 días, a partir de la fecha en la que anulas tu cuenta ",
+    "third-section-text-2": ", perderás el acceso a la aplicación de forma definitiva",
+    "third-section-text-3": "Comunícate con un asesor para retirar tu saldo a favor.",
+    "continue-button": "Ir al inicio",
+    "payment-button": "Realizar pago de tarjeta",
+    "chat-button": "Chatear con un asesor"
+  },
+  "cancelAccount": {
+    "button": "Anular cuenta iO",
+    "subtitle-button": "¡Esta acción es irreversible!",
+    "header": "Anulación de cuenta",
+    "title": "¡Recuerda!",
+    "subtitle1": "Al anular tu cuenta perderás\nel acceso a los beneficios y a todos\nlos descuentos que te brinda",
+    "subtitle2": "Este procedimiento es irreversible, si deseas regresar tendrás que aprobar la evaluación nuevamente.",
+    "question-label": "¿Estás seguro que deseas continuar?",
+    "continue-button": "Si, continuar",
+    "survey": {
+      "title": "Ayúdanos a mejorar",
+      "subtitle": "Completando esta\npequeña encuesta",
+      "question": "¿Por qué motivo deseas cancelar tu cuenta iO?",
+      "option-1": "Tasas de interés elevadas",
+      "option-2": "Pocos beneficios y promociones",
+      "option-3": "Porcentaje de cashback muy bajo ante otras entidades",
+      "option-4": "Deja tu comentario",
+      "option-4-title": "Comentario",
+      "option-4-placeholder": "Ingresar comentario",
+      "continue-button": "Continuar",
+      "modal": {
+        "title": "¡Atención!",
+        "subtitle-1": "Estás a punto de terminar tu relación contractual con ",
+        "subtitle-2": "iO",
+        "text-title": "Bloquearemos tu tarjeta\n",
+        "text-subtitle": "Dejarás de acceder a tus beneficios y no podrás realizar más consumos",
+        "checkbox-info": "Estoy de acuerdo en bloquear mi tarjeta\nde crédito, para continuar con la anulación\nde mi cuenta iO",
+        "btnCancelAccount": "Anular mi cuenta"
+      }
+    },
+    "modal-positive-bal": {
+      "title": "¡Recuerda!",
+      "subtitle": "Que aún tienes pendiente, los siguientes puntos por resolver",
+      "title-card": "Tienes pendiente:",
+      "subtitle-card": "Saldo a favor en soles:",
+      "button": "Contactar un experto iO"
+    },
+    "cancel-account-waiting": {
+      "waiting-title": "Espera un momento",
+      "waiting-subtitle-1": "Estamos procesando la anulación\nde tu cuenta ",
+      "waiting-subtitle-2": ", puede tomar\nunos minutos",
+      "errorTitle": "¡Lo sentimos!",
+      "errorSubtitle": "No hemos podido cancelar tu cuenta",
+      "errorDescription": "Por favor, verifica tu conexión a Internet y vuelve a intentarlo.",
+      "errorButtonLabel": "Volver al inicio"
+    }
+  }
+}

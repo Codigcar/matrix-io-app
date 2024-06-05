@@ -1,0 +1,164 @@
+{
+  "activate-card-response": {
+    "title": "¡Muy bien!",
+    "subTitle": "¡Solo un paso más para\npoder usar tu tarjeta!",
+    "message-bold": "Por seguridad debes cambiar\nel código PIN de tu tarjeta, ",
+    "message": "el cual se\nencuentra al interior del sobre de bienvenida",
+    "submit": "Cambiar PIN",
+    "errorTitle": "¡Lo sentimos!",
+    "errorSubtitle": "No hemos podido activar tu\ntarjeta en este momento",
+    "errorDescription": "Por favor, verifica tu conexión\na Internet y vuelva a intentarlo.",
+    "errorButtonLabel": "Reintentar"
+  },
+  "activate-card": {
+    "title": "Código de activación",
+    "description": "Para activar tu tarjeta física, ingresa los dígitos que viene en el sobre de la tarjeta",
+    "inputError": "*El código ingresado es incorrecto",
+    "submit": "Continuar"
+  },
+  "card-info": {
+    "title": "Tarjeta física iO",
+    "description-1": "Tu tarjeta de crédito física\nse encuentra ",
+    "message-active": "Recuerda que puedes desactivarla\ntemporalmente, desde el menú\nconfiguración de tarjeta",
+    "message-inactive": "Recuerda que puedes activarla nuevamente\ndesde el menú configuración de tarjeta",
+    "message-pending-1": "Para",
+    "message-pending-bold": " activarla ",
+    "message-pending-2": "debes realizar\nel cambio de PIN de tu tarjeta física",
+    "active": "Activada",
+    "inactive": "Desactivada",
+    "pending": "Activación pendiente",
+    "pending-activate": "pendiente de activar",
+    "change-pin": {
+      "button-text": "Cambiar PIN de tarjeta física",
+      "button-detail": "Requerido en compras presenciales",
+      "forgot-pin-button": "¿Olvidaste tu PIN?"
+    }
+  },
+  "change-pin": {
+    "change-success": {
+      "title": "¡Felicitaciones!",
+      "sub-title-after-activation": "Cambiaste el PIN y tu tarjeta\nfísica ha sido activada",
+      "sub-title": "Cambiaste el PIN de tu\ntarjeta física",
+      "message": "Usa tu nuevo tu PIN para confirmar las \ncompras que realices de forma presencial",
+      "submit": "Terminar"
+    },
+    "change-error": {
+      "title": "¡Lo sentimos!",
+      "sub-title": "No pudimos cambiar el PIN\nde tu tarjeta física",
+      "message": "No eres tú, somos nosotros, estamos\ntrabajando para solucionar el\ninconveniente",
+      "submit": "Inténtalo más tarde"
+    },
+    "forgot-pin-modal": {
+      "title": "Para recuperar tu PIN debes solicitar una nueva tarjeta",
+      "subtitle": "Si olvidaste o perdiste el PIN de tu tarjeta, debes comunicarte con nosotros para solicitar una nueva tarjeta física",
+      "button": "Llamar al call center",
+      "button-close": "Cerrar"
+    },
+    "inactive-physical-card-modal": {
+      "title": "Tarjeta física desactivada",
+      "subtitle": "Para cambiar el PIN, tu tarjeta\nfísica debe estar activa",
+      "button-config": "Ir a configuración",
+      "button-close": "Cerrar"
+    },
+    "sdk-error-modal": {
+      "title": "¡Lo sentimos!",
+      "subtitle": "Esta función no esta disponible debido a un error en el sistema, por favor inténtalo en unos minutos",
+      "button-close": "Entendido",
+      "button-close-2": "Inténtalo más tarde"
+    }
+  },
+  "request-card": {
+    "introductionRequest": {
+      "title": "¡Pide ahora\ntu tarjeta física!",
+      "description": "Duplica tus beneficios y descuentos con\nla tarjeta física. Úsala para pagar en\nestablecimientos y terminales POS",
+      "continue": "Solicitar tarjeta física",
+      "cancel": "No, por ahora"
+    },
+    "locationForm": {
+      "title": "Solicitud de tarjeta física",
+      "description": "Completa los siguientes pasos para solicitar tu tarjeta de crédito física.",
+      "subtitle": "Información de entrega",
+      "department-label": "Departamento",
+      "province-label": "Provincia",
+      "district-label": "Distrito",
+      "address-label": "Dirección",
+      "reference-label": "Referencia",
+      "department-placeholder": "Selecciona departamento",
+      "province-placeholder": "Selecciona provincia",
+      "district-placeholder": "Selecciona distrito",
+      "address-placeholder": "Ejemplo: Av. Javier Prado 123",
+      "reference-placeholder": "Colegio, Edificio, Parque, Iglesia, etc.",
+      "submit": "Continuar"
+    },
+    "dateForm": {
+      "title": "Solicitud de tarjeta física",
+      "submit": "Continuar"
+    },
+    "schedule": {
+      "message": "Completa los siguientes pasos para solicitar tu tarjeta de crédito física.",
+      "title": "Programación de entrega",
+      "title-editing": "Editar programación de entrega",
+      "scheduleTitle": "Selecciona la fecha de entrega",
+      "inningTitle": "Selecciona el horario de entrega",
+      "weekTitle": "Semana de",
+      "inningLabel": "Rango de horarios establecidos"
+    },
+    "userForm": {
+      "title": "Solicitud de tarjeta física",
+      "description": "Verifica que todos los datos son correctos",
+      "subtitle": "Confirmación de datos",
+      "contactLabel": "Contacto asignado",
+      "addressLabel": "Dirección de entrega:",
+      "scheduleLabel": "Fecha y hora de entrega",
+      "edit": "Editar",
+      "submit": "Confirmar y continuar",
+      "cancel": "Cancelar",
+      "submitModal": "Guardar"
+    },
+    "phoneForm": {
+      "title": "Editar número telefónico",
+      "label": "Número telefónico",
+      "placeholder": "Ingresar número"
+    },
+    "addressForm": {
+      "title": "Editar dirección de\nentrega"
+    },
+    "sumary": {
+      "title": "¡Genial!",
+      "description": "Tu solicitud de tarjeta física\nha sido procesada con éxito",
+      "subTitleUserData": "Información de entrega",
+      "subTitleSchedule": "Fecha y hora de entrega",
+      "submit": "Terminar"
+    },
+    "error": {
+      "schedule-unavailable-title": "¡Lo sentimos!",
+      "schedule-unavailable-subtitle": "La fecha que seleccionaste\nya no está disponible",
+      "schedule-unavailable-description": "Por favor selecciona una nueva fecha y hora para la entrega de tu tarjeta física",
+      "schedule-unavailable-button": "Elegir nueva fecha",
+      "process-error-title": "¡Lo sentimos!",
+      "process-error-subtitle": "No pudimos procesar la\nsolicitud de tu tarjeta física",
+      "process-error-description": "No eres tú, somos nosotros, estamos\ntrabajando para solucionar el\ninconveniente.",
+      "process-error-button": "Intentar de nuevo"
+    }
+  },
+  "physical-card": {
+    "title": "Tarjeta física",
+    "first-slide-title": "¿Quieres una \ntarjeta física?",
+    "first-slide-text": "Solicita tu tarjeta física para realizar compras en puntos de venta de manera fácil y segura.",
+    "second-slide-title": "Diseñada pensando \nen tu seguridad",
+    "second-slide-text": "Tu tarjeta no incluye tu nombre, número de tarjeta o cualquier dato sensible.",
+    "third-slide-title": "Recíbela donde \ntu quieras",
+    "third-slide-text": "Puedes escoger qué día y en qué horario deseas recibir tu tarjeta física.",
+    "button": "Solicitar tarjeta física",
+    "order-status": {
+      "title": "¡Tu tarjeta está \nen camino!",
+      "title-info": "Información de entrega",
+      "title-schedule": "Fecha y hora de entrega",
+      "button": "Activar tarjeta"
+    },
+    "inactive-virtual-card-modal": {
+      "title": "Control Maestro\ndesactivado",
+      "subtitle": "Para continuar con la activación de tu\ntarjeta, debes tener activa esta opción"
+    }
+  }
+}

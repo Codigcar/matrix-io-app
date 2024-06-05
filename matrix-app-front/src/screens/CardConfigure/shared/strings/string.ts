@@ -1,0 +1,37 @@
+import { i18n } from 'src/utils/core/MTXStrings';
+
+export const string = {
+  activated: i18n.t('cardConfigure:status.activated'),
+  desactivated: i18n.t('cardConfigure:status.deactivated'),
+  noCard: i18n.t('cardConfigure:status.no-card'),
+  cardBlocked: i18n.t('cardConfigure:status.card-blocked'),
+  activatedPurchases: i18n.t('cardConfigure:status.activated-purchases'),
+  desactivatedPurchases: i18n.t('cardConfigure:status.deactivated-purchases'),
+  configureCardSubtitle: i18n.t('cardConfigure:home.configure-card-0-subtitle'),
+  configureCardTitle: i18n.t('cardConfigure:home.configure-card-title'),
+  configureCard0Title: i18n.t('cardConfigure:home.configure-card-0-title'),
+  configureCard0SubtitleInit: i18n.t('cardConfigure:home.configure-card-0-subtitle-init'),
+  walletFlowNFCIncopatibleTitle: i18n.t('cardConfigure:wallet-flow.nfc.incompatible.title'),
+  walletFlowNFCIncopatibleMessage: i18n.t('cardConfigure:wallet-flow.nfc.incompatible.message'),
+  walletFlowUnderstood: i18n.t('cardConfigure:wallet-flow.understood'),
+  cardConfigurationVirtualCard: i18n.t('cardConfigure:virtual-card'),
+  cardConfigurationPhysicalCard: i18n.t('cardConfigure:physical-card'),
+  cardConfigurationSupplementaryCardLabel: i18n.t('cardConfigure:supplementary-card.label'),
+  cardConfigurationSupplementaryCardHelper: i18n.t('cardConfigure:supplementary-card.helper'),
+  cardConfigurationSupplementaryCardMessage: i18n.t('cardConfigure:supplementary-card.message'),
+  cardConfigurationSupplementaryCardActionText: i18n.t(
+    'cardConfigure:supplementary-card.action-text',
+  ),
+  configureCard0Detail0: i18n.t('cardConfigure:home.configure-card-0-detail-0'),
+  configureCard1Detail0: i18n.t('cardConfigure:home.configure-card-1-detail-0'),
+  configureCard0Detail1: i18n.t('cardConfigure:home.configure-card-0-detail-1'),
+  configureCard1Detail1: i18n.t('cardConfigure:home.configure-card-1-detail-1'),
+  configureCardError01: i18n.t('cardConfigure:home.configure-card-error-01'),
+  configureCardError02: i18n.t('cardConfigure:home.configure-card-error-02'),
+  configureCardInternetDesactivated: i18n.t(
+    'cardConfigure:home.configure-card-internet-deactivated',
+  ),
+  configureCardInternetActivated: i18n.t('cardConfigure:home.configure-card-internet-activated'),
+  configureCardForeignDesactivated: i18n.t('cardConfigure:home.configure-card-foreign-deactivated'),
+  configureCardForeignActivated: i18n.t('cardConfigure:home.configure-card-foreign-activated'),
+};

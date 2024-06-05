@@ -1,0 +1,60 @@
+{
+  "coupons": {
+    "categoryList": [
+      {
+        "name": "Restaurantes para ti",
+        "list": [
+          {
+            "id": "1",
+            "imgPath": "https://via.placeholder.com/150",
+            "benefit": "Oferta",
+            "partnerName": "La Nacional Restaurante",
+            "offerTitle": "Descuentos para pedidos online"
+          },
+          {
+            "id": "2",
+            "imgPath": "https://via.placeholder.com/150",
+            "benefit": "Oferta",
+            "partnerName": "La Nacional Restaurante",
+            "offerTitle": "Descuentos para pedidos online"
+          },
+          {
+            "id": "3",
+            "imgPath": "https://via.placeholder.com/150",
+            "benefit": "Oferta",
+            "partnerName": "La Nacional Restaurante",
+            "offerTitle": "Descuentos para pedidos online"
+          }
+        ]
+      },
+      {
+        "name": "Descubre nuevos lugares",
+        "list": [
+          {
+            "id": "4",
+            "imgPath": "https://via.placeholder.com/150",
+            "benefit": "Oferta",
+            "partnerName": "La Nacional Restaurante",
+            "offerTitle": "Descuentos para pedidos online"
+          },
+          {
+            "id": "5",
+            "imgPath": "https://via.placeholder.com/150",
+            "benefit": "Oferta",
+            "partnerName": "La Nacional Restaurante",
+            "offerTitle": "Descuentos para pedidos online"
+          },
+          {
+            "id": "6",
+            "imgPath": "https://via.placeholder.com/150",
+            "benefit": "Oferta",
+            "partnerName": "La Nacional Restaurante",
+            "offerTitle": "Descuentos para pedidos online"
+          }
+        ]
+      }
+    ],
+    "error": 0,
+    "message": "Se listaron los beneficios correctamente"
+  }
+}

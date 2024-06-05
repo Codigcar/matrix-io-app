@@ -1,0 +1,46 @@
+{
+  "card-offer-documents-title": "Documentos de tu Tarjeta de Crédito",
+  "card-offer-documents-subtitle": "Estos son los documentos de tu tarjeta de crédito que podrás visualizar en cualquier momento.",
+  "card-offer-document-contract-title": "Contrato",
+  "card-offer-document-resume-title": "Hoja resumen",
+  "card-offer-document-insurance-title": "Seguro de Desgravamen",
+  "card-offer-complete-title": "¡Felicidades!",
+  "card-offer-complete-subtitle": "Te hemos enviado un correo electrónico con la información detallada de tu nueva tarjeta de crédito.",
+
+  "card-offer-modals": {
+    "loading-offer-title": "Estamos creando la mejor oferta para ti",
+    "loading-offer-subtitle": "Por favor espera un momento",
+    "loading-authorization-title": "Estamos procesando tu solicitud",
+    "loading-authorization-subtitle": "Por favor espera un momento",
+    "warning-authorization-title": "No hemos podido\nprocesar tu solicitud\nen este momento",
+    "warning-authorization-subtitle": "Por favor reintenta de nuevo",
+    "warning-authorization-button": "Reintentar",
+    "error-authorization-title": "No hemos podido\nprocesar tu solicitud\nen este momento",
+    "error-authorization-subtitle": "Por favor intenta más tarde",
+    "error-authorization-button": "Cerrar"
+  },
+
+  "no-card-offer-message": "¡Oh no!",
+  "no-card-offer-title": "Actualmente no tenemos una oferta para ti.",
+  "no-card-offer-subtitle": "Te avisaremos cuando podamos ofrecerte un producto.",
+
+  "card-offer-benefit-first-list-section-title": "¿Qué beneficios tiene esta tarjeta?",
+  "card-offer-benefit-second-list-section-link": "Ver información Adicional",
+  "card-offer-benefit-second-list-section-title": "Información adicional",
+
+  "card-offer-benefit-second-list-first-item-item": "Tu fecha de facturación será el {{billingDay}} de cada mes",
+  "card-offer-benefit-second-list-second-item-item": "El pago del Seguro de desgravamen aplica sobre el saldo deudor promedio diario con una tasa de {{desgravamen}}% con  tope máximo de S/{{maxValueDesgravamen}}.",
+  "card-offer-benefit-second-list-third-item-item": "Tasa efectiva anual de {{tea}}%",
+  "card-offer-benefit-second-list-fourth-item-item": "Tasa de Costo Efectivo Anual de {{tcea}}%",
+  
+  "card-offer-benefit-first-list-complete-section-title": "Beneficios",
+  "card-offer-benefit-second-list-complete-section-title": "Registro de tu tarjeta",
+
+  "card-offer-title": "tu nueva tarjeta ",
+  "card-offer-title-last": " llega con una línea de",
+  "card-offer-amount-text": "Monto aprobado",
+  "card-offer-contract-first-text": "Declaro haber consignado mis datos reales y estar de acuerdo con los términos y condiciones del ",
+  "card-offer-contract-link-text": "contrato, la hoja de resumen, seguro de desgravamen y la autorización del envío de póliza y de comunicaciones sobre mi producto a mi correo electrónico como domicilio legal​.",
+  "card-offer-button-label": "¡Quiero esta tarjeta!"
+
+}

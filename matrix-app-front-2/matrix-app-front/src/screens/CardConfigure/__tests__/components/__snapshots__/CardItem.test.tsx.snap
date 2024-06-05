@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardItem component should match snapshot 1`] = `
+<RNCSafeAreaProvider
+  onInsetsChange={[Function]}
+  style={
+    [
+      {
+        "flex": 1,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    collapsable={false}
+    pointerEvents="box-none"
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "marginHorizontal": 24,
+          },
+        ]
+      }
+      testID="cardItemId"
+    >
+      <View
+        style={
+          [
+            {
+              "backgroundColor": "#F0F0F0",
+              "borderRadius": 24,
+              "paddingHorizontal": 16,
+              "paddingVertical": 24,
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#11142E",
+                "fontFamily": "EuclidCircularA-Light",
+                "fontSize": 16,
+                "lineHeight": 20,
+              },
+            ]
+          }
+        >
+          Children text value example
+        </Text>
+      </View>
+    </View>
+    <Modal
+      hardwareAccelerated={false}
+      onRequestClose={[Function]}
+      statusBarTranslucent={true}
+      transparent={true}
+      visible={false}
+    />
+  </View>
+  <Modal
+    animationType="fade"
+    hardwareAccelerated={false}
+    transparent={true}
+    visible={false}
+  />
+</RNCSafeAreaProvider>
+`;

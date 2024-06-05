@@ -1,0 +1,89 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EuclidCircularA-Bold.ttf",
+      "sha1": "0a69a0d9a4d2f9477582e7f01d84bc1d61c4d01c"
+    },
+    {
+      "path": "assets/fonts/EuclidCircularA-Italic.ttf",
+      "sha1": "f4ceb4d1ee8ff638760b1a30462bc16dccf1d25a"
+    },
+    {
+      "path": "assets/fonts/EuclidCircularA-Light.ttf",
+      "sha1": "eb1ac25ae5af273c16753fdf76b5a2919f4aac25"
+    },
+    {
+      "path": "assets/fonts/EuclidCircularA-Medium.ttf",
+      "sha1": "e97e414467f782f08b7227a89db002829ebb4a52"
+    },
+    {
+      "path": "assets/fonts/EuclidCircularA-Regular.ttf",
+      "sha1": "d1ad5380051d486ba359d1a38bb8feb3f2a26fe5"
+    },
+    {
+      "path": "assets/fonts/EuclidCircularA-SemiBold.ttf",
+      "sha1": "e89ec5f5d0749a91981e5544c67bb73d8e135445"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-Medium.ttf",
+      "sha1": "81f147ccffae41f7be8aff83d62f435a06d1292a"
+    },
+    {
+      "path": "assets/fonts/Graphie-Bold.otf",
+      "sha1": "a869ac3706094a177d6c441787fb21fdf069805a"
+    },
+    {
+      "path": "assets/fonts/Graphie-Light.otf",
+      "sha1": "6bf18aa076ad4ef09ad959fd774d6b23b1cc1a70"
+    },
+    {
+      "path": "assets/fonts/Graphie-Regular.otf",
+      "sha1": "29cd051330ac076aaa5208a015277ff615271ccb"
+    },
+    {
+      "path": "assets/fonts/Graphie-SemiBold.otf",
+      "sha1": "3a7e0563d226ad74446650db1f07548b5c667eca"
+    },
+    {
+      "path": "assets/fonts/Outfit-Bold.ttf",
+      "sha1": "dff38f4c216b9145d9dd284a78fce52e057e2194"
+    },
+    {
+      "path": "assets/fonts/Outfit-Medium.ttf",
+      "sha1": "86e6867ae0aba1eb8aa4bda25d2fe0a5ca02bee8"
+    },
+    {
+      "path": "assets/fonts/Outfit-Regular.ttf",
+      "sha1": "bcb85df11636ccfe003e92f12515c29c3be865f5"
+    },
+    {
+      "path": "assets/fonts/Outfit-SemiBold.ttf",
+      "sha1": "21ab97de1536d82672bf6fec078814506cdf9d28"
+    },
+    {
+      "path": "assets/fonts/Recoleta-Bold.otf",
+      "sha1": "adf0af3668a2be48e9c677678131d46d071e97e9"
+    },
+    {
+      "path": "assets/fonts/Recoleta-Regular.otf",
+      "sha1": "56bec949bc9ac1bf62b44e1d846c4dff001433f1"
+    },
+    {
+      "path": "assets/fonts/RobotoSerif-Medium.ttf",
+      "sha1": "06835351c36cd425c9ef7cdc88a9964573461920"
+    },
+    {
+      "path": "assets/fonts/RobotoSerif-Regular.ttf",
+      "sha1": "49723f6d1e00e7e4ad3a074c26d921ca83a6199f"
+    },
+    {
+      "path": "assets/fonts/RobotoSerif-SemiBold.ttf",
+      "sha1": "5c5e1c432d05a57e5e54cc246a059f1461710cbe"
+    },
+    {
+      "path": "assets/fonts/icomoon.ttf",
+      "sha1": "20f08cc498f3c7a186409688392772238686166a"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+enum DelinquentEnum {
+    ACCOUNT_STATUS_CODE = 'ACCOUNTSTATUS',
+    CASHBACK_CODE = 'CASHBACK',
+    CARD_CONFIG_CODE = 'CARDCONFIG',
+    CREDIT_INFO_CODE = 'CREDITINFO',
+    CREDIT_CARD_CODE = 'CARD',
+    IDLE_COLOR = 'GREY',
+    DISABLED = 'DISABLED',
+  }
+
+export default DelinquentEnum;

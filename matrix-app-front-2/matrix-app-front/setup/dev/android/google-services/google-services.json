@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "812039105084",
+    "project_id": "matrix-tempone-dev-581d6",
+    "storage_bucket": "matrix-tempone-dev-581d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039105084:android:14491c11450cc4dfaab139",
+        "android_client_info": {
+          "package_name": "pe.io.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039105084-hkfug8epp4f7s3lpfm1906j9jqti051f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.debug",
+            "certificate_hash": "9fd367750367dda479bf0a9ad8916e93d4e5a2f6"
+          }
+        },
+        {
+          "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGkdMktUbYGAw9ID8jFvAklnefcHcj50"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

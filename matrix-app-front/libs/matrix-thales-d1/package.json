@@ -1,0 +1,46 @@
+{
+    "name": "matrix-thales-d1",
+    "version": "0.1.0",
+    "description": "React Native Bridge for Thales D1",
+    "react-native": "src/index",
+    "source": "src/index",
+    "types": "src/index.d.ts",
+    "files": [
+      "src",
+      "android",
+      "ios",
+      "cpp",
+      "*.podspec",
+      "!ios/build",
+      "!android/build",
+      "!android/gradle",
+      "!android/gradlew",
+      "!android/gradlew.bat",
+      "!android/local.properties",
+      "!**/__tests__",
+      "!**/__fixtures__",
+      "!**/__mocks__",
+      "!**/.*"
+    ],
+    "scripts": {
+      "test": "jest",
+      "typecheck": "tsc --noEmit",
+      "lint": "eslint \"**/*.{js,ts,tsx}\""
+    },
+    "keywords": [
+      "react-native",
+      "ios",
+      "android"
+    ],
+    "engines": {
+      "node": ">= 16.0.0"
+    },
+    "author": "Neysi Tuesta <neysi.tuesta.matrix@gmail.com> (https://github.com/neyseo)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/neyseo/matrix-thales-d1/issues"
+    },
+    "homepage": "https://github.com/neyseo/matrix-thales-d1#readme"
+    
+  }
+  

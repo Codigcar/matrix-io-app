@@ -1,0 +1,43 @@
+{
+  "status": {
+    "activated": "Activada",
+    "deactivated": "Desactivada",
+    "activated-purchases": "Activadas",
+    "deactivated-purchases": "Desactivadas",
+    "card-blocked": "Bloqueada",
+    "no-card": "No dispones de este tipo de tarjeta."
+  },
+  "home": {
+    "configure-card-0-subtitle": " tú tienes el control! activa y desactiva tu tarjeta virtual y/o física para mayor seguridad",
+    "configure-card-title": "Configuración de tarjeta",
+    "configure-card-0-title": "Activa y desactiva de forma\ntemporal tu tarjeta",
+    "configure-card-0-subtitle-init": "¡En ",
+    "configure-card-0-detail-0": "Control Maestro",
+    "configure-card-1-detail-0": "Tarjeta virtual",
+    "configure-card-0-detail-1": "Tarjeta física",
+    "configure-card-1-detail-1": "Compras en el\nextranjero",
+    "configure-card-error-01": "Cambio no realizado, intenta otra vez",
+    "configure-card-error-02": "Esta función no está disponible",
+    "configure-card-internet-deactivated": "Compras por internet desactivadas",
+    "configure-card-internet-activated": "Compras por internet activadas",
+    "configure-card-foreign-deactivated": "Compras en el extranjero desactiv.",
+    "configure-card-foreign-activated": "Compras en el extranjero activadas"
+  },
+  "wallet-flow": {
+    "understood": "Entendido",
+    "nfc": {
+      "incompatible": {
+        "title": "Este dispositivo es incompatible",
+        "message": "Lo sentimos, no es posible afiliar la tarjeta porque tu equipo no cuenta con tecnología NFC"
+      }
+    }
+  },
+  "physical-card": "Tarjeta Física",
+  "virtual-card": "Tarjeta Virtual",
+  "supplementary-card": {
+    "label": "Tarjeta física",
+    "helper": "Activación pendiente",
+    "message": "Para activar tu tarjeta física ",
+    "action-text": "cambia el PIN"
+  }
+}

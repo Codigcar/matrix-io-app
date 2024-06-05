@@ -1,0 +1,238 @@
+{
+  "project_info": {
+    "project_number": "812039105084",
+    "project_id": "matrix-tempone-dev-581d6",
+    "storage_bucket": "matrix-tempone-dev-581d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039105084:android:ede0e2d724c23963aab139",
+        "android_client_info": {
+          "package_name": "com.matrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGkdMktUbYGAw9ID8jFvAklnefcHcj50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812039105084-5rijb491v3khhlstlg2t6tdh13n0c151.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.io.quality"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039105084:android:14491c11450cc4dfaab139",
+        "android_client_info": {
+          "package_name": "pe.io.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039105084-br50at9nne6rfsr431i02ut5gb3q78jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.debug",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "812039105084-cj3rp8gdldt2untg2m8i8cfs5v5k1k8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.debug",
+            "certificate_hash": "4985481b2b4131626f036499484472f98bd1fd69"
+          }
+        },
+        {
+          "client_id": "812039105084-hkfug8epp4f7s3lpfm1906j9jqti051f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.debug",
+            "certificate_hash": "9fd367750367dda479bf0a9ad8916e93d4e5a2f6"
+          }
+        },
+        {
+          "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGkdMktUbYGAw9ID8jFvAklnefcHcj50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812039105084-5rijb491v3khhlstlg2t6tdh13n0c151.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.io.quality"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039105084:android:1f7fdff68ef9eb4eaab139",
+        "android_client_info": {
+          "package_name": "pe.io.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039105084-afu6ntpfqvhjabtc4nujblcqn2kj8erq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.quality",
+            "certificate_hash": "9fd367750367dda479bf0a9ad8916e93d4e5a2f6"
+          }
+        },
+        {
+          "client_id": "812039105084-g3mc3rjp6c7ldgfmen3nomke1i9gcrho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.quality",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "812039105084-mbt8fesddtohm8dp2inenuqbvcos32id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.io.quality",
+            "certificate_hash": "4985481b2b4131626f036499484472f98bd1fd69"
+          }
+        },
+        {
+          "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGkdMktUbYGAw9ID8jFvAklnefcHcj50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812039105084-5rijb491v3khhlstlg2t6tdh13n0c151.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.io.quality"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039105084:android:3d70ac7d1b9bd9c4aab139",
+        "android_client_info": {
+          "package_name": "pe.org.matrix.tempone.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGkdMktUbYGAw9ID8jFvAklnefcHcj50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812039105084-5rijb491v3khhlstlg2t6tdh13n0c151.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.io.quality"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039105084:android:fa3478daa6c5396daab139",
+        "android_client_info": {
+          "package_name": "pe.org.matrix.tempone.quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGkdMktUbYGAw9ID8jFvAklnefcHcj50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812039105084-ssn90pk5eo4a52bpp752ad9mihp2gtkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812039105084-5rijb491v3khhlstlg2t6tdh13n0c151.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.io.quality"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

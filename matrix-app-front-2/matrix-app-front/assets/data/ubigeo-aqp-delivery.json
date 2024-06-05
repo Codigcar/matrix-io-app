@@ -1,0 +1,152 @@
+[
+  {
+    "zone": "C",
+    "description": "AREQUIPA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "ALTO SELVA ALEGRE",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "CAYMA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "CERRO COLORADO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "CHARACATO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "CHIGUATA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "JACOBO HUNTER",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "JOSÉ LUIS BUSTAMANTE Y RIVERO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "JOSE LUIS",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "LA JOYA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "MARIANO MELGAR",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "MIRAFLORES",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "MOLLEBAYA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "PAUCARPATA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "POCSI",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "POLOBAYA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "QUEQUEÑA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SABANDÍA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SACHACA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SAN JUAN DE SIGUAS",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SAN JUAN DE TARUCANI",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SANTA ISABEL DE SIGUAS",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SANTA RITA DE SIGUAS",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "SOCABAYA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "TIABAYA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "UCHUMAYO",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "VITOR",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "YANAHUARA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "YARABAMBA",
+    "innings": ["unique"]
+  },
+  {
+    "zone": "C",
+    "description": "YURA",
+    "innings": ["unique"]
+  }
+]

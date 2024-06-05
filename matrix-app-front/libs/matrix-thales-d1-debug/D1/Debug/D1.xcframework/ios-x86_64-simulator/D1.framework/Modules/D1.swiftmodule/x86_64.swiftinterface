@@ -1,0 +1,288 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name D1
+import CommonCrypto
+import D1Core
+import Foundation
+import PassKit
+import Swift
+import TPCSDKSwift
+import UIKit
+public struct ProvisioningMethod {
+  public let pushHandler: Swift.String?
+  public let platformType: Swift.String?
+}
+public struct ConfigParams : Swift.Hashable {
+  public static func coreConfig(consumerID: Swift.String) -> D1.ConfigParams
+  public static func cardConfig() -> D1.ConfigParams
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: D1.ConfigParams, b: D1.ConfigParams) -> Swift.Bool
+}
+public struct CardAsset {
+  public let assetContentType: D1.CardAssetContentType
+  public let contentArray: [D1.CardAssetContent]
+}
+public struct TokenRequestor {
+  public let id: Swift.String?
+  public let name: Swift.String?
+  public let asset: [D1.CardAssetContent]?
+  public let provisioningMethods: [D1.ProvisioningMethod]?
+}
+public struct CardDetails {
+  public var pan: Foundation.Data {
+    get
+  }
+  public var expiryDate: Foundation.Data {
+    get
+  }
+  public var cvv: Foundation.Data {
+    get
+  }
+  public var cardHolderName: Foundation.Data? {
+    get
+  }
+}
+extension CardDetails {
+  public mutating func wipe()
+}
+public struct CardAssetContent {
+  public let mimeType: D1.CardMimeType
+  public let encodedData: Swift.String
+  public let width: Swift.Int
+  public let height: Swift.Int
+}
+public enum CardAssetContentType : Swift.String {
+  case icon
+  case background
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum CardScheme : Swift.String {
+  case visa
+  case mastercard
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum CardState : Swift.String {
+  case active
+  case inactive
+  case expired
+  case deleted
+  case pendingIDV
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum CardMimeType : Swift.String, Swift.CaseIterable {
+  case pdf
+  case png
+  case svg
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+  public typealias AllCases = [D1.CardMimeType]
+  public static var allCases: [D1.CardMimeType] {
+    get
+  }
+}
+public enum CardAction : Swift.String {
+  case resume
+  case suspend
+  case delete
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum CardDigitizationState {
+  case digitized
+  case notDigitized
+  case pendingIDVLocal
+  case pendingIDVRemote
+  public static func == (a: D1.CardDigitizationState, b: D1.CardDigitizationState) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public struct DigitalCard {
+  public let cardID: Swift.String
+  public let state: D1.CardState
+  public let scheme: D1.CardScheme
+  public let last4: Swift.String?
+  public let expiryDate: Swift.String?
+  public let deviceID: Swift.String?
+  public let deviceName: Swift.String?
+  public let deviceType: Swift.String?
+  public let walletID: Swift.String?
+  public let walletName: Swift.String?
+  public let walletAsset: [D1.CardAssetContent]?
+}
+public enum CardActivationMethod {
+  case cvv
+  case last4
+  case nothing
+  public static func == (a: D1.CardActivationMethod, b: D1.CardActivationMethod) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public struct D1Error : Swift.Error {
+  public enum Code : Swift.Int, Swift.CaseIterable {
+    case cancelled
+    case notLoggedIn
+    case notAuthorized
+    case deviceEnvironmentUnsafe
+    case core
+    case noCardActivationMethod
+    case uiComponentNotFound
+    case risk
+    case card
+    case cardNotSupported
+    case cardNoPendingIDV
+    case notInitialized
+    case invalidArgument
+    public typealias RawValue = Swift.Int
+    public init?(rawValue: Swift.Int)
+    public var rawValue: Swift.Int {
+      get
+    }
+    public typealias AllCases = [D1.D1Error.Code]
+    public static var allCases: [D1.D1Error.Code] {
+      get
+    }
+  }
+  public let code: D1.D1Error.Code
+}
+extension D1Error : Foundation.LocalizedError {
+  public var failureReason: Swift.String? {
+    get
+  }
+  public var errorDescription: Swift.String? {
+    get
+  }
+  public var recoverySuggestion: Swift.String? {
+    get
+  }
+}
+public struct CardDigitizationResult {
+  public let state: D1.CardDigitizationState
+  public let localPKPass: PassKit.PKPass?
+  public let remotePKPass: PassKit.PKPass?
+}
+public struct CardMetadata {
+  public let cardLast4: Swift.String
+  public let cardExpiry: Swift.String
+  public let cardScheme: D1.CardScheme
+  public let cardState: D1.CardState
+  public let cardAssetArray: [D1.CardAsset]?
+}
+@_hasMissingDesignatedInitializers public class D1Task {
+  public struct Components {
+    public var d1ServiceURLString: Swift.String?
+    public var issuerID: Swift.String?
+    public var d1ServiceRSAExponent: Foundation.Data?
+    public var d1ServiceRSAModulus: Foundation.Data?
+    public var digitalCardURLString: Swift.String?
+    public func task() -> D1.D1Task
+    public init()
+  }
+  public static func getSDKVersions() -> [Swift.String : Swift.String]
+  public func configure(_ configParams: Swift.Set<D1.ConfigParams>, completion: @escaping ([D1.D1Error]?) -> Swift.Void)
+  public func login(_ issuerToken: inout Foundation.Data, completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func logout(_ completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func cardMetadata(_ cardID: Swift.String, completion: @escaping (D1.CardMetadata?, D1.D1Error?) -> Swift.Void)
+  public func cardDetails(_ cardID: Swift.String, completion: @escaping (D1.CardDetails?, D1.D1Error?) -> Swift.Void)
+  public func displayCardDetails(_ cardID: Swift.String, cardDetailsUI ui: D1.CardDetailsUI, completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func physicalCardPIN(_ cardID: Swift.String, completion: @escaping (inout Foundation.Data?, D1.D1Error?) -> Swift.Void)
+  public func displayPhysicalCardPIN(_ cardID: Swift.String, cardPINUI: D1.CardPINUI, completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func cardActivationMethod(_ cardID: Swift.String, completion: @escaping (D1.CardActivationMethod?, D1.D1Error?) -> Swift.Void)
+  public func activatePhysicalCard(_ cardID: Swift.String, entryUI: D1.EntryUI, completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func cardDigitizationState(_ cardID: Swift.String, completion: @escaping (D1.CardDigitizationResult?, D1.D1Error?) -> Swift.Void)
+  public func addDigitalCardToOEM(_ cardID: Swift.String, viewController: UIKit.UIViewController, completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func activateDigitalCard(_ cardID: Swift.String, completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func digitalCardList(_ cardID: Swift.String, completion: @escaping ([D1.DigitalCard]?, D1.D1Error?) -> Swift.Void)
+  public func updateDigitalCard(_ cardID: Swift.String, digitalCard: D1.DigitalCard, action: D1.CardAction, completion: @escaping (Swift.Bool, D1.D1Error?) -> Swift.Void)
+  public func tokenRequestorList(_ cardID: Swift.String, completion: @escaping ([D1.TokenRequestor]?, D1.D1Error?) -> Swift.Void)
+  public func addDigitalCardToScheme(_ cardID: Swift.String, tokenRequestor: D1.TokenRequestor, appURL: Swift.String, termsAndConditionsAccepted: Swift.Bool, completion: @escaping (Swift.String?, D1.D1Error?) -> Swift.Void)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers public class D1DisplayTextField : D1Core.D1CDisplayTextField {
+  @objc override dynamic public func insecureCopyToClipboard()
+  @objc deinit
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+public struct EntryUI {
+  public var entryTextField: D1.D1SecureTextField?
+  public init(entryTextField: D1.D1SecureTextField?)
+}
+public struct CardPINUI {
+  public var pinTextField: D1.D1PINDisplayTextField?
+  public init(pinTextField: D1.D1PINDisplayTextField?)
+  public func wipe()
+}
+@objc @_inheritsConvenienceInitializers public class D1PINDisplayTextField : D1Core.D1CPinDisplayTextField {
+  @objc deinit
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+@objc @_inheritsConvenienceInitializers public class D1SecureTextField : D1Core.D1CSecureTextField {
+  @objc override dynamic public var text: Swift.String? {
+    @objc get
+    @objc set(newValue)
+  }
+  @objc deinit
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+public struct CardDetailsUI {
+  public init(panTextField pan: D1.D1DisplayTextField?, expiryDateTextField expiryDate: D1.D1DisplayTextField?, cvvTextField cvv: D1.D1DisplayTextField?, cardHolderNameTextField cardHolderName: D1.D1DisplayTextField?)
+  public init()
+  public var panTextField: D1.D1DisplayTextField? {
+    get
+    set(value)
+  }
+  public var expiryDateTextField: D1.D1DisplayTextField? {
+    get
+    set(value)
+  }
+  public var cvvTextField: D1.D1DisplayTextField? {
+    get
+    set(value)
+  }
+  public var cardHolderNameTextField: D1.D1DisplayTextField? {
+    get
+    set(value)
+  }
+  public var panSeparatorCharacter: Swift.String {
+    get
+    set(value)
+  }
+  public var panMaskCharacter: Swift.String {
+    get
+    set(value)
+  }
+  public var expiryDateFormat: Swift.String {
+    get
+    set(value)
+  }
+  public func showCardDetails(completion: @escaping (D1.D1Error?) -> Swift.Void)
+  public func maskCardDetails()
+  public func wipe()
+}

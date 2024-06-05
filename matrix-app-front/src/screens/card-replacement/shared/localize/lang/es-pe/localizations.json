@@ -1,0 +1,24 @@
+{
+  "validation-success": {
+    "title": "¡Bienvenido de vuelta,",
+    "continue-message": "A continuación vamos a generar tu nueva tarjeta virtual ",
+    "button": "Generar tarjeta"
+  },
+  "validation-error": {
+    "title": "¡Lo sentimos!",
+    "subtitle": "No pudimos validar tu identidad",
+    "message": "Acércate a un lugar con mejor iluminación y vuelve a intentarlo",
+    "button": "Intentar de nuevo"
+  },
+  "loading-modal": {
+    "subtitle": "Estamos generando tu nueva tarjeta de crédito iO",
+    "message": "Por favor espera un momento"
+  },
+  "summary-offer": {
+    "congrats": "¡Felicidades!",
+    "subtitle": "Contarás con los mismos beneficios que tenías con tu anterior tarjeta de crédito ",
+    "benefits": "Beneficios",
+    "feedback-message": "Ten en cuenta que hemos actualizado tu número de tarjeta y CVV2, para tus pagos frecuentes.",
+    "go-home": "Ir al inicio"
+  }
+}

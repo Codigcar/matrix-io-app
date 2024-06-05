@@ -1,0 +1,37 @@
+import { i18n } from 'src/utils/core/MTXStrings';
+
+export const string = {
+  // TODO: Move these to shared/strings when we have all changes of Dambert related to refactor
+  activated: i18n.t('activated'),
+  desactivated: i18n.t('deactivated'),
+  // TODO END
+  cardBlocked: i18n.t('card-blocked'),
+  activatedPurchases: i18n.t('activated-purchases'),
+  desactivatedPurchases: i18n.t('deactivated-purchases'),
+  configureCardSubtitle: i18n.t('configure-card-0-subtitle'),
+  configureCardTitle: i18n.t('configure-card-title'),
+  configureCard0Title: i18n.t('configure-card-0-title'),
+  configureCard0SubtitleInit: i18n.t('configure-card-0-subtitle-init'),
+  configureCard0Subtitle: i18n.t('configure-card-0-subtitle'),
+  walletFlowNFCIncopatibleTitle: i18n.t('wallet-flow.nfc.incompatible.title'),
+  walletFlowNFCIncopatibleMessage: i18n.t('wallet-flow.nfc.incompatible.message'),
+  walletFlowUnderstood: i18n.t('wallet-flow.understood'),
+  cardConfigurationVirtualCard: i18n.t('card-configuration.virtual-card'),
+  cardConfigurationPhysicalCard: i18n.t('card-configuration.physical-card'),
+  configureCardDetail: i18n.t('configure-card-0-detail-0'),
+  configureCard1Detail0: i18n.t('configure-card-1-detail-0'),
+  configureCard0Detail0: i18n.t('configure-card-0-detail-0'),
+  configureCard0Detail1: i18n.t('configure-card-0-detail-1'),
+  configureCard1Detail1: i18n.t('configure-card-1-detail-1'),
+  configureCardError01: i18n.t('configure-card-error-01'),
+  configureCardError02: i18n.t('configure-card-error-02'),
+  noCard: i18n.t('no-card'),
+  configureCardInternetDesactivated: i18n.t('configure-card-internet-deactivated'),
+  configureCardInternetActivated: i18n.t('configure-card-internet-activated'),
+  configureCardForeignDesactivated: i18n.t('configure-card-foreign-deactivated'),
+  configureCardForeignActivated: i18n.t('configure-card-foreign-activated'),
+  cardConfigurationSupplementaryCardLabel: i18n.t('card-configuration.supplementary-card.label'),
+  cardConfigurationSupplementaryCardHelper: i18n.t('card-configuration.supplementary-card.helper'),
+  cardConfigurationSupplementaryCardMessage: i18n.t('card-configuration.supplementary-card.message'),
+  cardConfigurationSupplementaryCardActionText: i18n.t('card-configuration.supplementary-card.action-text'),
+};

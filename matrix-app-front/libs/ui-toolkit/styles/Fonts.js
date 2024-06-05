@@ -1,0 +1,26 @@
+export default {
+  GRAPHIE_LIGHT: 'Graphie-Light',
+  GRAPHIE_REGULAR: 'Graphie-Regular',
+  GRAPHIE_SEMIBOLD: 'Graphie-SemiBold',
+  GRAPHIE_BOLD: 'Graphie-Bold',
+  RECOLETA_REGULAR: 'Recoleta-Regular',
+  RECOLETA_BOLD: 'Recoleta-Bold',
+  EUCLID_CIRCULAR_A_BOLD: 'EuclidCircularA-Bold',
+  EUCLID_CIRCULAR_A_ITALIC: 'EuclidCircularA-Italic',
+  EUCLID_CIRCULAR_A_LIGHT: 'EuclidCircularA-Light',
+  EUCLID_CIRCULAR_A_MEDIUM: 'EuclidCircularA-Medium',
+  EUCLID_CIRCULAR_A_REGULAR: 'EuclidCircularA-Regular',
+  EUCLID_CIRCULAR_A_SEMIBOLD: 'EuclidCircularA-SemiBold',
+  GOOGLE_SANS_MEDIUM: 'GoogleSans-Medium',
+  /* FONT SIZES */
+  SUPER_TITLE_SIZE: 35,
+  TITLE_SIZE: 16,
+  INPUT_TITLE_SIZE: 14,
+  SUB_TITLE_SIZE: 12,
+  CHECKBOX_LIST_SIZE: 13,
+  INPUT_FONT_SIZE: 13,
+  DEFAULT_LETTER_SPACING: 2,
+  EXTENDED_LETTER_SPACING: 10,
+  /* ICON SIZES */
+  DEFAULT_ICON_SIZE: 16,
+};

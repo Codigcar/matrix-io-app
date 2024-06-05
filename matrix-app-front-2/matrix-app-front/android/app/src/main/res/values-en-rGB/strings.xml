@@ -1,0 +1,80 @@
+<resources>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="zui_toolbar_title" translatable="false">Experto iO</string>
+    <string name="zui_hint_type_message" translatable="false">Escribe aquí tu mensaje</string>
+    <string name="zch_member_join" translatable="false">%1$s se unió al chat</string>
+    <string name="zch_member_leave" translatable="false">%1$s abandono el chat</string>
+    <string name="zch_queue_position" translatable="false">Tu posición en el orden de atención es el N° %1$d</string>
+    <string name="zch_end_chat" translatable="false">Finalizar chat</string>
+    <string name="zch_chat_ended" translatable="false">Chat finalizado</string>
+    <string name="zui_default_bot_name" translatable="false">iO</string>
+    <string name="zch_account_availability_failed" translatable="false">¡Hola! En este momento, no tenemos Expertos iO disponibles 😔.  Si deseas, déjanos un mensaje y un experto te responderá a penas esté disponible 😉. En caso quieras bloquear tu tarjeta por pérdida o robo puedes comunicarte 24/7 mediante whatsApp al siguiente número (solo disponible para bloqueos):</string>
+    <string name="zch_offline_form_welcome_message" translatable="false">¡Hola! En este momento, no tenemos Expertos iO disponibles 😔.  Si deseas, déjanos un mensaje y un experto te responderá a penas esté disponible 😉. En caso quieras bloquear tu tarjeta por pérdida o robo puedes comunicarte 24/7 mediante whatsApp al siguiente número (solo disponible para bloqueos):</string>
+    <string name="zch_offline_form_message_field_prompt" translatable="false">+51939668788</string>
+    <string name="zch_offline_form_introduction_message" translatable="false">Para contactarte cuando un agente se encuentre disponible, necesitamos la siguiente información:</string>
+    <string name="zch_pre_chat_name_field_hint" translatable="false">Indícanos tu nombre</string>
+    <string name="zch_pre_chat_name_field_message" translatable="false">Indícanos tu nombre</string>
+    <string name="zch_pre_chat_email_field_hint" translatable="false">Indícanos tu correo electrónico</string>
+    <string name="zch_pre_chat_email_field_message" translatable="false">Indícanos tu correo electrónico</string>
+    <string name="zch_pre_chat_response_accepted_message" translatable="false">Gracias.</string>
+    <string name="zch_pre_chat_skip_button" translatable="false">Omitir</string>
+    <string name="zch_offline_form_completion_acknowledgement" translatable="false">Recibimos su mensaje y nos pondremos en contacto con usted a la mayor brevedad.</string>
+    <string name="zch_pre_chat_welcome_message" translatable="false">¡Te damos la bienvenida a iO! 😊</string>
+    <string name="zch_chat_welcome_message_handover" translatable="false">Estamos contactándote con un experto iO.</string>
+    <string name="zch_chat_comment_acknowledgement" translatable="false">Gracias por su comentarios. Ya puede regresar a la sesión de chat.</string>
+    <string name="zch_chat_comment_composer_hint" translatable="false">Escriba su comentario…</string>
+    <string name="zch_chat_handover_message_selection" translatable="false">Chatear con un agente</string>
+    <string name="zch_chat_rating_comment_action_label" translatable="false">Agregar un comentario</string>
+    <string name="zch_chat_rating_comment_prompt_message" translatable="false">Valoramos su opinión. Si desea, también puede agregar un comentario con más detalles.</string>
+    <string name="zch_chat_rating_label_bad" translatable="false">Mal 👎</string>
+    <string name="zch_chat_rating_label_good" translatable="false">Bien 👍</string>
+    <string name="zch_chat_rating_request_prompt" translatable="false">¡Hola! ¿Cómo le va con el chat con %s?</string>
+    <string name="zch_chat_transcript_email_prompt" translatable="false">¿A qué dirección de correo electrónico debe enviarse la transcripción?</string>
+    <string name="zch_chat_transcript_prompt" translatable="false">¿Desea que se le envíe una transcripción de este chat a su correo electrónico?</string>
+    <string name="zch_chat_transcript_request_confirmation" translatable="false">La transcripción se enviará a %1$s cuando finalice el chat.</string>
+    <string name="zch_offline_message" translatable="false">Desafortunadamente, no hay nadie conectado en este momento. Vuelva a intentarlo más tarde.</string>
+    <string name="zch_pre_chat_department_field_message" translatable="false">¿Cómo podemos ayudarte?</string>
+    <string name="zch_pre_chat_email_field_invalid_message" translatable="false">La dirección de correo electrónico que ingresó no es correcta. Ingrese una dirección de correo electrónico válida.</string>
+    <string name="zch_pre_chat_introduction_greeting" translatable="false">Hola,</string>
+    <string name="zch_pre_chat_introduction_message" translatable="false">Espero te encuentres bien.</string>
+    <string name="zch_pre_chat_message_acknowledgement" translatable="false">Buscaré a alguien para que le ayude. Primero, necesito un poco más de información.</string>
+    <string name="zch_pre_chat_phone_field_hint" translatable="false">¿Cuál es su número de teléfono?</string>
+    <string name="zch_pre_chat_phone_field_message" translatable="false">¿Cuál es su número de teléfono?</string>
+    <string name="zch_request_transcript" translatable="false">Solicitar transcripción</string>
+    <string name="zendesk_contact_support" translatable="false">Soporte</string>
+    <string name="zui_attachment_indicator_accessibility" translatable="false">Seleccione un archivo adjunto</string>
+    <string name="zui_attachment_indicator_n_attachments_selected_accessibility" translatable="false">Hay %d archivos adjuntos seleccionados</string>
+    <string name="zui_attachment_indicator_no_attachments_selected_accessibility" translatable="false">No hay ningún archivo adjunto seleccionado</string>
+    <string name="zui_attachment_indicator_one_attachments_selected_accessibility" translatable="false">Hay un archivo adjunto seleccionado</string>
+    <string name="zui_bot_label" translatable="false">BOT</string>
+    <string name="zui_button_label_no" translatable="false">No</string>
+    <string name="zui_button_label_yes" translatable="false">Sí</string>
+    <string name="zui_cell_text_suggested_article_header" translatable="false">Este artículo podría ser útil:</string>
+    <string name="zui_cell_text_suggested_articles_header" translatable="false">Estos son algunos artículos que podrían ser útiles:</string>
+    <string name="zui_dialog_email_error" translatable="false">Correo electrónico no válido</string>
+    <string name="zui_dialog_email_hint" translatable="false">Dirección de correo electrónico</string>
+    <string name="zui_failed_message_copy" translatable="false">Copiar</string>
+    <string name="zui_failed_message_delete" translatable="false">Borrar</string>
+    <string name="zui_failed_message_retry" translatable="false">Volver a intentar</string>
+    <string name="zui_label_connecting" translatable="false">Conectando…</string>
+    <string name="zui_label_dialog_delete_btn" translatable="false">Borrar mensaje</string>
+    <string name="zui_label_dialog_retry_btn" translatable="false">Volver a intentar</string>
+    <string name="zui_label_failed" translatable="false">Falló</string>
+    <string name="zui_label_reconnecting" translatable="false">Volviendo a conectarse…</string>
+    <string name="zui_label_reconnecting_failed" translatable="false">Falló la conexión.</string>
+    <string name="zui_label_send" translatable="false">Enviar</string>
+    <string name="zui_label_sent" translatable="false">Enviado</string>
+    <string name="zui_label_tap_retry" translatable="false">Tocar para volver a intentar</string>
+    <string name="zui_message_log_article_opened_formatter" translatable="false">%1$s abrió el artículo “%2$s”</string>
+    <string name="zui_message_log_article_suggestion_message" translatable="false">Encontré estos artículos:</string>
+    <string name="zui_message_log_attachment_sending_failed" translatable="false">No se pudo enviar el archivo adjunto</string>
+    <string name="zui_message_log_default_visitor_name" translatable="false">Visitante</string>
+    <string name="zui_message_log_message_attachment_type_not_supported" translatable="false">No se admite este tipo de archivo adjunto</string>
+    <string name="zui_message_log_message_attachments_not_supported" translatable="false">No se admiten archivos adjuntos</string>
+    <string name="zui_message_log_message_failed_to_send" translatable="false">[No se pudo enviar]</string>
+    <string name="zui_message_log_message_file_exceeds_max_size" translatable="false">Excede el tamaño máximo del archivo (%1$s)</string>
+    <string name="zui_message_log_transfer_option_selection_formatter" translatable="false">%1$s seleccionó %2$s</string>
+    <string name="zui_retry_button_label" translatable="false">Volver a intentar</string>
+    <string name="zui_unable_open_file" translatable="false">No se puede abrir el archivo.</string>
+</resources>

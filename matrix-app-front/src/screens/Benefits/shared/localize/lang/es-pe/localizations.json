@@ -1,0 +1,22 @@
+{
+  "title": "Beneficios",
+  "details": "Detalles del beneficio",
+  "how-to-use": "Cómo usar tu beneficio",
+  "locals": "Locales",
+  "effective-date": "Fecha de Vigencia",
+  "terms-and-conditions": "Términos y condiciones",
+  "show-more": "Ver más",
+  "show-less": "Ver menos",
+  "coupon": {
+    "clipboard": "Copiar"
+  },
+  "error": {
+    "title": "¡Lo sentimos!",
+    "first-message": "Tus beneficios no se encuentran \ndisponibles en este momento",
+    "second-message": "Por favor regresa \nmás tarde"
+  },
+  "tag": {
+    "presencial": "Presencial",
+    "virtual": "Virtual"
+  }
+}

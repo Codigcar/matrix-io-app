@@ -1,0 +1,11 @@
+{
+  "card-offer": {
+    "unavailable": {
+      "title": "¡Paciencia, va a llegar!",
+      "description": "Por ahora no calificas para nuestra tarjeta de crédito. Trabajaremos para ofrecerte nuevos productos próximamente.",
+      "legal-check": "Autorizo a iO al tratamiento de mis datos personales para que me contacten y me brinden información sobre sus productos. Para mayor información toca ",
+      "legal-check-link": "aquí",
+      "button": "Terminar"
+    }
+  }
+}

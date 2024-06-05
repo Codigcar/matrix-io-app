@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">com.thalesgroup.gemalto.d1.validation</string>
+    <string name="label_payment">payment</string>
+    <string name="label_d1_pay_description">payment description</string>
+</resources>

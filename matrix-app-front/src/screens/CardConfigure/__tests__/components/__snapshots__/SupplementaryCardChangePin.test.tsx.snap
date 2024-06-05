@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SupplementaryCardChangePin component should match snapshot 1`] = `
+<View
+  style={
+    [
+      {
+        "marginLeft": 2,
+        "marginTop": 14,
+      },
+    ]
+  }
+  testID="supplementaryCardChangePinId"
+>
+  <View
+    style={
+      [
+        {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginTop": 4,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#000000",
+            "fontFamily": "Outfit-SemiBold",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "lineHeight": 16.8,
+          },
+        ]
+      }
+    >
+      Tarjeta física
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "#8F8F8F",
+            "fontFamily": "Outfit-Regular",
+            "fontSize": 13,
+            "letterSpacing": 0.16,
+            "lineHeight": 18.2,
+          },
+        ]
+      }
+    >
+      Activación pendiente
+    </Text>
+  </View>
+  <View
+    style={
+      [
+        {
+          "flexDirection": "row",
+          "marginTop": 4,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#666666",
+            "fontFamily": "Outfit-Regular",
+            "fontSize": 11.375,
+            "letterSpacing": 0.16,
+            "lineHeight": 15.925,
+          },
+        ]
+      }
+    >
+      Para activar tu tarjeta física 
+    </Text>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+      testID="supplementaryCardChangePinActionButtontId"
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#3C5BB9",
+              "fontFamily": "Outfit-Regular",
+              "fontSize": 11.375,
+              "letterSpacing": 0.16,
+              "lineHeight": 15.925,
+              "textDecorationLine": "underline",
+            },
+          ]
+        }
+      >
+        cambia el PIN
+      </Text>
+    </View>
+  </View>
+</View>
+`;

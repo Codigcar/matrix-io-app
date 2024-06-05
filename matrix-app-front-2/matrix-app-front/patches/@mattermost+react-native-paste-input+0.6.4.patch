@@ -1,0 +1,17 @@
+--- a/node_modules/@mattermost/react-native-paste-input/android/src/main/java/com/mattermost/pasteinput/PasteInputActionCallback.kt
++++ b/node_modules/@mattermost/react-native-paste-input/android/src/main/java/com/mattermost/pasteinput/PasteInputActionCallback.kt
+@@ -43,13 +43,7 @@ class PasteInputActionCallback(editText: PasteInputEditText, disabled: Boolean)
+     if (menu != null) {
+       for (i in 0 until menu.size()) {
+         val item = menu.getItem(i)
+-        val id = item.itemId
+-        val shouldDisableMenu = (
+-          id == android.R.id.paste ||
+-            id == android.R.id.copy ||
+-            id == android.R.id.cut
+-          )
+-        item.isEnabled = !shouldDisableMenu
++        item.isEnabled = false
+       }
+     }
+   }

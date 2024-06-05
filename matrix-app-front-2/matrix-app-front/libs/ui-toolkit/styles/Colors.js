@@ -1,0 +1,105 @@
+export default {
+  // *********** PRIMARY ***************
+  PRIMARY_50: '#5d7189',
+  PRIMARY_100: '#506279',
+  PRIMARY_200: '#42536a',
+  PRIMARY_300: '#34445a',
+  PRIMARY_400: '#27354a',
+  PRIMARY_500: '#19263a',
+  PRIMARY_600: '#151f30',
+  PRIMARY_700: '#101926',
+  PRIMARY_800: '#0c121c',
+  PRIMARY_900: '#080c12',
+  PRIMARY_LIGHTEST: '#F0F1F5',
+  PRIMARY_LIGHT: '#D1D4E0',
+  PRIMARY_MEDIUM: '#979DBA',
+  PRIMARY_DARK: '#545B7E',
+  // *********** SECONDARY ***************
+  SECONDARY_50: '#e1f4e1',
+  SECONDARY_100: '#bceebc',
+  SECONDARY_200: '#98e998',
+  SECONDARY_300: '#74e374',
+  SECONDARY_400: '#4fdd4f',
+  SECONDARY_500: '#2bd82b',
+  SECONDARY_600: '#06d206',
+  SECONDARY_700: '#04af04',
+  SECONDARY_800: '#028b02',
+  SECONDARY_900: '#006800',
+  // *********** WHITE ***************
+  WHITE: '#FFFFFF',
+  WHITE_CREDIT_CARD: '#F0F0F3',
+  WHITE_30: 'rgba(255, 255, 255, 0.3)',
+  WHITE_40: 'rgba(255, 255, 255, 0.4)',
+  WHITE_50: '#FEFEF8',
+  // *********** BLACK ***************
+  BLACK: '#000000',
+  BLACK_700: '#222734',
+  BLACK_30: 'rgba(0, 0, 0, 0.3)',
+  // *********** ERROR ***************
+  ERROR: '#D9261F',
+  ERROR_DARK: '#dd1e31',
+  VIDEO_BUTTON: '#EA3323',
+  ERROR_MESSAGE: '#979DBA',
+  // *********** SUCCESS ***************
+  SUCCESS: '#1FAD36',
+  SUCCESS_DARK: '#3E9438',
+  // ********** GRAY SCALE ************
+  ONSURFACE_50: '#e7e8eb',
+  ONSURFACE_100: '#F0F1F5',
+  ONSURFACE_300: '#979DBA',
+  ONSURFACE_400: '#9d9fa8',
+  ONSURFACE_500: '#8a8d97',
+  ONSURFACE_600: '#777a86',
+  ONSURFACE_800: '#515665',
+  // ********** TEXT ************
+  TEXT: '#241f33',
+  HEADING_TITLE_GRAY: '#5F6173',
+  HEADING_TITLE_DARK: '#11142E',
+  SECONDARY_TEXT: '#000000',
+  THIRD_TEXT: '#545B7E',
+  FOURTH_TEXT: '#D1D4E0',
+  TEXT_80: 'rgba(13, 19, 50, 0.8);',
+  // ********** LABEL ************
+  LABEL: '#0D1332',
+  LABEL_30: 'rgba(13, 19, 50, 0.3)',
+  // ********** BACKGROUND ************
+  BACKGROUND_50: '#dee1e3',
+  BACKGROUND_LIGHT: '#FFFFFF',
+  BACKGROUND_700: '#222734',
+  BACKGROUND_WELLCOME_TOP: '#0D1332',
+  BACKGROUND_WELLCOME_BOTTOM: '#545B7E',
+  BACKGROUND_ENROLLMENT: 'rgb(216,237,240)',
+  STEP_BOX_BACKGROUND_40: 'rgba(21, 24, 50, 0.4)',
+  LIVENESS_MASK_COLOR: 'rgba(21, 24, 49, 0.9)',
+  BACKGROUND_PHONE_PREFIX: '#F0F0F0',
+  // ********** COMPONENTS ************
+  SCAN_DNI_CAMARE: '#C4C4C4',
+  SCAN_DNI_BACKGROUND: '#151831B2',
+  // ********** COMPONENTS/Switch ************
+  OFF_TRACK_COLOR: '#d5d6da',
+  // ********** COMPONENTS/Checkbox ************
+  CHECKED: '#1FAD36',
+  ICON: '#ffffff',
+  TEXT_LINK: '#1F43AA',
+  // ************ NEW PRIMARY PALETTE **********
+  NEW_PRIMARY_500: '#11142E',
+  // ********** GENERAL WRAPPER ************
+  BACKGROUND_TOP_COLOR: '#D9DAE1',
+  BACKGROUND_MIDDLE_COLOR: '#FAFAFB',
+  BACKGROUND_BOTTOM_COLOR: '#FAFAFB',
+  BACKGROUND_DARK: '#5F6173',
+  FEEDBACK_INFORMATIVE_LIGHTEST: '#E3EBF8',
+  // ********** BACK ARROW ************
+  BACK_ARROW_DARK: '#292D32',
+  BACK_ARROW_LIGHT: '#FFFFFF',
+  // ********** PROFILE ************
+  LABEL_PROFILE: '#81AAED',
+  PROFILE_TEXT: '#0D1332',
+  ICON_BACKGROUND: '#F0F1F5',
+  // ********** TRANSACTIONS ************
+  TRANSACTION_BACKGROUND_EXTORN: '#DAF1DF',
+  TRANSACTION_BACKGROUND_FAIL: '#FCEAE9',
+  TRANSACTION_METHOD: '#6E7184',
+  TRANSACTION_IN_PROCESS: '#979DBA',
+  GRAY200: '#A2A6BD',
+};

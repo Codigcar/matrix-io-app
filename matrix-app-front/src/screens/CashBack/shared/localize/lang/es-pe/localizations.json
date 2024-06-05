@@ -1,0 +1,63 @@
+{
+  "soon-modal": {
+    "title": "¿Qué es Cashback?",
+    "description": "Es un beneficio permanente que te ofrece tu Tarjeta de Crédito iO y consiste en devolverte un porcentaje del dinero que hayas usado para tus compras.",
+    "apply": "Aplican ",
+    "terms-and-conditions": "Términos y Condiciones",
+    "how-to-win": {
+      "title": "¿Cómo acumulo Cashback?",
+      "description": "De manera automática realizando consumos y compras con la Tarjeta de Crédito iO."
+    },
+    "how-to-use": {
+      "title": "¿Cómo lo uso?",
+      "description": "Puedes usar tu Cashback para abonarlo a tu Tarjeta iO."
+    },
+    "earn": {
+      "title": "¿Cúanto me devuelven por compra?",
+      "description": "Se te devolverá el 1% del dinero de cada consumo, incluso tus pagos en servicios de agua, luz, gas e impuestos."
+    },
+    "message": {
+      "descriptionOne": "Debes tener mínimo ",
+      "descriptionTwo": " para redimir tu cashback"
+    }
+  },
+  "document": {
+    "title": "Términos del Cashback"
+  },
+  "redemption": {
+    "button-use-my-cashback": "Usar mi cashback",
+    "pay-my-card": {
+      "title": "Abonar a mi tarjeta iO",
+      "first-message-init": "Cashback disponible para abonar:",
+      "pay-button": "Pagar mi tarjeta iO",
+      "message-error-minimum amount": "El monto mínimo para abonar es: ",
+      "message-error-amount-exceeds-available": "Ingresa un monto que no exceda el saldo disponible"
+    }
+  },
+  "redemptionLoading": {
+    "completing": {
+      "title": "Estamos completando\ntu abono",
+      "description": "¡Casi hemos terminado!\nEstamos a punto de finalizar"
+    }
+  },
+  "redemptionSuccess": {
+    "title": "¡Felicidades!",
+    "sub-title": "¡Tu abono se realizó con éxito!",
+    "box-title": "Datos de la operación",
+    "email-sent": "Te hemos enviado una constancia a tu correo:",
+    "operation-code": "Código de operación:",
+    "go-home": "Ir al inicio",
+    "description": "Abono a tarjeta iO",
+    "message": "Te hemos enviado una constancia a tu correo:",
+    "notification": "Te notificaremos a tu correo apenas el abono haya sido procesado. Podrás verlo reflejado en movimientos en los ",
+    "notification-time": "próximos minutos."
+  },
+  "redemptionError": {
+    "ups": "¡Lo sentimos!",
+    "detail-invalid-redemption": "No pudimos abonar el Cashback\n a tu tarjeta IO",
+    "detail-general-error-blocked": "Por favor, inténtalo más tarde",
+    "its-not-you": "No eres tú, somos nosotros, estamos\ntrabajando para solucionar el inconveniente.\n Por favor, inténtalo de nuevo en unos minutos",
+    "finish": "Finalizar",
+    "understood": "Entendido"
+  }
+}

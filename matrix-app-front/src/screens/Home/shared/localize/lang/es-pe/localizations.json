@@ -1,0 +1,13 @@
+{
+  "transactions": {
+    "movements": "Movimientos",
+    "view-movements":"Ver movimientos"
+  },
+  "cashback": {
+    "title": "Cashback",
+    "accumulated": "Acumulado",
+    "service-error": "Datos no disponibles.",
+    "tap-refresh": "Tap",
+    "tap-refresh-label": "para recargar"
+  }
+}

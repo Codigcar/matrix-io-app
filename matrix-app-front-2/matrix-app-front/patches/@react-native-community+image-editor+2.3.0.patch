@@ -1,0 +1,41 @@
+diff --git a/node_modules/@react-native-community/image-editor/android/src/main/java/com/reactnativecommunity/imageeditor/ImageEditorModule.java b/node_modules/@react-native-community/image-editor/android/src/main/java/com/reactnativecommunity/imageeditor/ImageEditorModule.java
+index c053ab4..f40883c 100644
+--- a/node_modules/@react-native-community/image-editor/android/src/main/java/com/reactnativecommunity/imageeditor/ImageEditorModule.java
++++ b/node_modules/@react-native-community/image-editor/android/src/main/java/com/reactnativecommunity/imageeditor/ImageEditorModule.java
+@@ -255,6 +255,23 @@ public class ImageEditorModule extends ReactContextBaseJavaModule {
+       return stream;
+     }
+ 
++    private String getMimeType() throws IOException {
++
++      BitmapFactory.Options outOptions = new BitmapFactory.Options();
++      outOptions.inJustDecodeBounds = true;
++
++      InputStream inputStream = openBitmapInputStream();
++
++      try {
++        BitmapFactory.decodeStream(inputStream, null, outOptions);
++        return outOptions.outMimeType;
++      } finally {
++        if (inputStream != null) {
++          inputStream.close();
++        }
++      }
++    }
++
+     @Override
+     protected void doInBackgroundGuarded(Void... params) {
+       try {
+@@ -272,7 +289,11 @@ public class ImageEditorModule extends ReactContextBaseJavaModule {
+ 
+         String mimeType = outOptions.outMimeType;
+         if (mimeType == null || mimeType.isEmpty()) {
+-          throw new IOException("Could not determine MIME type");
++          mimeType = getMimeType();
++
++          if (mimeType == null || mimeType.isEmpty()) {
++            throw new IOException("Could not determine MIME type");
++          }
+         }
+ 
+         File tempFile = createTempFile(mContext, mimeType);

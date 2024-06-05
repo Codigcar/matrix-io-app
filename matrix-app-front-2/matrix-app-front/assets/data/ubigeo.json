@@ -1,0 +1,10492 @@
+[
+  {
+    "code": "010000",
+    "description": "AMAZONAS",
+    "parent": ""
+  },
+  {
+    "code": "010100",
+    "description": "CHACHAPOYAS",
+    "parent": "010000"
+  },
+  {
+    "code": "010101",
+    "description": "CHACHAPOYAS",
+    "parent": "010100"
+  },
+  {
+    "code": "010102",
+    "description": "ASUNCION",
+    "parent": "010100"
+  },
+  {
+    "code": "010103",
+    "description": "BALSAS",
+    "parent": "010100"
+  },
+  {
+    "code": "010104",
+    "description": "CHETO",
+    "parent": "010100"
+  },
+  {
+    "code": "010105",
+    "description": "CHILIQUIN",
+    "parent": "010100"
+  },
+  {
+    "code": "010106",
+    "description": "CHUQUIBAMBA",
+    "parent": "010100"
+  },
+  {
+    "code": "010107",
+    "description": "GRANADA",
+    "parent": "010100"
+  },
+  {
+    "code": "010108",
+    "description": "HUANCAS",
+    "parent": "010100"
+  },
+  {
+    "code": "010109",
+    "description": "LA JALCA",
+    "parent": "010100"
+  },
+  {
+    "code": "010110",
+    "description": "LEIMEBAMBA",
+    "parent": "010100"
+  },
+  {
+    "code": "010111",
+    "description": "LEVANTO",
+    "parent": "010100"
+  },
+  {
+    "code": "010112",
+    "description": "MAGDALENA",
+    "parent": "010100"
+  },
+  {
+    "code": "010113",
+    "description": "MARISCAL CASTILLA",
+    "parent": "010100"
+  },
+  {
+    "code": "010114",
+    "description": "MOLINOPAMPA",
+    "parent": "010100"
+  },
+  {
+    "code": "010115",
+    "description": "MONTEVIDEO",
+    "parent": "010100"
+  },
+  {
+    "code": "010116",
+    "description": "OLLEROS",
+    "parent": "010100"
+  },
+  {
+    "code": "010117",
+    "description": "QUINJALCA",
+    "parent": "010100"
+  },
+  {
+    "code": "010118",
+    "description": "SAN FRANCISCO DE DAGUAS",
+    "parent": "010100"
+  },
+  {
+    "code": "010119",
+    "description": "SAN ISIDRO DE MAINO",
+    "parent": "010100"
+  },
+  {
+    "code": "010120",
+    "description": "SOLOCO",
+    "parent": "010100"
+  },
+  {
+    "code": "010121",
+    "description": "SONCHE",
+    "parent": "010100"
+  },
+  {
+    "code": "010200",
+    "description": "BAGUA",
+    "parent": "010000"
+  },
+  {
+    "code": "010201",
+    "description": "LA PECA",
+    "parent": "010200"
+  },
+  {
+    "code": "010202",
+    "description": "ARAMANGO",
+    "parent": "010200"
+  },
+  {
+    "code": "010203",
+    "description": "COPALLIN",
+    "parent": "010200"
+  },
+  {
+    "code": "010204",
+    "description": "EL PARCO",
+    "parent": "010200"
+  },
+  {
+    "code": "010205",
+    "description": "IMAZA",
+    "parent": "010200"
+  },
+  {
+    "code": "010300",
+    "description": "BONGARA",
+    "parent": "010000"
+  },
+  {
+    "code": "010301",
+    "description": "JUMBILLA",
+    "parent": "010300"
+  },
+  {
+    "code": "010302",
+    "description": "CHISQUILLA",
+    "parent": "010300"
+  },
+  {
+    "code": "010303",
+    "description": "CHURUJA",
+    "parent": "010300"
+  },
+  {
+    "code": "010304",
+    "description": "COROSHA",
+    "parent": "010300"
+  },
+  {
+    "code": "010305",
+    "description": "CUISPES",
+    "parent": "010300"
+  },
+  {
+    "code": "010306",
+    "description": "FLORIDA",
+    "parent": "010300"
+  },
+  {
+    "code": "010307",
+    "description": "JAZÁN",
+    "parent": "010300"
+  },
+  {
+    "code": "010308",
+    "description": "RECTA",
+    "parent": "010300"
+  },
+  {
+    "code": "010309",
+    "description": "SAN CARLOS",
+    "parent": "010300"
+  },
+  {
+    "code": "010310",
+    "description": "SHIPASBAMBA",
+    "parent": "010300"
+  },
+  {
+    "code": "010311",
+    "description": "VALERA",
+    "parent": "010300"
+  },
+  {
+    "code": "010312",
+    "description": "YAMBRASBAMBA",
+    "parent": "010300"
+  },
+  {
+    "code": "010400",
+    "description": "CONDORCANQUI",
+    "parent": "010000"
+  },
+  {
+    "code": "010401",
+    "description": "NIEVA",
+    "parent": "010400"
+  },
+  {
+    "code": "010402",
+    "description": "EL CENEPA",
+    "parent": "010400"
+  },
+  {
+    "code": "010403",
+    "description": "RIO SANTIAGO",
+    "parent": "010400"
+  },
+  {
+    "code": "010500",
+    "description": "LUYA",
+    "parent": "010000"
+  },
+  {
+    "code": "010501",
+    "description": "LAMUD",
+    "parent": "010500"
+  },
+  {
+    "code": "010502",
+    "description": "CAMPORREDONDO",
+    "parent": "010500"
+  },
+  {
+    "code": "010503",
+    "description": "COCABAMBA",
+    "parent": "010500"
+  },
+  {
+    "code": "010504",
+    "description": "COLCAMAR",
+    "parent": "010500"
+  },
+  {
+    "code": "010505",
+    "description": "CONILA",
+    "parent": "010500"
+  },
+  {
+    "code": "010506",
+    "description": "INGUILPATA",
+    "parent": "010500"
+  },
+  {
+    "code": "010507",
+    "description": "LONGUITA",
+    "parent": "010500"
+  },
+  {
+    "code": "010508",
+    "description": "LONYA CHICO",
+    "parent": "010500"
+  },
+  {
+    "code": "010509",
+    "description": "LUYA",
+    "parent": "010500"
+  },
+  {
+    "code": "010510",
+    "description": "LUYA VIEJO",
+    "parent": "010500"
+  },
+  {
+    "code": "010511",
+    "description": "MARIA",
+    "parent": "010500"
+  },
+  {
+    "code": "010512",
+    "description": "OCALLI",
+    "parent": "010500"
+  },
+  {
+    "code": "010513",
+    "description": "OCUMAL",
+    "parent": "010500"
+  },
+  {
+    "code": "010514",
+    "description": "PISUQUIA",
+    "parent": "010500"
+  },
+  {
+    "code": "010515",
+    "description": "PROVIDENCIA",
+    "parent": "010500"
+  },
+  {
+    "code": "010516",
+    "description": "SAN CRISTOBAL",
+    "parent": "010500"
+  },
+  {
+    "code": "010517",
+    "description": "SAN FRANCISCO DE YESO",
+    "parent": "010500"
+  },
+  {
+    "code": "010518",
+    "description": "SAN JERONIMO",
+    "parent": "010500"
+  },
+  {
+    "code": "010519",
+    "description": "SAN JUAN DE LOPECANCHA",
+    "parent": "010500"
+  },
+  {
+    "code": "010520",
+    "description": "SANTA CATALINA",
+    "parent": "010500"
+  },
+  {
+    "code": "010521",
+    "description": "SANTO TOMAS",
+    "parent": "010500"
+  },
+  {
+    "code": "010522",
+    "description": "TINGO",
+    "parent": "010500"
+  },
+  {
+    "code": "010523",
+    "description": "TRITA",
+    "parent": "010500"
+  },
+  {
+    "code": "010600",
+    "description": "RODRIGUEZ DE MENDOZA",
+    "parent": "010000"
+  },
+  {
+    "code": "010601",
+    "description": "SAN NICOLAS",
+    "parent": "010600"
+  },
+  {
+    "code": "010602",
+    "description": "CHIRIMOTO",
+    "parent": "010600"
+  },
+  {
+    "code": "010603",
+    "description": "COCHAMAL",
+    "parent": "010600"
+  },
+  {
+    "code": "010604",
+    "description": "HUAMBO",
+    "parent": "010600"
+  },
+  {
+    "code": "010605",
+    "description": "LIMABAMBA",
+    "parent": "010600"
+  },
+  {
+    "code": "010606",
+    "description": "LONGAR",
+    "parent": "010600"
+  },
+  {
+    "code": "010607",
+    "description": "MARISCAL BENAVIDES",
+    "parent": "010600"
+  },
+  {
+    "code": "010608",
+    "description": "MILPUC",
+    "parent": "010600"
+  },
+  {
+    "code": "010609",
+    "description": "OMIA",
+    "parent": "010600"
+  },
+  {
+    "code": "010610",
+    "description": "SANTA ROSA",
+    "parent": "010600"
+  },
+  {
+    "code": "010611",
+    "description": "TOTORA",
+    "parent": "010600"
+  },
+  {
+    "code": "010612",
+    "description": "VISTA ALEGRE",
+    "parent": "010600"
+  },
+  {
+    "code": "010700",
+    "description": "UTCUBAMBA",
+    "parent": "010000"
+  },
+  {
+    "code": "010701",
+    "description": "BAGUA GRANDE",
+    "parent": "010700"
+  },
+  {
+    "code": "010702",
+    "description": "CAJARURO",
+    "parent": "010700"
+  },
+  {
+    "code": "010703",
+    "description": "CUMBA",
+    "parent": "010700"
+  },
+  {
+    "code": "010704",
+    "description": "EL MILAGRO",
+    "parent": "010700"
+  },
+  {
+    "code": "010705",
+    "description": "JAMALCA",
+    "parent": "010700"
+  },
+  {
+    "code": "010706",
+    "description": "LONYA GRANDE",
+    "parent": "010700"
+  },
+  {
+    "code": "010707",
+    "description": "YAMON",
+    "parent": "010700"
+  },
+  {
+    "code": "020000",
+    "description": "ANCASH",
+    "parent": ""
+  },
+  {
+    "code": "020100",
+    "description": "HUARAZ",
+    "parent": "020000"
+  },
+  {
+    "code": "020101",
+    "description": "HUARAZ",
+    "parent": "020100"
+  },
+  {
+    "code": "020102",
+    "description": "COCHABAMBA",
+    "parent": "020100"
+  },
+  {
+    "code": "020103",
+    "description": "COLCABAMBA",
+    "parent": "020100"
+  },
+  {
+    "code": "020104",
+    "description": "HUANCHAY",
+    "parent": "020100"
+  },
+  {
+    "code": "020105",
+    "description": "INDEPENDENCIA",
+    "parent": "020100"
+  },
+  {
+    "code": "020106",
+    "description": "JANGAS",
+    "parent": "020100"
+  },
+  {
+    "code": "020107",
+    "description": "LA LIBERTAD",
+    "parent": "020100"
+  },
+  {
+    "code": "020108",
+    "description": "OLLEROS",
+    "parent": "020100"
+  },
+  {
+    "code": "020109",
+    "description": "PAMPAS GRANDE",
+    "parent": "020100"
+  },
+  {
+    "code": "020110",
+    "description": "PARIACOTO",
+    "parent": "020100"
+  },
+  {
+    "code": "020111",
+    "description": "PIRA",
+    "parent": "020100"
+  },
+  {
+    "code": "020112",
+    "description": "TARICA",
+    "parent": "020100"
+  },
+  {
+    "code": "020200",
+    "description": "AIJA",
+    "parent": "020000"
+  },
+  {
+    "code": "020201",
+    "description": "AIJA",
+    "parent": "020200"
+  },
+  {
+    "code": "020202",
+    "description": "CORIS",
+    "parent": "020200"
+  },
+  {
+    "code": "020203",
+    "description": "HUACLLAN",
+    "parent": "020200"
+  },
+  {
+    "code": "020204",
+    "description": "LA MERCED",
+    "parent": "020200"
+  },
+  {
+    "code": "020205",
+    "description": "SUCCHA",
+    "parent": "020200"
+  },
+  {
+    "code": "020300",
+    "description": "ANTONIO RAYMONDI",
+    "parent": "020000"
+  },
+  {
+    "code": "020301",
+    "description": "LLAMELLIN",
+    "parent": "020300"
+  },
+  {
+    "code": "020302",
+    "description": "ACZO",
+    "parent": "020300"
+  },
+  {
+    "code": "020303",
+    "description": "CHACCHO",
+    "parent": "020300"
+  },
+  {
+    "code": "020304",
+    "description": "CHINGAS",
+    "parent": "020300"
+  },
+  {
+    "code": "020305",
+    "description": "MIRGAS",
+    "parent": "020300"
+  },
+  {
+    "code": "020306",
+    "description": "SAN JUAN DE RONTOY",
+    "parent": "020300"
+  },
+  {
+    "code": "020400",
+    "description": "ASUNCION",
+    "parent": "020000"
+  },
+  {
+    "code": "020401",
+    "description": "CHACAS",
+    "parent": "020400"
+  },
+  {
+    "code": "020402",
+    "description": "ACOCHACA",
+    "parent": "020400"
+  },
+  {
+    "code": "020500",
+    "description": "BOLOGNESI",
+    "parent": "020000"
+  },
+  {
+    "code": "020501",
+    "description": "CHIQUIAN",
+    "parent": "020500"
+  },
+  {
+    "code": "020502",
+    "description": "ABELARDO PARDO LEZAMETA",
+    "parent": "020500"
+  },
+  {
+    "code": "020503",
+    "description": "ANTONIO RAYMONDI",
+    "parent": "020500"
+  },
+  {
+    "code": "020504",
+    "description": "AQUIA",
+    "parent": "020500"
+  },
+  {
+    "code": "020505",
+    "description": "CAJACAY",
+    "parent": "020500"
+  },
+  {
+    "code": "020506",
+    "description": "CANIS",
+    "parent": "020500"
+  },
+  {
+    "code": "020507",
+    "description": "COLQUIOC",
+    "parent": "020500"
+  },
+  {
+    "code": "020508",
+    "description": "HUALLANCA",
+    "parent": "020500"
+  },
+  {
+    "code": "020509",
+    "description": "HUASTA",
+    "parent": "020500"
+  },
+  {
+    "code": "020510",
+    "description": "HUAYLLACAYAN",
+    "parent": "020500"
+  },
+  {
+    "code": "020511",
+    "description": "LA PRIMAVERA",
+    "parent": "020500"
+  },
+  {
+    "code": "020512",
+    "description": "MANGAS",
+    "parent": "020500"
+  },
+  {
+    "code": "020513",
+    "description": "PACLLON",
+    "parent": "020500"
+  },
+  {
+    "code": "020514",
+    "description": "SAN MIGUEL DE CORPANQUI",
+    "parent": "020500"
+  },
+  {
+    "code": "020515",
+    "description": "TICLLOS",
+    "parent": "020500"
+  },
+  {
+    "code": "020600",
+    "description": "CARHUAZ",
+    "parent": "020000"
+  },
+  {
+    "code": "020601",
+    "description": "CARHUAZ",
+    "parent": "020600"
+  },
+  {
+    "code": "020602",
+    "description": "ACOPAMPA",
+    "parent": "020600"
+  },
+  {
+    "code": "020603",
+    "description": "AMASHCA",
+    "parent": "020600"
+  },
+  {
+    "code": "020604",
+    "description": "ANTA",
+    "parent": "020600"
+  },
+  {
+    "code": "020605",
+    "description": "ATAQUERO",
+    "parent": "020600"
+  },
+  {
+    "code": "020606",
+    "description": "MARCARA",
+    "parent": "020600"
+  },
+  {
+    "code": "020607",
+    "description": "PARIAHUANCA",
+    "parent": "020600"
+  },
+  {
+    "code": "020608",
+    "description": "SAN MIGUEL DE ACO",
+    "parent": "020600"
+  },
+  {
+    "code": "020609",
+    "description": "SHILLA",
+    "parent": "020600"
+  },
+  {
+    "code": "020610",
+    "description": "TINCO",
+    "parent": "020600"
+  },
+  {
+    "code": "020611",
+    "description": "YUNGAR",
+    "parent": "020600"
+  },
+  {
+    "code": "020700",
+    "description": "CARLOS FERMIN FITZCARRALD",
+    "parent": "020000"
+  },
+  {
+    "code": "020701",
+    "description": "SAN LUIS",
+    "parent": "020700"
+  },
+  {
+    "code": "020702",
+    "description": "SAN NICOLAS",
+    "parent": "020700"
+  },
+  {
+    "code": "020703",
+    "description": "YAUYA",
+    "parent": "020700"
+  },
+  {
+    "code": "020800",
+    "description": "CASMA",
+    "parent": "020000"
+  },
+  {
+    "code": "020801",
+    "description": "CASMA",
+    "parent": "020800"
+  },
+  {
+    "code": "020802",
+    "description": "BUENA VISTA ALTA",
+    "parent": "020800"
+  },
+  {
+    "code": "020803",
+    "description": "COMANDANTE NOEL",
+    "parent": "020800"
+  },
+  {
+    "code": "020804",
+    "description": "YAUTAN",
+    "parent": "020800"
+  },
+  {
+    "code": "020900",
+    "description": "CORONGO",
+    "parent": "020000"
+  },
+  {
+    "code": "020901",
+    "description": "CORONGO",
+    "parent": "020900"
+  },
+  {
+    "code": "020902",
+    "description": "ACO",
+    "parent": "020900"
+  },
+  {
+    "code": "020903",
+    "description": "BAMBAS",
+    "parent": "020900"
+  },
+  {
+    "code": "020904",
+    "description": "CUSCA",
+    "parent": "020900"
+  },
+  {
+    "code": "020905",
+    "description": "LA PAMPA",
+    "parent": "020900"
+  },
+  {
+    "code": "020906",
+    "description": "YANAC",
+    "parent": "020900"
+  },
+  {
+    "code": "020907",
+    "description": "YUPAN",
+    "parent": "020900"
+  },
+  {
+    "code": "021000",
+    "description": "HUARI",
+    "parent": "020000"
+  },
+  {
+    "code": "021001",
+    "description": "HUARI",
+    "parent": "021000"
+  },
+  {
+    "code": "021002",
+    "description": "ANRA",
+    "parent": "021000"
+  },
+  {
+    "code": "021003",
+    "description": "CAJAY",
+    "parent": "021000"
+  },
+  {
+    "code": "021004",
+    "description": "CHAVIN DE HUANTAR",
+    "parent": "021000"
+  },
+  {
+    "code": "021005",
+    "description": "HUACACHI",
+    "parent": "021000"
+  },
+  {
+    "code": "021006",
+    "description": "HUACCHIS",
+    "parent": "021000"
+  },
+  {
+    "code": "021007",
+    "description": "HUACHIS",
+    "parent": "021000"
+  },
+  {
+    "code": "021008",
+    "description": "HUANTAR",
+    "parent": "021000"
+  },
+  {
+    "code": "021009",
+    "description": "MASIN",
+    "parent": "021000"
+  },
+  {
+    "code": "021010",
+    "description": "PAUCAS",
+    "parent": "021000"
+  },
+  {
+    "code": "021011",
+    "description": "PONTO",
+    "parent": "021000"
+  },
+  {
+    "code": "021012",
+    "description": "RAHUAPAMPA",
+    "parent": "021000"
+  },
+  {
+    "code": "021013",
+    "description": "RAPAYAN",
+    "parent": "021000"
+  },
+  {
+    "code": "021014",
+    "description": "SAN MARCOS",
+    "parent": "021000"
+  },
+  {
+    "code": "021015",
+    "description": "SAN PEDRO DE CHANA",
+    "parent": "021000"
+  },
+  {
+    "code": "021016",
+    "description": "UCO",
+    "parent": "021000"
+  },
+  {
+    "code": "021100",
+    "description": "HUARMEY",
+    "parent": "020000"
+  },
+  {
+    "code": "021101",
+    "description": "HUARMEY",
+    "parent": "021100"
+  },
+  {
+    "code": "021102",
+    "description": "COCHAPETI",
+    "parent": "021100"
+  },
+  {
+    "code": "021103",
+    "description": "CULEBRAS",
+    "parent": "021100"
+  },
+  {
+    "code": "021104",
+    "description": "HUAYAN",
+    "parent": "021100"
+  },
+  {
+    "code": "021105",
+    "description": "MALVAS",
+    "parent": "021100"
+  },
+  {
+    "code": "021200",
+    "description": "HUAYLAS",
+    "parent": "020000"
+  },
+  {
+    "code": "021201",
+    "description": "CARAZ",
+    "parent": "021200"
+  },
+  {
+    "code": "021202",
+    "description": "HUALLANCA",
+    "parent": "021200"
+  },
+  {
+    "code": "021203",
+    "description": "HUATA",
+    "parent": "021200"
+  },
+  {
+    "code": "021204",
+    "description": "HUAYLAS",
+    "parent": "021200"
+  },
+  {
+    "code": "021205",
+    "description": "MATO",
+    "parent": "021200"
+  },
+  {
+    "code": "021206",
+    "description": "PAMPAROMAS",
+    "parent": "021200"
+  },
+  {
+    "code": "021207",
+    "description": "PUEBLO LIBRE",
+    "parent": "021200"
+  },
+  {
+    "code": "021208",
+    "description": "SANTA CRUZ",
+    "parent": "021200"
+  },
+  {
+    "code": "021209",
+    "description": "SANTO TORIBIO",
+    "parent": "021200"
+  },
+  {
+    "code": "021210",
+    "description": "YURACMARCA",
+    "parent": "021200"
+  },
+  {
+    "code": "021300",
+    "description": "MARISCAL LUZURIAGA",
+    "parent": "020000"
+  },
+  {
+    "code": "021301",
+    "description": "PISCOBAMBA",
+    "parent": "021300"
+  },
+  {
+    "code": "021302",
+    "description": "CASCA",
+    "parent": "021300"
+  },
+  {
+    "code": "021303",
+    "description": "ELEAZAR GUZMAN BARRON",
+    "parent": "021300"
+  },
+  {
+    "code": "021304",
+    "description": "FIDEL OLIVAS ESCUDERO",
+    "parent": "021300"
+  },
+  {
+    "code": "021305",
+    "description": "LLAMA",
+    "parent": "021300"
+  },
+  {
+    "code": "021306",
+    "description": "LLUMPA",
+    "parent": "021300"
+  },
+  {
+    "code": "021307",
+    "description": "LUCMA",
+    "parent": "021300"
+  },
+  {
+    "code": "021308",
+    "description": "MUSGA",
+    "parent": "021300"
+  },
+  {
+    "code": "021400",
+    "description": "OCROS",
+    "parent": "020000"
+  },
+  {
+    "code": "021401",
+    "description": "OCROS",
+    "parent": "021400"
+  },
+  {
+    "code": "021402",
+    "description": "ACAS",
+    "parent": "021400"
+  },
+  {
+    "code": "021403",
+    "description": "CAJAMARQUILLA",
+    "parent": "021400"
+  },
+  {
+    "code": "021404",
+    "description": "CARHUAPAMPA",
+    "parent": "021400"
+  },
+  {
+    "code": "021405",
+    "description": "COCHAS",
+    "parent": "021400"
+  },
+  {
+    "code": "021406",
+    "description": "CONGAS",
+    "parent": "021400"
+  },
+  {
+    "code": "021407",
+    "description": "LLIPA",
+    "parent": "021400"
+  },
+  {
+    "code": "021408",
+    "description": "SAN CRISTOBAL DE RAJAN",
+    "parent": "021400"
+  },
+  {
+    "code": "021409",
+    "description": "SAN PEDRO",
+    "parent": "021400"
+  },
+  {
+    "code": "021410",
+    "description": "SANTIAGO DE CHILCAS",
+    "parent": "021400"
+  },
+  {
+    "code": "021500",
+    "description": "PALLASCA",
+    "parent": "020000"
+  },
+  {
+    "code": "021501",
+    "description": "CABANA",
+    "parent": "021500"
+  },
+  {
+    "code": "021502",
+    "description": "BOLOGNESI",
+    "parent": "021500"
+  },
+  {
+    "code": "021503",
+    "description": "CONCHUCOS",
+    "parent": "021500"
+  },
+  {
+    "code": "021504",
+    "description": "HUACASCHUQUE",
+    "parent": "021500"
+  },
+  {
+    "code": "021505",
+    "description": "HUANDOVAL",
+    "parent": "021500"
+  },
+  {
+    "code": "021506",
+    "description": "LACABAMBA",
+    "parent": "021500"
+  },
+  {
+    "code": "021507",
+    "description": "LLAPO",
+    "parent": "021500"
+  },
+  {
+    "code": "021508",
+    "description": "PALLASCA",
+    "parent": "021500"
+  },
+  {
+    "code": "021509",
+    "description": "PAMPAS",
+    "parent": "021500"
+  },
+  {
+    "code": "021510",
+    "description": "SANTA ROSA",
+    "parent": "021500"
+  },
+  {
+    "code": "021511",
+    "description": "TAUCA",
+    "parent": "021500"
+  },
+  {
+    "code": "021600",
+    "description": "POMABAMBA",
+    "parent": "020000"
+  },
+  {
+    "code": "021601",
+    "description": "POMABAMBA",
+    "parent": "021600"
+  },
+  {
+    "code": "021602",
+    "description": "HUAYLLAN",
+    "parent": "021600"
+  },
+  {
+    "code": "021603",
+    "description": "PAROBAMBA",
+    "parent": "021600"
+  },
+  {
+    "code": "021604",
+    "description": "QUINUABAMBA",
+    "parent": "021600"
+  },
+  {
+    "code": "021700",
+    "description": "RECUAY",
+    "parent": "020000"
+  },
+  {
+    "code": "021701",
+    "description": "RECUAY",
+    "parent": "021700"
+  },
+  {
+    "code": "021702",
+    "description": "CATAC",
+    "parent": "021700"
+  },
+  {
+    "code": "021703",
+    "description": "COTAPARACO",
+    "parent": "021700"
+  },
+  {
+    "code": "021704",
+    "description": "HUAYLLAPAMPA",
+    "parent": "021700"
+  },
+  {
+    "code": "021705",
+    "description": "LLACLLIN",
+    "parent": "021700"
+  },
+  {
+    "code": "021706",
+    "description": "MARCA",
+    "parent": "021700"
+  },
+  {
+    "code": "021707",
+    "description": "PAMPAS CHICO",
+    "parent": "021700"
+  },
+  {
+    "code": "021708",
+    "description": "PARARIN",
+    "parent": "021700"
+  },
+  {
+    "code": "021709",
+    "description": "TAPACOCHA",
+    "parent": "021700"
+  },
+  {
+    "code": "021710",
+    "description": "TICAPAMPA",
+    "parent": "021700"
+  },
+  {
+    "code": "021800",
+    "description": "SANTA",
+    "parent": "020000"
+  },
+  {
+    "code": "021801",
+    "description": "CHIMBOTE",
+    "parent": "021800"
+  },
+  {
+    "code": "021802",
+    "description": "CACERES DEL PERU",
+    "parent": "021800"
+  },
+  {
+    "code": "021803",
+    "description": "COISHCO",
+    "parent": "021800"
+  },
+  {
+    "code": "021804",
+    "description": "MACATE",
+    "parent": "021800"
+  },
+  {
+    "code": "021805",
+    "description": "MORO",
+    "parent": "021800"
+  },
+  {
+    "code": "021806",
+    "description": "NEPEÑA",
+    "parent": "021800"
+  },
+  {
+    "code": "021807",
+    "description": "SAMANCO",
+    "parent": "021800"
+  },
+  {
+    "code": "021808",
+    "description": "SANTA",
+    "parent": "021800"
+  },
+  {
+    "code": "021809",
+    "description": "NUEVO CHIMBOTE",
+    "parent": "021800"
+  },
+  {
+    "code": "021900",
+    "description": "SIHUAS",
+    "parent": "020000"
+  },
+  {
+    "code": "021901",
+    "description": "SIHUAS",
+    "parent": "021900"
+  },
+  {
+    "code": "021902",
+    "description": "ACOBAMBA",
+    "parent": "021900"
+  },
+  {
+    "code": "021903",
+    "description": "ALFONSO UGARTE",
+    "parent": "021900"
+  },
+  {
+    "code": "021904",
+    "description": "CASHAPAMPA",
+    "parent": "021900"
+  },
+  {
+    "code": "021905",
+    "description": "CHINGALPO",
+    "parent": "021900"
+  },
+  {
+    "code": "021906",
+    "description": "HUAYLLABAMBA",
+    "parent": "021900"
+  },
+  {
+    "code": "021907",
+    "description": "QUICHES",
+    "parent": "021900"
+  },
+  {
+    "code": "021908",
+    "description": "RAGASH",
+    "parent": "021900"
+  },
+  {
+    "code": "021909",
+    "description": "SAN JUAN",
+    "parent": "021900"
+  },
+  {
+    "code": "021910",
+    "description": "SICSIBAMBA",
+    "parent": "021900"
+  },
+  {
+    "code": "022000",
+    "description": "YUNGAY",
+    "parent": "020000"
+  },
+  {
+    "code": "022001",
+    "description": "YUNGAY",
+    "parent": "022000"
+  },
+  {
+    "code": "022002",
+    "description": "CASCAPARA",
+    "parent": "022000"
+  },
+  {
+    "code": "022003",
+    "description": "MANCOS",
+    "parent": "022000"
+  },
+  {
+    "code": "022004",
+    "description": "MATACOTO",
+    "parent": "022000"
+  },
+  {
+    "code": "022005",
+    "description": "QUILLO",
+    "parent": "022000"
+  },
+  {
+    "code": "022006",
+    "description": "RANRAHIRCA",
+    "parent": "022000"
+  },
+  {
+    "code": "022007",
+    "description": "SHUPLUY",
+    "parent": "022000"
+  },
+  {
+    "code": "022008",
+    "description": "YANAMA",
+    "parent": "022000"
+  },
+  {
+    "code": "030000",
+    "description": "APURIMAC",
+    "parent": ""
+  },
+  {
+    "code": "030100",
+    "description": "ABANCAY",
+    "parent": "030000"
+  },
+  {
+    "code": "030101",
+    "description": "ABANCAY",
+    "parent": "030100"
+  },
+  {
+    "code": "030102",
+    "description": "CHACOCHE",
+    "parent": "030100"
+  },
+  {
+    "code": "030103",
+    "description": "CIRCA",
+    "parent": "030100"
+  },
+  {
+    "code": "030104",
+    "description": "CURAHUASI",
+    "parent": "030100"
+  },
+  {
+    "code": "030105",
+    "description": "HUANIPACA",
+    "parent": "030100"
+  },
+  {
+    "code": "030106",
+    "description": "LAMBRAMA",
+    "parent": "030100"
+  },
+  {
+    "code": "030107",
+    "description": "PICHIRHUA",
+    "parent": "030100"
+  },
+  {
+    "code": "030108",
+    "description": "SAN PEDRO DE CACHORA",
+    "parent": "030100"
+  },
+  {
+    "code": "030109",
+    "description": "TAMBURCO",
+    "parent": "030100"
+  },
+  {
+    "code": "030200",
+    "description": "ANDAHUAYLAS",
+    "parent": "030000"
+  },
+  {
+    "code": "030201",
+    "description": "ANDAHUAYLAS",
+    "parent": "030200"
+  },
+  {
+    "code": "030202",
+    "description": "ANDARAPA",
+    "parent": "030200"
+  },
+  {
+    "code": "030203",
+    "description": "CHIARA",
+    "parent": "030200"
+  },
+  {
+    "code": "030204",
+    "description": "HUANCARAMA",
+    "parent": "030200"
+  },
+  {
+    "code": "030205",
+    "description": "HUANCARAY",
+    "parent": "030200"
+  },
+  {
+    "code": "030206",
+    "description": "HUAYANA",
+    "parent": "030200"
+  },
+  {
+    "code": "030207",
+    "description": "KISHUARA",
+    "parent": "030200"
+  },
+  {
+    "code": "030208",
+    "description": "PACOBAMBA",
+    "parent": "030200"
+  },
+  {
+    "code": "030209",
+    "description": "PACUCHA",
+    "parent": "030200"
+  },
+  {
+    "code": "030210",
+    "description": "PAMPACHIRI",
+    "parent": "030200"
+  },
+  {
+    "code": "030211",
+    "description": "POMACOCHA",
+    "parent": "030200"
+  },
+  {
+    "code": "030212",
+    "description": "SAN ANTONIO DE CACHI",
+    "parent": "030200"
+  },
+  {
+    "code": "030213",
+    "description": "SAN JERONIMO",
+    "parent": "030200"
+  },
+  {
+    "code": "030214",
+    "description": "SAN MIGUEL DE CHACCRAMPA",
+    "parent": "030200"
+  },
+  {
+    "code": "030215",
+    "description": "SANTA MARIA DE CHICMO",
+    "parent": "030200"
+  },
+  {
+    "code": "030216",
+    "description": "TALAVERA",
+    "parent": "030200"
+  },
+  {
+    "code": "030217",
+    "description": "TUMAY HUARACA",
+    "parent": "030200"
+  },
+  {
+    "code": "030218",
+    "description": "TURPO",
+    "parent": "030200"
+  },
+  {
+    "code": "030219",
+    "description": "KAQUIABAMBA",
+    "parent": "030200"
+  },
+  {
+    "code": "030300",
+    "description": "ANTABAMBA",
+    "parent": "030000"
+  },
+  {
+    "code": "030301",
+    "description": "ANTABAMBA",
+    "parent": "030300"
+  },
+  {
+    "code": "030302",
+    "description": "EL ORO",
+    "parent": "030300"
+  },
+  {
+    "code": "030303",
+    "description": "HUAQUIRCA",
+    "parent": "030300"
+  },
+  {
+    "code": "030304",
+    "description": "JUAN ESPINOZA MEDRANO",
+    "parent": "030300"
+  },
+  {
+    "code": "030305",
+    "description": "OROPESA",
+    "parent": "030300"
+  },
+  {
+    "code": "030306",
+    "description": "PACHACONAS",
+    "parent": "030300"
+  },
+  {
+    "code": "030307",
+    "description": "SABAINO",
+    "parent": "030300"
+  },
+  {
+    "code": "030400",
+    "description": "AYMARAES",
+    "parent": "030000"
+  },
+  {
+    "code": "030401",
+    "description": "CHALHUANCA",
+    "parent": "030400"
+  },
+  {
+    "code": "030402",
+    "description": "CAPAYA",
+    "parent": "030400"
+  },
+  {
+    "code": "030403",
+    "description": "CARAYBAMBA",
+    "parent": "030400"
+  },
+  {
+    "code": "030404",
+    "description": "CHAPIMARCA",
+    "parent": "030400"
+  },
+  {
+    "code": "030405",
+    "description": "COLCABAMBA",
+    "parent": "030400"
+  },
+  {
+    "code": "030406",
+    "description": "COTARUSE",
+    "parent": "030400"
+  },
+  {
+    "code": "030407",
+    "description": "IHUAYLLO",
+    "parent": "030400"
+  },
+  {
+    "code": "030408",
+    "description": "JUSTO APU SAHUARAURA",
+    "parent": "030400"
+  },
+  {
+    "code": "030409",
+    "description": "LUCRE",
+    "parent": "030400"
+  },
+  {
+    "code": "030410",
+    "description": "POCOHUANCA",
+    "parent": "030400"
+  },
+  {
+    "code": "030411",
+    "description": "SAN JUAN DE CHACÑA",
+    "parent": "030400"
+  },
+  {
+    "code": "030412",
+    "description": "SAÑAYCA",
+    "parent": "030400"
+  },
+  {
+    "code": "030413",
+    "description": "SORAYA",
+    "parent": "030400"
+  },
+  {
+    "code": "030414",
+    "description": "TAPAIRIHUA",
+    "parent": "030400"
+  },
+  {
+    "code": "030415",
+    "description": "TINTAY",
+    "parent": "030400"
+  },
+  {
+    "code": "030416",
+    "description": "TORAYA",
+    "parent": "030400"
+  },
+  {
+    "code": "030417",
+    "description": "YANACA",
+    "parent": "030400"
+  },
+  {
+    "code": "030500",
+    "description": "COTABAMBAS",
+    "parent": "030000"
+  },
+  {
+    "code": "030501",
+    "description": "TAMBOBAMBA",
+    "parent": "030500"
+  },
+  {
+    "code": "030502",
+    "description": "COTABAMBAS",
+    "parent": "030500"
+  },
+  {
+    "code": "030503",
+    "description": "COYLLURQUI",
+    "parent": "030500"
+  },
+  {
+    "code": "030504",
+    "description": "HAQUIRA",
+    "parent": "030500"
+  },
+  {
+    "code": "030505",
+    "description": "MARA",
+    "parent": "030500"
+  },
+  {
+    "code": "030506",
+    "description": "CHALLHUAHUACHO",
+    "parent": "030500"
+  },
+  {
+    "code": "030600",
+    "description": "CHINCHEROS",
+    "parent": "030000"
+  },
+  {
+    "code": "030601",
+    "description": "CHINCHEROS",
+    "parent": "030600"
+  },
+  {
+    "code": "030602",
+    "description": "ANCO-HUALLO",
+    "parent": "030600"
+  },
+  {
+    "code": "030603",
+    "description": "COCHARCAS",
+    "parent": "030600"
+  },
+  {
+    "code": "030604",
+    "description": "HUACCANA",
+    "parent": "030600"
+  },
+  {
+    "code": "030605",
+    "description": "OCOBAMBA",
+    "parent": "030600"
+  },
+  {
+    "code": "030606",
+    "description": "ONGOY",
+    "parent": "030600"
+  },
+  {
+    "code": "030607",
+    "description": "URANMARCA",
+    "parent": "030600"
+  },
+  {
+    "code": "030608",
+    "description": "RANRACANCHA",
+    "parent": "030600"
+  },
+  {
+    "code": "030700",
+    "description": "GRAU",
+    "parent": "030000"
+  },
+  {
+    "code": "030701",
+    "description": "CHUQUIBAMBILLA",
+    "parent": "030700"
+  },
+  {
+    "code": "030702",
+    "description": "CURPAHUASI",
+    "parent": "030700"
+  },
+  {
+    "code": "030703",
+    "description": "GAMARRA",
+    "parent": "030700"
+  },
+  {
+    "code": "030704",
+    "description": "HUAYLLATI",
+    "parent": "030700"
+  },
+  {
+    "code": "030705",
+    "description": "MAMARA",
+    "parent": "030700"
+  },
+  {
+    "code": "030706",
+    "description": "MICAELA BASTIDAS",
+    "parent": "030700"
+  },
+  {
+    "code": "030707",
+    "description": "PATAYPAMPA",
+    "parent": "030700"
+  },
+  {
+    "code": "030708",
+    "description": "PROGRESO",
+    "parent": "030700"
+  },
+  {
+    "code": "030709",
+    "description": "SAN ANTONIO",
+    "parent": "030700"
+  },
+  {
+    "code": "030710",
+    "description": "SANTA ROSA",
+    "parent": "030700"
+  },
+  {
+    "code": "030711",
+    "description": "TURPAY",
+    "parent": "030700"
+  },
+  {
+    "code": "030712",
+    "description": "VILCABAMBA",
+    "parent": "030700"
+  },
+  {
+    "code": "030713",
+    "description": "VIRUNDO",
+    "parent": "030700"
+  },
+  {
+    "code": "030714",
+    "description": "CURASCO",
+    "parent": "030700"
+  },
+  {
+    "code": "040000",
+    "description": "AREQUIPA",
+    "parent": ""
+  },
+  {
+    "code": "040100",
+    "description": "AREQUIPA",
+    "parent": "040000"
+  },
+  {
+    "code": "040101",
+    "description": "AREQUIPA",
+    "parent": "040100"
+  },
+  {
+    "code": "040102",
+    "description": "ALTO SELVA ALEGRE",
+    "parent": "040100"
+  },
+  {
+    "code": "040103",
+    "description": "CAYMA",
+    "parent": "040100"
+  },
+  {
+    "code": "040104",
+    "description": "CERRO COLORADO",
+    "parent": "040100"
+  },
+  {
+    "code": "040105",
+    "description": "CHARACATO",
+    "parent": "040100"
+  },
+  {
+    "code": "040106",
+    "description": "CHIGUATA",
+    "parent": "040100"
+  },
+  {
+    "code": "040107",
+    "description": "JACOBO HUNTER",
+    "parent": "040100"
+  },
+  {
+    "code": "040108",
+    "description": "LA JOYA",
+    "parent": "040100"
+  },
+  {
+    "code": "040109",
+    "description": "MARIANO MELGAR",
+    "parent": "040100"
+  },
+  {
+    "code": "040110",
+    "description": "MIRAFLORES",
+    "parent": "040100"
+  },
+  {
+    "code": "040111",
+    "description": "MOLLEBAYA",
+    "parent": "040100"
+  },
+  {
+    "code": "040112",
+    "description": "PAUCARPATA",
+    "parent": "040100"
+  },
+  {
+    "code": "040113",
+    "description": "POCSI",
+    "parent": "040100"
+  },
+  {
+    "code": "040114",
+    "description": "POLOBAYA",
+    "parent": "040100"
+  },
+  {
+    "code": "040115",
+    "description": "QUEQUEÑA",
+    "parent": "040100"
+  },
+  {
+    "code": "040116",
+    "description": "SABANDIA",
+    "parent": "040100"
+  },
+  {
+    "code": "040117",
+    "description": "SACHACA",
+    "parent": "040100"
+  },
+  {
+    "code": "040118",
+    "description": "SAN JUAN DE SIGUAS",
+    "parent": "040100"
+  },
+  {
+    "code": "040119",
+    "description": "SAN JUAN DE TARUCANI",
+    "parent": "040100"
+  },
+  {
+    "code": "040120",
+    "description": "SANTA ISABEL DE SIGUAS",
+    "parent": "040100"
+  },
+  {
+    "code": "040121",
+    "description": "SANTA RITA DE SIGUAS",
+    "parent": "040100"
+  },
+  {
+    "code": "040122",
+    "description": "SOCABAYA",
+    "parent": "040100"
+  },
+  {
+    "code": "040123",
+    "description": "TIABAYA",
+    "parent": "040100"
+  },
+  {
+    "code": "040124",
+    "description": "UCHUMAYO",
+    "parent": "040100"
+  },
+  {
+    "code": "040125",
+    "description": "VITOR",
+    "parent": "040100"
+  },
+  {
+    "code": "040126",
+    "description": "YANAHUARA",
+    "parent": "040100"
+  },
+  {
+    "code": "040127",
+    "description": "YARABAMBA",
+    "parent": "040100"
+  },
+  {
+    "code": "040128",
+    "description": "YURA",
+    "parent": "040100"
+  },
+  {
+    "code": "040129",
+    "description": "JOSE LUIS BUSTAMANTE Y RIVERO",
+    "parent": "040100"
+  },
+  {
+    "code": "040200",
+    "description": "CAMANA",
+    "parent": "040000"
+  },
+  {
+    "code": "040201",
+    "description": "CAMANA",
+    "parent": "040200"
+  },
+  {
+    "code": "040202",
+    "description": "JOSE MARIA QUIMPER",
+    "parent": "040200"
+  },
+  {
+    "code": "040203",
+    "description": "MARIANO NICOLAS VALCARCEL",
+    "parent": "040200"
+  },
+  {
+    "code": "040204",
+    "description": "MARISCAL CACERES",
+    "parent": "040200"
+  },
+  {
+    "code": "040205",
+    "description": "NICOLAS DE PIEROLA",
+    "parent": "040200"
+  },
+  {
+    "code": "040206",
+    "description": "OCOÑA",
+    "parent": "040200"
+  },
+  {
+    "code": "040207",
+    "description": "QUILCA",
+    "parent": "040200"
+  },
+  {
+    "code": "040208",
+    "description": "SAMUEL PASTOR",
+    "parent": "040200"
+  },
+  {
+    "code": "040300",
+    "description": "CARAVELI",
+    "parent": "040000"
+  },
+  {
+    "code": "040301",
+    "description": "CARAVELI",
+    "parent": "040300"
+  },
+  {
+    "code": "040302",
+    "description": "ACARI",
+    "parent": "040300"
+  },
+  {
+    "code": "040303",
+    "description": "ATICO",
+    "parent": "040300"
+  },
+  {
+    "code": "040304",
+    "description": "ATIQUIPA",
+    "parent": "040300"
+  },
+  {
+    "code": "040305",
+    "description": "BELLA UNION",
+    "parent": "040300"
+  },
+  {
+    "code": "040306",
+    "description": "CAHUACHO",
+    "parent": "040300"
+  },
+  {
+    "code": "040307",
+    "description": "CHALA",
+    "parent": "040300"
+  },
+  {
+    "code": "040308",
+    "description": "CHAPARRA",
+    "parent": "040300"
+  },
+  {
+    "code": "040309",
+    "description": "HUANUHUANU",
+    "parent": "040300"
+  },
+  {
+    "code": "040310",
+    "description": "JAQUI",
+    "parent": "040300"
+  },
+  {
+    "code": "040311",
+    "description": "LOMAS",
+    "parent": "040300"
+  },
+  {
+    "code": "040312",
+    "description": "QUICACHA",
+    "parent": "040300"
+  },
+  {
+    "code": "040313",
+    "description": "YAUCA",
+    "parent": "040300"
+  },
+  {
+    "code": "040400",
+    "description": "CASTILLA",
+    "parent": "040000"
+  },
+  {
+    "code": "040401",
+    "description": "APLAO",
+    "parent": "040400"
+  },
+  {
+    "code": "040402",
+    "description": "ANDAGUA",
+    "parent": "040400"
+  },
+  {
+    "code": "040403",
+    "description": "AYO",
+    "parent": "040400"
+  },
+  {
+    "code": "040404",
+    "description": "CHACHAS",
+    "parent": "040400"
+  },
+  {
+    "code": "040405",
+    "description": "CHILCAYMARCA",
+    "parent": "040400"
+  },
+  {
+    "code": "040406",
+    "description": "CHOCO",
+    "parent": "040400"
+  },
+  {
+    "code": "040407",
+    "description": "HUANCARQUI",
+    "parent": "040400"
+  },
+  {
+    "code": "040408",
+    "description": "MACHAGUAY",
+    "parent": "040400"
+  },
+  {
+    "code": "040409",
+    "description": "ORCOPAMPA",
+    "parent": "040400"
+  },
+  {
+    "code": "040410",
+    "description": "PAMPACOLCA",
+    "parent": "040400"
+  },
+  {
+    "code": "040411",
+    "description": "TIPAN",
+    "parent": "040400"
+  },
+  {
+    "code": "040412",
+    "description": "UÑON",
+    "parent": "040400"
+  },
+  {
+    "code": "040413",
+    "description": "URACA",
+    "parent": "040400"
+  },
+  {
+    "code": "040414",
+    "description": "VIRACO",
+    "parent": "040400"
+  },
+  {
+    "code": "040500",
+    "description": "CAYLLOMA",
+    "parent": "040000"
+  },
+  {
+    "code": "040501",
+    "description": "CHIVAY",
+    "parent": "040500"
+  },
+  {
+    "code": "040502",
+    "description": "ACHOMA",
+    "parent": "040500"
+  },
+  {
+    "code": "040503",
+    "description": "CABANACONDE",
+    "parent": "040500"
+  },
+  {
+    "code": "040504",
+    "description": "CALLALLI",
+    "parent": "040500"
+  },
+  {
+    "code": "040505",
+    "description": "CAYLLOMA",
+    "parent": "040500"
+  },
+  {
+    "code": "040506",
+    "description": "COPORAQUE",
+    "parent": "040500"
+  },
+  {
+    "code": "040507",
+    "description": "HUAMBO",
+    "parent": "040500"
+  },
+  {
+    "code": "040508",
+    "description": "HUANCA",
+    "parent": "040500"
+  },
+  {
+    "code": "040509",
+    "description": "ICHUPAMPA",
+    "parent": "040500"
+  },
+  {
+    "code": "040510",
+    "description": "LARI",
+    "parent": "040500"
+  },
+  {
+    "code": "040511",
+    "description": "LLUTA",
+    "parent": "040500"
+  },
+  {
+    "code": "040512",
+    "description": "MACA",
+    "parent": "040500"
+  },
+  {
+    "code": "040513",
+    "description": "MADRIGAL",
+    "parent": "040500"
+  },
+  {
+    "code": "040514",
+    "description": "SAN ANTONIO DE CHUCA",
+    "parent": "040500"
+  },
+  {
+    "code": "040515",
+    "description": "SIBAYO",
+    "parent": "040500"
+  },
+  {
+    "code": "040516",
+    "description": "TAPAY",
+    "parent": "040500"
+  },
+  {
+    "code": "040517",
+    "description": "TISCO",
+    "parent": "040500"
+  },
+  {
+    "code": "040518",
+    "description": "TUTI",
+    "parent": "040500"
+  },
+  {
+    "code": "040519",
+    "description": "YANQUE",
+    "parent": "040500"
+  },
+  {
+    "code": "040520",
+    "description": "MAJES",
+    "parent": "040500"
+  },
+  {
+    "code": "040600",
+    "description": "CONDESUYOS",
+    "parent": "040000"
+  },
+  {
+    "code": "040601",
+    "description": "CHUQUIBAMBA",
+    "parent": "040600"
+  },
+  {
+    "code": "040602",
+    "description": "ANDARAY",
+    "parent": "040600"
+  },
+  {
+    "code": "040603",
+    "description": "CAYARANI",
+    "parent": "040600"
+  },
+  {
+    "code": "040604",
+    "description": "CHICHAS",
+    "parent": "040600"
+  },
+  {
+    "code": "040605",
+    "description": "IRAY",
+    "parent": "040600"
+  },
+  {
+    "code": "040606",
+    "description": "RIO GRANDE",
+    "parent": "040600"
+  },
+  {
+    "code": "040607",
+    "description": "SALAMANCA",
+    "parent": "040600"
+  },
+  {
+    "code": "040608",
+    "description": "YANAQUIHUA",
+    "parent": "040600"
+  },
+  {
+    "code": "040700",
+    "description": "ISLAY",
+    "parent": "040000"
+  },
+  {
+    "code": "040701",
+    "description": "MOLLENDO",
+    "parent": "040700"
+  },
+  {
+    "code": "040702",
+    "description": "COCACHACRA",
+    "parent": "040700"
+  },
+  {
+    "code": "040703",
+    "description": "DEAN VALDIVIA",
+    "parent": "040700"
+  },
+  {
+    "code": "040704",
+    "description": "ISLAY",
+    "parent": "040700"
+  },
+  {
+    "code": "040705",
+    "description": "MEJIA",
+    "parent": "040700"
+  },
+  {
+    "code": "040706",
+    "description": "PUNTA DE BOMBON",
+    "parent": "040700"
+  },
+  {
+    "code": "040800",
+    "description": "LA UNION",
+    "parent": "040000"
+  },
+  {
+    "code": "040801",
+    "description": "COTAHUASI",
+    "parent": "040800"
+  },
+  {
+    "code": "040802",
+    "description": "ALCA",
+    "parent": "040800"
+  },
+  {
+    "code": "040803",
+    "description": "CHARCANA",
+    "parent": "040800"
+  },
+  {
+    "code": "040804",
+    "description": "HUAYNACOTAS",
+    "parent": "040800"
+  },
+  {
+    "code": "040805",
+    "description": "PAMPAMARCA",
+    "parent": "040800"
+  },
+  {
+    "code": "040806",
+    "description": "PUYCA",
+    "parent": "040800"
+  },
+  {
+    "code": "040807",
+    "description": "QUECHUALLA",
+    "parent": "040800"
+  },
+  {
+    "code": "040808",
+    "description": "SAYLA",
+    "parent": "040800"
+  },
+  {
+    "code": "040809",
+    "description": "TAURIA",
+    "parent": "040800"
+  },
+  {
+    "code": "040810",
+    "description": "TOMEPAMPA",
+    "parent": "040800"
+  },
+  {
+    "code": "040811",
+    "description": "TORO",
+    "parent": "040800"
+  },
+  {
+    "code": "050000",
+    "description": "AYACUCHO",
+    "parent": ""
+  },
+  {
+    "code": "050100",
+    "description": "HUAMANGA",
+    "parent": "050000"
+  },
+  {
+    "code": "050101",
+    "description": "AYACUCHO",
+    "parent": "050100"
+  },
+  {
+    "code": "050102",
+    "description": "ACOCRO",
+    "parent": "050100"
+  },
+  {
+    "code": "050103",
+    "description": "ACOS VINCHOS",
+    "parent": "050100"
+  },
+  {
+    "code": "050104",
+    "description": "CARMEN ALTO",
+    "parent": "050100"
+  },
+  {
+    "code": "050105",
+    "description": "CHIARA",
+    "parent": "050100"
+  },
+  {
+    "code": "050106",
+    "description": "OCROS",
+    "parent": "050100"
+  },
+  {
+    "code": "050107",
+    "description": "PACAYCASA",
+    "parent": "050100"
+  },
+  {
+    "code": "050108",
+    "description": "QUINUA",
+    "parent": "050100"
+  },
+  {
+    "code": "050109",
+    "description": "SAN JOSE DE TICLLAS",
+    "parent": "050100"
+  },
+  {
+    "code": "050110",
+    "description": "SAN JUAN BAUTISTA",
+    "parent": "050100"
+  },
+  {
+    "code": "050111",
+    "description": "SANTIAGO DE PISCHA",
+    "parent": "050100"
+  },
+  {
+    "code": "050112",
+    "description": "SOCOS",
+    "parent": "050100"
+  },
+  {
+    "code": "050113",
+    "description": "TAMBILLO",
+    "parent": "050100"
+  },
+  {
+    "code": "050114",
+    "description": "VINCHOS",
+    "parent": "050100"
+  },
+  {
+    "code": "050115",
+    "description": "JESÚS NAZARENO",
+    "parent": "050100"
+  },
+  {
+    "code": "050200",
+    "description": "CANGALLO",
+    "parent": "050000"
+  },
+  {
+    "code": "050201",
+    "description": "CANGALLO",
+    "parent": "050200"
+  },
+  {
+    "code": "050202",
+    "description": "CHUSCHI",
+    "parent": "050200"
+  },
+  {
+    "code": "050203",
+    "description": "LOS MOROCHUCOS",
+    "parent": "050200"
+  },
+  {
+    "code": "050204",
+    "description": "MARIA PARADO DE BELLIDO",
+    "parent": "050200"
+  },
+  {
+    "code": "050205",
+    "description": "PARAS",
+    "parent": "050200"
+  },
+  {
+    "code": "050206",
+    "description": "TOTOS",
+    "parent": "050200"
+  },
+  {
+    "code": "050300",
+    "description": "HUANCA SANCOS",
+    "parent": "050000"
+  },
+  {
+    "code": "050301",
+    "description": "SANCOS",
+    "parent": "050300"
+  },
+  {
+    "code": "050302",
+    "description": "CARAPO",
+    "parent": "050300"
+  },
+  {
+    "code": "050303",
+    "description": "SACSAMARCA",
+    "parent": "050300"
+  },
+  {
+    "code": "050304",
+    "description": "SANTIAGO DE LUCANAMARCA",
+    "parent": "050300"
+  },
+  {
+    "code": "050400",
+    "description": "HUANTA",
+    "parent": "050000"
+  },
+  {
+    "code": "050401",
+    "description": "HUANTA",
+    "parent": "050400"
+  },
+  {
+    "code": "050402",
+    "description": "AYAHUANCO",
+    "parent": "050400"
+  },
+  {
+    "code": "050403",
+    "description": "HUAMANGUILLA",
+    "parent": "050400"
+  },
+  {
+    "code": "050404",
+    "description": "IGUAIN",
+    "parent": "050400"
+  },
+  {
+    "code": "050405",
+    "description": "LURICOCHA",
+    "parent": "050400"
+  },
+  {
+    "code": "050406",
+    "description": "SANTILLANA",
+    "parent": "050400"
+  },
+  {
+    "code": "050407",
+    "description": "SIVIA",
+    "parent": "050400"
+  },
+  {
+    "code": "050408",
+    "description": "LLOCHEGUA",
+    "parent": "050400"
+  },
+  {
+    "code": "050500",
+    "description": "LA MAR",
+    "parent": "050000"
+  },
+  {
+    "code": "050501",
+    "description": "SAN MIGUEL",
+    "parent": "050500"
+  },
+  {
+    "code": "050502",
+    "description": "ANCO",
+    "parent": "050500"
+  },
+  {
+    "code": "050503",
+    "description": "AYNA",
+    "parent": "050500"
+  },
+  {
+    "code": "050504",
+    "description": "CHILCAS",
+    "parent": "050500"
+  },
+  {
+    "code": "050505",
+    "description": "CHUNGUI",
+    "parent": "050500"
+  },
+  {
+    "code": "050506",
+    "description": "LUIS CARRANZA",
+    "parent": "050500"
+  },
+  {
+    "code": "050507",
+    "description": "SANTA ROSA",
+    "parent": "050500"
+  },
+  {
+    "code": "050508",
+    "description": "TAMBO",
+    "parent": "050500"
+  },
+  {
+    "code": "050600",
+    "description": "LUCANAS",
+    "parent": "050000"
+  },
+  {
+    "code": "050601",
+    "description": "PUQUIO",
+    "parent": "050600"
+  },
+  {
+    "code": "050602",
+    "description": "AUCARA",
+    "parent": "050600"
+  },
+  {
+    "code": "050603",
+    "description": "CABANA",
+    "parent": "050600"
+  },
+  {
+    "code": "050604",
+    "description": "CARMEN SALCEDO",
+    "parent": "050600"
+  },
+  {
+    "code": "050605",
+    "description": "CHAVIÑA",
+    "parent": "050600"
+  },
+  {
+    "code": "050606",
+    "description": "CHIPAO",
+    "parent": "050600"
+  },
+  {
+    "code": "050607",
+    "description": "HUAC-HUAS",
+    "parent": "050600"
+  },
+  {
+    "code": "050608",
+    "description": "LARAMATE",
+    "parent": "050600"
+  },
+  {
+    "code": "050609",
+    "description": "LEONCIO PRADO",
+    "parent": "050600"
+  },
+  {
+    "code": "050610",
+    "description": "LLAUTA",
+    "parent": "050600"
+  },
+  {
+    "code": "050611",
+    "description": "LUCANAS",
+    "parent": "050600"
+  },
+  {
+    "code": "050612",
+    "description": "OCAÑA",
+    "parent": "050600"
+  },
+  {
+    "code": "050613",
+    "description": "OTOCA",
+    "parent": "050600"
+  },
+  {
+    "code": "050614",
+    "description": "SAISA",
+    "parent": "050600"
+  },
+  {
+    "code": "050615",
+    "description": "SAN CRISTOBAL",
+    "parent": "050600"
+  },
+  {
+    "code": "050616",
+    "description": "SAN JUAN",
+    "parent": "050600"
+  },
+  {
+    "code": "050617",
+    "description": "SAN PEDRO",
+    "parent": "050600"
+  },
+  {
+    "code": "050618",
+    "description": "SAN PEDRO DE PALCO",
+    "parent": "050600"
+  },
+  {
+    "code": "050619",
+    "description": "SANCOS",
+    "parent": "050600"
+  },
+  {
+    "code": "050620",
+    "description": "SANTA ANA DE HUAYCAHUACHO",
+    "parent": "050600"
+  },
+  {
+    "code": "050621",
+    "description": "SANTA LUCIA",
+    "parent": "050600"
+  },
+  {
+    "code": "050700",
+    "description": "PARINACOCHAS",
+    "parent": "050000"
+  },
+  {
+    "code": "050701",
+    "description": "CORACORA",
+    "parent": "050700"
+  },
+  {
+    "code": "050702",
+    "description": "CHUMPI",
+    "parent": "050700"
+  },
+  {
+    "code": "050703",
+    "description": "CORONEL CASTAÑEDA",
+    "parent": "050700"
+  },
+  {
+    "code": "050704",
+    "description": "PACAPAUSA",
+    "parent": "050700"
+  },
+  {
+    "code": "050705",
+    "description": "PULLO",
+    "parent": "050700"
+  },
+  {
+    "code": "050706",
+    "description": "PUYUSCA",
+    "parent": "050700"
+  },
+  {
+    "code": "050707",
+    "description": "SAN FRANCISCO DE RAVACAYCO",
+    "parent": "050700"
+  },
+  {
+    "code": "050708",
+    "description": "UPAHUACHO",
+    "parent": "050700"
+  },
+  {
+    "code": "050800",
+    "description": "PAUCAR DEL SARA SARA",
+    "parent": "050000"
+  },
+  {
+    "code": "050801",
+    "description": "PAUSA",
+    "parent": "050800"
+  },
+  {
+    "code": "050802",
+    "description": "COLTA",
+    "parent": "050800"
+  },
+  {
+    "code": "050803",
+    "description": "CORCULLA",
+    "parent": "050800"
+  },
+  {
+    "code": "050804",
+    "description": "LAMPA",
+    "parent": "050800"
+  },
+  {
+    "code": "050805",
+    "description": "MARCABAMBA",
+    "parent": "050800"
+  },
+  {
+    "code": "050806",
+    "description": "OYOLO",
+    "parent": "050800"
+  },
+  {
+    "code": "050807",
+    "description": "PARARCA",
+    "parent": "050800"
+  },
+  {
+    "code": "050808",
+    "description": "SAN JAVIER DE ALPABAMBA",
+    "parent": "050800"
+  },
+  {
+    "code": "050809",
+    "description": "SAN JOSE DE USHUA",
+    "parent": "050800"
+  },
+  {
+    "code": "050810",
+    "description": "SARA SARA",
+    "parent": "050800"
+  },
+  {
+    "code": "050900",
+    "description": "SUCRE",
+    "parent": "050000"
+  },
+  {
+    "code": "050901",
+    "description": "QUEROBAMBA",
+    "parent": "050900"
+  },
+  {
+    "code": "050902",
+    "description": "BELEN",
+    "parent": "050900"
+  },
+  {
+    "code": "050903",
+    "description": "CHALCOS",
+    "parent": "050900"
+  },
+  {
+    "code": "050904",
+    "description": "CHILCAYOC",
+    "parent": "050900"
+  },
+  {
+    "code": "050905",
+    "description": "HUACAÑA",
+    "parent": "050900"
+  },
+  {
+    "code": "050906",
+    "description": "MORCOLLA",
+    "parent": "050900"
+  },
+  {
+    "code": "050907",
+    "description": "PAICO",
+    "parent": "050900"
+  },
+  {
+    "code": "050908",
+    "description": "SAN PEDRO DE LARCAY",
+    "parent": "050900"
+  },
+  {
+    "code": "050909",
+    "description": "SAN SALVADOR DE QUIJE",
+    "parent": "050900"
+  },
+  {
+    "code": "050910",
+    "description": "SANTIAGO DE PAUCARAY",
+    "parent": "050900"
+  },
+  {
+    "code": "050911",
+    "description": "SORAS",
+    "parent": "050900"
+  },
+  {
+    "code": "051000",
+    "description": "VICTOR FAJARDO",
+    "parent": "050000"
+  },
+  {
+    "code": "051001",
+    "description": "HUANCAPI",
+    "parent": "051000"
+  },
+  {
+    "code": "051002",
+    "description": "ALCAMENCA",
+    "parent": "051000"
+  },
+  {
+    "code": "051003",
+    "description": "APONGO",
+    "parent": "051000"
+  },
+  {
+    "code": "051004",
+    "description": "ASQUIPATA",
+    "parent": "051000"
+  },
+  {
+    "code": "051005",
+    "description": "CANARIA",
+    "parent": "051000"
+  },
+  {
+    "code": "051006",
+    "description": "CAYARA",
+    "parent": "051000"
+  },
+  {
+    "code": "051007",
+    "description": "COLCA",
+    "parent": "051000"
+  },
+  {
+    "code": "051008",
+    "description": "HUAMANQUIQUIA",
+    "parent": "051000"
+  },
+  {
+    "code": "051009",
+    "description": "HUANCARAYLLA",
+    "parent": "051000"
+  },
+  {
+    "code": "051010",
+    "description": "HUAYA",
+    "parent": "051000"
+  },
+  {
+    "code": "051011",
+    "description": "SARHUA",
+    "parent": "051000"
+  },
+  {
+    "code": "051012",
+    "description": "VILCANCHOS",
+    "parent": "051000"
+  },
+  {
+    "code": "051100",
+    "description": "VILCAS HUAMAN",
+    "parent": "050000"
+  },
+  {
+    "code": "051101",
+    "description": "VILCAS HUAMAN",
+    "parent": "051100"
+  },
+  {
+    "code": "051102",
+    "description": "ACCOMARCA",
+    "parent": "051100"
+  },
+  {
+    "code": "051103",
+    "description": "CARHUANCA",
+    "parent": "051100"
+  },
+  {
+    "code": "051104",
+    "description": "CONCEPCION",
+    "parent": "051100"
+  },
+  {
+    "code": "051105",
+    "description": "HUAMBALPA",
+    "parent": "051100"
+  },
+  {
+    "code": "051106",
+    "description": "INDEPENDENCIA",
+    "parent": "051100"
+  },
+  {
+    "code": "051107",
+    "description": "SAURAMA",
+    "parent": "051100"
+  },
+  {
+    "code": "051108",
+    "description": "VISCHONGO",
+    "parent": "051100"
+  },
+  {
+    "code": "060000",
+    "description": "CAJAMARCA",
+    "parent": ""
+  },
+  {
+    "code": "060100",
+    "description": "CAJAMARCA",
+    "parent": "060000"
+  },
+  {
+    "code": "060101",
+    "description": "CAJAMARCA",
+    "parent": "060100"
+  },
+  {
+    "code": "060102",
+    "description": "ASUNCION",
+    "parent": "060100"
+  },
+  {
+    "code": "060103",
+    "description": "CHETILLA",
+    "parent": "060100"
+  },
+  {
+    "code": "060104",
+    "description": "COSPAN",
+    "parent": "060100"
+  },
+  {
+    "code": "060105",
+    "description": "ENCAÑADA",
+    "parent": "060100"
+  },
+  {
+    "code": "060106",
+    "description": "JESUS",
+    "parent": "060100"
+  },
+  {
+    "code": "060107",
+    "description": "LLACANORA",
+    "parent": "060100"
+  },
+  {
+    "code": "060108",
+    "description": "LOS BAÑOS DEL INCA",
+    "parent": "060100"
+  },
+  {
+    "code": "060109",
+    "description": "MAGDALENA",
+    "parent": "060100"
+  },
+  {
+    "code": "060110",
+    "description": "MATARA",
+    "parent": "060100"
+  },
+  {
+    "code": "060111",
+    "description": "NAMORA",
+    "parent": "060100"
+  },
+  {
+    "code": "060112",
+    "description": "SAN JUAN",
+    "parent": "060100"
+  },
+  {
+    "code": "060200",
+    "description": "CAJABAMBA",
+    "parent": "060000"
+  },
+  {
+    "code": "060201",
+    "description": "CAJABAMBA",
+    "parent": "060200"
+  },
+  {
+    "code": "060202",
+    "description": "CACHACHI",
+    "parent": "060200"
+  },
+  {
+    "code": "060203",
+    "description": "CONDEBAMBA",
+    "parent": "060200"
+  },
+  {
+    "code": "060204",
+    "description": "SITACOCHA",
+    "parent": "060200"
+  },
+  {
+    "code": "060300",
+    "description": "CELENDIN",
+    "parent": "060000"
+  },
+  {
+    "code": "060301",
+    "description": "CELENDIN",
+    "parent": "060300"
+  },
+  {
+    "code": "060302",
+    "description": "CHUMUCH",
+    "parent": "060300"
+  },
+  {
+    "code": "060303",
+    "description": "CORTEGANA",
+    "parent": "060300"
+  },
+  {
+    "code": "060304",
+    "description": "HUASMIN",
+    "parent": "060300"
+  },
+  {
+    "code": "060305",
+    "description": "JORGE CHAVEZ",
+    "parent": "060300"
+  },
+  {
+    "code": "060306",
+    "description": "JOSE GALVEZ",
+    "parent": "060300"
+  },
+  {
+    "code": "060307",
+    "description": "MIGUEL IGLESIAS",
+    "parent": "060300"
+  },
+  {
+    "code": "060308",
+    "description": "OXAMARCA",
+    "parent": "060300"
+  },
+  {
+    "code": "060309",
+    "description": "SOROCHUCO",
+    "parent": "060300"
+  },
+  {
+    "code": "060310",
+    "description": "SUCRE",
+    "parent": "060300"
+  },
+  {
+    "code": "060311",
+    "description": "UTCO",
+    "parent": "060300"
+  },
+  {
+    "code": "060312",
+    "description": "LA LIBERTAD DE PALLAN",
+    "parent": "060300"
+  },
+  {
+    "code": "060400",
+    "description": "CHOTA",
+    "parent": "060000"
+  },
+  {
+    "code": "060401",
+    "description": "CHOTA",
+    "parent": "060400"
+  },
+  {
+    "code": "060402",
+    "description": "ANGUIA",
+    "parent": "060400"
+  },
+  {
+    "code": "060403",
+    "description": "CHADIN",
+    "parent": "060400"
+  },
+  {
+    "code": "060404",
+    "description": "CHIGUIRIP",
+    "parent": "060400"
+  },
+  {
+    "code": "060405",
+    "description": "CHIMBAN",
+    "parent": "060400"
+  },
+  {
+    "code": "060406",
+    "description": "CHOROPAMPA",
+    "parent": "060400"
+  },
+  {
+    "code": "060407",
+    "description": "COCHABAMBA",
+    "parent": "060400"
+  },
+  {
+    "code": "060408",
+    "description": "CONCHAN",
+    "parent": "060400"
+  },
+  {
+    "code": "060409",
+    "description": "HUAMBOS",
+    "parent": "060400"
+  },
+  {
+    "code": "060410",
+    "description": "LAJAS",
+    "parent": "060400"
+  },
+  {
+    "code": "060411",
+    "description": "LLAMA",
+    "parent": "060400"
+  },
+  {
+    "code": "060412",
+    "description": "MIRACOSTA",
+    "parent": "060400"
+  },
+  {
+    "code": "060413",
+    "description": "PACCHA",
+    "parent": "060400"
+  },
+  {
+    "code": "060414",
+    "description": "PION",
+    "parent": "060400"
+  },
+  {
+    "code": "060415",
+    "description": "QUEROCOTO",
+    "parent": "060400"
+  },
+  {
+    "code": "060416",
+    "description": "SAN JUAN DE LICUPIS",
+    "parent": "060400"
+  },
+  {
+    "code": "060417",
+    "description": "TACABAMBA",
+    "parent": "060400"
+  },
+  {
+    "code": "060418",
+    "description": "TOCMOCHE",
+    "parent": "060400"
+  },
+  {
+    "code": "060419",
+    "description": "CHALAMARCA",
+    "parent": "060400"
+  },
+  {
+    "code": "060500",
+    "description": "CONTUMAZA",
+    "parent": "060000"
+  },
+  {
+    "code": "060501",
+    "description": "CONTUMAZA",
+    "parent": "060500"
+  },
+  {
+    "code": "060502",
+    "description": "CHILETE",
+    "parent": "060500"
+  },
+  {
+    "code": "060503",
+    "description": "CUPISNIQUE",
+    "parent": "060500"
+  },
+  {
+    "code": "060504",
+    "description": "GUZMANGO",
+    "parent": "060500"
+  },
+  {
+    "code": "060505",
+    "description": "SAN BENITO",
+    "parent": "060500"
+  },
+  {
+    "code": "060506",
+    "description": "SANTA CRUZ DE TOLED",
+    "parent": "060500"
+  },
+  {
+    "code": "060507",
+    "description": "TANTARICA",
+    "parent": "060500"
+  },
+  {
+    "code": "060508",
+    "description": "YONAN",
+    "parent": "060500"
+  },
+  {
+    "code": "060600",
+    "description": "CUTERVO",
+    "parent": "060000"
+  },
+  {
+    "code": "060601",
+    "description": "CUTERVO",
+    "parent": "060600"
+  },
+  {
+    "code": "060602",
+    "description": "CALLAYUC",
+    "parent": "060600"
+  },
+  {
+    "code": "060603",
+    "description": "CHOROS",
+    "parent": "060600"
+  },
+  {
+    "code": "060604",
+    "description": "CUJILLO",
+    "parent": "060600"
+  },
+  {
+    "code": "060605",
+    "description": "LA RAMADA",
+    "parent": "060600"
+  },
+  {
+    "code": "060606",
+    "description": "PIMPINGOS",
+    "parent": "060600"
+  },
+  {
+    "code": "060607",
+    "description": "QUEROCOTILLO",
+    "parent": "060600"
+  },
+  {
+    "code": "060608",
+    "description": "SAN ANDRES DE CUTERVO",
+    "parent": "060600"
+  },
+  {
+    "code": "060609",
+    "description": "SAN JUAN DE CUTERVO",
+    "parent": "060600"
+  },
+  {
+    "code": "060610",
+    "description": "SAN LUIS DE LUCMA",
+    "parent": "060600"
+  },
+  {
+    "code": "060611",
+    "description": "SANTA CRUZ",
+    "parent": "060600"
+  },
+  {
+    "code": "060612",
+    "description": "SANTO DOMINGO DE LA CAPILLA",
+    "parent": "060600"
+  },
+  {
+    "code": "060613",
+    "description": "SANTO TOMAS",
+    "parent": "060600"
+  },
+  {
+    "code": "060614",
+    "description": "SOCOTA",
+    "parent": "060600"
+  },
+  {
+    "code": "060615",
+    "description": "TORIBIO CASANOVA",
+    "parent": "060600"
+  },
+  {
+    "code": "060700",
+    "description": "HUALGAYOC",
+    "parent": "060000"
+  },
+  {
+    "code": "060701",
+    "description": "BAMBAMARCA",
+    "parent": "060700"
+  },
+  {
+    "code": "060702",
+    "description": "CHUGUR",
+    "parent": "060700"
+  },
+  {
+    "code": "060703",
+    "description": "HUALGAYOC",
+    "parent": "060700"
+  },
+  {
+    "code": "060800",
+    "description": "JAEN",
+    "parent": "060000"
+  },
+  {
+    "code": "060801",
+    "description": "JAEN",
+    "parent": "060800"
+  },
+  {
+    "code": "060802",
+    "description": "BELLAVISTA",
+    "parent": "060800"
+  },
+  {
+    "code": "060803",
+    "description": "CHONTALI",
+    "parent": "060800"
+  },
+  {
+    "code": "060804",
+    "description": "COLASAY",
+    "parent": "060800"
+  },
+  {
+    "code": "060805",
+    "description": "HUABAL",
+    "parent": "060800"
+  },
+  {
+    "code": "060806",
+    "description": "LAS PIRIAS",
+    "parent": "060800"
+  },
+  {
+    "code": "060807",
+    "description": "POMAHUACA",
+    "parent": "060800"
+  },
+  {
+    "code": "060808",
+    "description": "PUCARA",
+    "parent": "060800"
+  },
+  {
+    "code": "060809",
+    "description": "SALLIQUE",
+    "parent": "060800"
+  },
+  {
+    "code": "060810",
+    "description": "SAN FELIPE",
+    "parent": "060800"
+  },
+  {
+    "code": "060811",
+    "description": "SAN JOSE DEL ALTO",
+    "parent": "060800"
+  },
+  {
+    "code": "060812",
+    "description": "SANTA ROSA",
+    "parent": "060800"
+  },
+  {
+    "code": "060900",
+    "description": "SAN IGNACIO",
+    "parent": "060000"
+  },
+  {
+    "code": "060901",
+    "description": "SAN IGNACIO",
+    "parent": "060900"
+  },
+  {
+    "code": "060902",
+    "description": "CHIRINOS",
+    "parent": "060900"
+  },
+  {
+    "code": "060903",
+    "description": "HUARANGO",
+    "parent": "060900"
+  },
+  {
+    "code": "060904",
+    "description": "LA COIPA",
+    "parent": "060900"
+  },
+  {
+    "code": "060905",
+    "description": "NAMBALLE",
+    "parent": "060900"
+  },
+  {
+    "code": "060906",
+    "description": "SAN JOSE DE LOURDES",
+    "parent": "060900"
+  },
+  {
+    "code": "060907",
+    "description": "TABACONAS",
+    "parent": "060900"
+  },
+  {
+    "code": "061000",
+    "description": "SAN MARCOS",
+    "parent": "060000"
+  },
+  {
+    "code": "061001",
+    "description": "PEDRO GALVEZ",
+    "parent": "061000"
+  },
+  {
+    "code": "061002",
+    "description": "CHANCAY",
+    "parent": "061000"
+  },
+  {
+    "code": "061003",
+    "description": "EDUARDO VILLANUEVA",
+    "parent": "061000"
+  },
+  {
+    "code": "061004",
+    "description": "GREGORIO PITA",
+    "parent": "061000"
+  },
+  {
+    "code": "061005",
+    "description": "ICHOCAN",
+    "parent": "061000"
+  },
+  {
+    "code": "061006",
+    "description": "JOSE MANUEL QUIROZ",
+    "parent": "061000"
+  },
+  {
+    "code": "061007",
+    "description": "JOSE SABOGAL",
+    "parent": "061000"
+  },
+  {
+    "code": "061100",
+    "description": "SAN MIGUEL",
+    "parent": "060000"
+  },
+  {
+    "code": "061101",
+    "description": "SAN MIGUEL",
+    "parent": "061100"
+  },
+  {
+    "code": "061102",
+    "description": "BOLIVAR",
+    "parent": "061100"
+  },
+  {
+    "code": "061103",
+    "description": "CALQUIS",
+    "parent": "061100"
+  },
+  {
+    "code": "061104",
+    "description": "CATILLUC",
+    "parent": "061100"
+  },
+  {
+    "code": "061105",
+    "description": "EL PRADO",
+    "parent": "061100"
+  },
+  {
+    "code": "061106",
+    "description": "LA FLORIDA",
+    "parent": "061100"
+  },
+  {
+    "code": "061107",
+    "description": "LLAPA",
+    "parent": "061100"
+  },
+  {
+    "code": "061108",
+    "description": "NANCHOC",
+    "parent": "061100"
+  },
+  {
+    "code": "061109",
+    "description": "NIEPOS",
+    "parent": "061100"
+  },
+  {
+    "code": "061110",
+    "description": "SAN GREGORIO",
+    "parent": "061100"
+  },
+  {
+    "code": "061111",
+    "description": "SAN SILVESTRE DE COCHAN",
+    "parent": "061100"
+  },
+  {
+    "code": "061112",
+    "description": "TONGOD",
+    "parent": "061100"
+  },
+  {
+    "code": "061113",
+    "description": "UNION AGUA BLANCA",
+    "parent": "061100"
+  },
+  {
+    "code": "061200",
+    "description": "SAN PABLO",
+    "parent": "060000"
+  },
+  {
+    "code": "061201",
+    "description": "SAN PABLO",
+    "parent": "061200"
+  },
+  {
+    "code": "061202",
+    "description": "SAN BERNARDINO",
+    "parent": "061200"
+  },
+  {
+    "code": "061203",
+    "description": "SAN LUIS",
+    "parent": "061200"
+  },
+  {
+    "code": "061204",
+    "description": "TUMBADEN",
+    "parent": "061200"
+  },
+  {
+    "code": "061300",
+    "description": "SANTA CRUZ",
+    "parent": "060000"
+  },
+  {
+    "code": "061301",
+    "description": "SANTA CRUZ",
+    "parent": "061300"
+  },
+  {
+    "code": "061302",
+    "description": "ANDABAMBA",
+    "parent": "061300"
+  },
+  {
+    "code": "061303",
+    "description": "CATACHE",
+    "parent": "061300"
+  },
+  {
+    "code": "061304",
+    "description": "CHANCAYBAÑOS",
+    "parent": "061300"
+  },
+  {
+    "code": "061305",
+    "description": "LA ESPERANZA",
+    "parent": "061300"
+  },
+  {
+    "code": "061306",
+    "description": "NINABAMBA",
+    "parent": "061300"
+  },
+  {
+    "code": "061307",
+    "description": "PULAN",
+    "parent": "061300"
+  },
+  {
+    "code": "061308",
+    "description": "SAUCEPAMPA",
+    "parent": "061300"
+  },
+  {
+    "code": "061309",
+    "description": "SEXI",
+    "parent": "061300"
+  },
+  {
+    "code": "061310",
+    "description": "UTICYACU",
+    "parent": "061300"
+  },
+  {
+    "code": "061311",
+    "description": "YAUYUCAN",
+    "parent": "061300"
+  },
+  {
+    "code": "070000",
+    "description": "CALLAO",
+    "parent": ""
+  },
+  {
+    "code": "070101",
+    "description": "CALLAO",
+    "parent": "070100"
+  },
+  {
+    "code": "070102",
+    "description": "BELLAVISTA",
+    "parent": "070100"
+  },
+  {
+    "code": "070103",
+    "description": "CARMEN DE LA LEGUA REYNOSO",
+    "parent": "070100"
+  },
+  {
+    "code": "070104",
+    "description": "LA PERLA",
+    "parent": "070100"
+  },
+  {
+    "code": "070105",
+    "description": "LA PUNTA",
+    "parent": "070100"
+  },
+  {
+    "code": "070106",
+    "description": "VENTANILLA",
+    "parent": "070100"
+  },
+  {
+    "code": "080000",
+    "description": "CUSCO",
+    "parent": ""
+  },
+  {
+    "code": "080100",
+    "description": "CUSCO",
+    "parent": "080000"
+  },
+  {
+    "code": "080101",
+    "description": "CUSCO",
+    "parent": "080100"
+  },
+  {
+    "code": "080102",
+    "description": "CCORCA",
+    "parent": "080100"
+  },
+  {
+    "code": "080103",
+    "description": "POROY",
+    "parent": "080100"
+  },
+  {
+    "code": "080104",
+    "description": "SAN JERONIMO",
+    "parent": "080100"
+  },
+  {
+    "code": "080105",
+    "description": "SAN SEBASTIAN",
+    "parent": "080100"
+  },
+  {
+    "code": "080106",
+    "description": "SANTIAGO",
+    "parent": "080100"
+  },
+  {
+    "code": "080107",
+    "description": "SAYLLA",
+    "parent": "080100"
+  },
+  {
+    "code": "080108",
+    "description": "WANCHAQ",
+    "parent": "080100"
+  },
+  {
+    "code": "080200",
+    "description": "ACOMAYO",
+    "parent": "080000"
+  },
+  {
+    "code": "080201",
+    "description": "ACOMAYO",
+    "parent": "080200"
+  },
+  {
+    "code": "080202",
+    "description": "ACOPIA",
+    "parent": "080200"
+  },
+  {
+    "code": "080203",
+    "description": "ACOS",
+    "parent": "080200"
+  },
+  {
+    "code": "080204",
+    "description": "MOSOC LLACTA",
+    "parent": "080200"
+  },
+  {
+    "code": "080205",
+    "description": "POMACANCHI",
+    "parent": "080200"
+  },
+  {
+    "code": "080206",
+    "description": "RONDOCAN",
+    "parent": "080200"
+  },
+  {
+    "code": "080207",
+    "description": "SANGARARA",
+    "parent": "080200"
+  },
+  {
+    "code": "080300",
+    "description": "ANTA",
+    "parent": "080000"
+  },
+  {
+    "code": "080301",
+    "description": "ANTA",
+    "parent": "080300"
+  },
+  {
+    "code": "080302",
+    "description": "ANCAHUASI",
+    "parent": "080300"
+  },
+  {
+    "code": "080303",
+    "description": "CACHIMAYO",
+    "parent": "080300"
+  },
+  {
+    "code": "080304",
+    "description": "CHINCHAYPUJIO",
+    "parent": "080300"
+  },
+  {
+    "code": "080305",
+    "description": "HUAROCONDO",
+    "parent": "080300"
+  },
+  {
+    "code": "080306",
+    "description": "LIMATAMBO",
+    "parent": "080300"
+  },
+  {
+    "code": "080307",
+    "description": "MOLLEPATA",
+    "parent": "080300"
+  },
+  {
+    "code": "080308",
+    "description": "PUCYURA",
+    "parent": "080300"
+  },
+  {
+    "code": "080309",
+    "description": "ZURITE",
+    "parent": "080300"
+  },
+  {
+    "code": "080400",
+    "description": "CALCA",
+    "parent": "080000"
+  },
+  {
+    "code": "080401",
+    "description": "CALCA",
+    "parent": "080400"
+  },
+  {
+    "code": "080402",
+    "description": "COYA",
+    "parent": "080400"
+  },
+  {
+    "code": "080403",
+    "description": "LAMAY",
+    "parent": "080400"
+  },
+  {
+    "code": "080404",
+    "description": "LARES",
+    "parent": "080400"
+  },
+  {
+    "code": "080405",
+    "description": "PISAC",
+    "parent": "080400"
+  },
+  {
+    "code": "080406",
+    "description": "SAN SALVADOR",
+    "parent": "080400"
+  },
+  {
+    "code": "080407",
+    "description": "TARAY",
+    "parent": "080400"
+  },
+  {
+    "code": "080408",
+    "description": "YANATILE",
+    "parent": "080400"
+  },
+  {
+    "code": "080500",
+    "description": "CANAS",
+    "parent": "080000"
+  },
+  {
+    "code": "080501",
+    "description": "YANAOCA",
+    "parent": "080500"
+  },
+  {
+    "code": "080502",
+    "description": "CHECCA",
+    "parent": "080500"
+  },
+  {
+    "code": "080503",
+    "description": "KUNTURKANKI",
+    "parent": "080500"
+  },
+  {
+    "code": "080504",
+    "description": "LANGUI",
+    "parent": "080500"
+  },
+  {
+    "code": "080505",
+    "description": "LAYO",
+    "parent": "080500"
+  },
+  {
+    "code": "080506",
+    "description": "PAMPAMARCA",
+    "parent": "080500"
+  },
+  {
+    "code": "080507",
+    "description": "QUEHUE",
+    "parent": "080500"
+  },
+  {
+    "code": "080508",
+    "description": "TUPAC AMARU",
+    "parent": "080500"
+  },
+  {
+    "code": "080600",
+    "description": "CANCHIS",
+    "parent": "080000"
+  },
+  {
+    "code": "080601",
+    "description": "SICUANI",
+    "parent": "080600"
+  },
+  {
+    "code": "080602",
+    "description": "CHECACUPE",
+    "parent": "080600"
+  },
+  {
+    "code": "080603",
+    "description": "COMBAPATA",
+    "parent": "080600"
+  },
+  {
+    "code": "080604",
+    "description": "MARANGANI",
+    "parent": "080600"
+  },
+  {
+    "code": "080605",
+    "description": "PITUMARCA",
+    "parent": "080600"
+  },
+  {
+    "code": "080606",
+    "description": "SAN PABLO",
+    "parent": "080600"
+  },
+  {
+    "code": "080607",
+    "description": "SAN PEDRO",
+    "parent": "080600"
+  },
+  {
+    "code": "080608",
+    "description": "TINTA",
+    "parent": "080600"
+  },
+  {
+    "code": "080700",
+    "description": "CHUMBIVILCAS",
+    "parent": "080000"
+  },
+  {
+    "code": "080701",
+    "description": "SANTO TOMAS",
+    "parent": "080700"
+  },
+  {
+    "code": "080702",
+    "description": "CAPACMARCA",
+    "parent": "080700"
+  },
+  {
+    "code": "080703",
+    "description": "CHAMACA",
+    "parent": "080700"
+  },
+  {
+    "code": "080704",
+    "description": "COLQUEMARCA",
+    "parent": "080700"
+  },
+  {
+    "code": "080705",
+    "description": "LIVITACA",
+    "parent": "080700"
+  },
+  {
+    "code": "080706",
+    "description": "LLUSCO",
+    "parent": "080700"
+  },
+  {
+    "code": "080707",
+    "description": "QUIÑOTA",
+    "parent": "080700"
+  },
+  {
+    "code": "080708",
+    "description": "VELILLE",
+    "parent": "080700"
+  },
+  {
+    "code": "080800",
+    "description": "ESPINAR",
+    "parent": "080000"
+  },
+  {
+    "code": "080801",
+    "description": "ESPINAR",
+    "parent": "080800"
+  },
+  {
+    "code": "080802",
+    "description": "CONDOROMA",
+    "parent": "080800"
+  },
+  {
+    "code": "080803",
+    "description": "COPORAQUE",
+    "parent": "080800"
+  },
+  {
+    "code": "080804",
+    "description": "OCORURO",
+    "parent": "080800"
+  },
+  {
+    "code": "080805",
+    "description": "PALLPATA",
+    "parent": "080800"
+  },
+  {
+    "code": "080806",
+    "description": "PICHIGUA",
+    "parent": "080800"
+  },
+  {
+    "code": "080807",
+    "description": "SUYCKUTAMBO",
+    "parent": "080800"
+  },
+  {
+    "code": "080808",
+    "description": "ALTO PICHIGUA",
+    "parent": "080800"
+  },
+  {
+    "code": "080900",
+    "description": "LA CONVENCION",
+    "parent": "080000"
+  },
+  {
+    "code": "080901",
+    "description": "SANTA ANA",
+    "parent": "080900"
+  },
+  {
+    "code": "080902",
+    "description": "ECHARATE",
+    "parent": "080900"
+  },
+  {
+    "code": "080903",
+    "description": "HUAYOPATA",
+    "parent": "080900"
+  },
+  {
+    "code": "080904",
+    "description": "MARANURA",
+    "parent": "080900"
+  },
+  {
+    "code": "080905",
+    "description": "OCOBAMBA",
+    "parent": "080900"
+  },
+  {
+    "code": "080906",
+    "description": "QUELLOUNO",
+    "parent": "080900"
+  },
+  {
+    "code": "080907",
+    "description": "KIMBIRI",
+    "parent": "080900"
+  },
+  {
+    "code": "080908",
+    "description": "SANTA TERESA",
+    "parent": "080900"
+  },
+  {
+    "code": "080909",
+    "description": "VILCABAMBA",
+    "parent": "080900"
+  },
+  {
+    "code": "080910",
+    "description": "PICHARI",
+    "parent": "080900"
+  },
+  {
+    "code": "081000",
+    "description": "PARURO",
+    "parent": "080000"
+  },
+  {
+    "code": "081001",
+    "description": "PARURO",
+    "parent": "081000"
+  },
+  {
+    "code": "081002",
+    "description": "ACCHA",
+    "parent": "081000"
+  },
+  {
+    "code": "081003",
+    "description": "CCAPI",
+    "parent": "081000"
+  },
+  {
+    "code": "081004",
+    "description": "COLCHA",
+    "parent": "081000"
+  },
+  {
+    "code": "081005",
+    "description": "HUANOQUITE",
+    "parent": "081000"
+  },
+  {
+    "code": "081006",
+    "description": "OMACHA",
+    "parent": "081000"
+  },
+  {
+    "code": "081007",
+    "description": "PACCARITAMBO",
+    "parent": "081000"
+  },
+  {
+    "code": "081008",
+    "description": "PILLPINTO",
+    "parent": "081000"
+  },
+  {
+    "code": "081009",
+    "description": "YAURISQUE",
+    "parent": "081000"
+  },
+  {
+    "code": "081100",
+    "description": "PAUCARTAMBO",
+    "parent": "080000"
+  },
+  {
+    "code": "081101",
+    "description": "PAUCARTAMBO",
+    "parent": "081100"
+  },
+  {
+    "code": "081102",
+    "description": "CAICAY",
+    "parent": "081100"
+  },
+  {
+    "code": "081103",
+    "description": "CHALLABAMBA",
+    "parent": "081100"
+  },
+  {
+    "code": "081104",
+    "description": "COLQUEPATA",
+    "parent": "081100"
+  },
+  {
+    "code": "081105",
+    "description": "HUANCARANI",
+    "parent": "081100"
+  },
+  {
+    "code": "081106",
+    "description": "KOSÑIPATA",
+    "parent": "081100"
+  },
+  {
+    "code": "081200",
+    "description": "QUISPICANCHI",
+    "parent": "080000"
+  },
+  {
+    "code": "081201",
+    "description": "URCOS",
+    "parent": "081200"
+  },
+  {
+    "code": "081202",
+    "description": "ANDAHUAYLILLAS",
+    "parent": "081200"
+  },
+  {
+    "code": "081203",
+    "description": "CAMANTI",
+    "parent": "081200"
+  },
+  {
+    "code": "081204",
+    "description": "CCARHUAYO",
+    "parent": "081200"
+  },
+  {
+    "code": "081205",
+    "description": "CCATCA",
+    "parent": "081200"
+  },
+  {
+    "code": "081206",
+    "description": "CUSIPATA",
+    "parent": "081200"
+  },
+  {
+    "code": "081207",
+    "description": "HUARO",
+    "parent": "081200"
+  },
+  {
+    "code": "081208",
+    "description": "LUCRE",
+    "parent": "081200"
+  },
+  {
+    "code": "081209",
+    "description": "MARCAPATA",
+    "parent": "081200"
+  },
+  {
+    "code": "081210",
+    "description": "OCONGATE",
+    "parent": "081200"
+  },
+  {
+    "code": "081211",
+    "description": "OROPESA",
+    "parent": "081200"
+  },
+  {
+    "code": "081212",
+    "description": "QUIQUIJANA",
+    "parent": "081200"
+  },
+  {
+    "code": "081300",
+    "description": "URUBAMBA",
+    "parent": "080000"
+  },
+  {
+    "code": "081301",
+    "description": "URUBAMBA",
+    "parent": "081300"
+  },
+  {
+    "code": "081302",
+    "description": "CHINCHERO",
+    "parent": "081300"
+  },
+  {
+    "code": "081303",
+    "description": "HUAYLLABAMBA",
+    "parent": "081300"
+  },
+  {
+    "code": "081304",
+    "description": "MACHUPICCHU",
+    "parent": "081300"
+  },
+  {
+    "code": "081305",
+    "description": "MARAS",
+    "parent": "081300"
+  },
+  {
+    "code": "081306",
+    "description": "OLLANTAYTAMBO",
+    "parent": "081300"
+  },
+  {
+    "code": "081307",
+    "description": "YUCAY",
+    "parent": "081300"
+  },
+  {
+    "code": "090000",
+    "description": "HUANCAVELICA",
+    "parent": ""
+  },
+  {
+    "code": "090100",
+    "description": "HUANCAVELICA",
+    "parent": "090000"
+  },
+  {
+    "code": "090101",
+    "description": "HUANCAVELICA",
+    "parent": "090100"
+  },
+  {
+    "code": "090102",
+    "description": "ACOBAMBILLA",
+    "parent": "090100"
+  },
+  {
+    "code": "090103",
+    "description": "ACORIA",
+    "parent": "090100"
+  },
+  {
+    "code": "090104",
+    "description": "CONAYCA",
+    "parent": "090100"
+  },
+  {
+    "code": "090105",
+    "description": "CUENCA",
+    "parent": "090100"
+  },
+  {
+    "code": "090106",
+    "description": "HUACHOCOLPA",
+    "parent": "090100"
+  },
+  {
+    "code": "090107",
+    "description": "HUAYLLAHUARA",
+    "parent": "090100"
+  },
+  {
+    "code": "090108",
+    "description": "IZCUCHACA",
+    "parent": "090100"
+  },
+  {
+    "code": "090109",
+    "description": "LARIA",
+    "parent": "090100"
+  },
+  {
+    "code": "090110",
+    "description": "MANTA",
+    "parent": "090100"
+  },
+  {
+    "code": "090111",
+    "description": "MARISCAL CACERES",
+    "parent": "090100"
+  },
+  {
+    "code": "090112",
+    "description": "MOYA",
+    "parent": "090100"
+  },
+  {
+    "code": "090113",
+    "description": "NUEVO OCCORO",
+    "parent": "090100"
+  },
+  {
+    "code": "090114",
+    "description": "PALCA",
+    "parent": "090100"
+  },
+  {
+    "code": "090115",
+    "description": "PILCHACA",
+    "parent": "090100"
+  },
+  {
+    "code": "090116",
+    "description": "VILCA",
+    "parent": "090100"
+  },
+  {
+    "code": "090117",
+    "description": "YAULI",
+    "parent": "090100"
+  },
+  {
+    "code": "090118",
+    "description": "ASCENSIÓN",
+    "parent": "090100"
+  },
+  {
+    "code": "090200",
+    "description": "ACOBAMBA",
+    "parent": "090000"
+  },
+  {
+    "code": "090201",
+    "description": "ACOBAMBA",
+    "parent": "090200"
+  },
+  {
+    "code": "090202",
+    "description": "ANDABAMBA",
+    "parent": "090200"
+  },
+  {
+    "code": "090203",
+    "description": "ANTA",
+    "parent": "090200"
+  },
+  {
+    "code": "090204",
+    "description": "CAJA",
+    "parent": "090200"
+  },
+  {
+    "code": "090205",
+    "description": "MARCAS",
+    "parent": "090200"
+  },
+  {
+    "code": "090206",
+    "description": "PAUCARA",
+    "parent": "090200"
+  },
+  {
+    "code": "090207",
+    "description": "POMACOCHA",
+    "parent": "090200"
+  },
+  {
+    "code": "090208",
+    "description": "ROSARIO",
+    "parent": "090200"
+  },
+  {
+    "code": "090300",
+    "description": "ANGARAES",
+    "parent": "090000"
+  },
+  {
+    "code": "090301",
+    "description": "LIRCAY",
+    "parent": "090300"
+  },
+  {
+    "code": "090302",
+    "description": "ANCHONGA",
+    "parent": "090300"
+  },
+  {
+    "code": "090303",
+    "description": "CALLANMARCA",
+    "parent": "090300"
+  },
+  {
+    "code": "090304",
+    "description": "CCOCHACCASA",
+    "parent": "090300"
+  },
+  {
+    "code": "090305",
+    "description": "CHINCHO",
+    "parent": "090300"
+  },
+  {
+    "code": "090306",
+    "description": "CONGALLA",
+    "parent": "090300"
+  },
+  {
+    "code": "090307",
+    "description": "HUANCA-HUANCA",
+    "parent": "090300"
+  },
+  {
+    "code": "090308",
+    "description": "HUAYLLAY GRANDE",
+    "parent": "090300"
+  },
+  {
+    "code": "090309",
+    "description": "JULCAMARCA",
+    "parent": "090300"
+  },
+  {
+    "code": "090310",
+    "description": "SAN ANTONIO DE ANTAPARCO",
+    "parent": "090300"
+  },
+  {
+    "code": "090311",
+    "description": "SANTO TOMAS DE PATA",
+    "parent": "090300"
+  },
+  {
+    "code": "090312",
+    "description": "SECCLLA",
+    "parent": "090300"
+  },
+  {
+    "code": "090400",
+    "description": "CASTROVIRREYNA",
+    "parent": "090000"
+  },
+  {
+    "code": "090401",
+    "description": "CASTROVIRREYNA",
+    "parent": "090400"
+  },
+  {
+    "code": "090402",
+    "description": "ARMA",
+    "parent": "090400"
+  },
+  {
+    "code": "090403",
+    "description": "AURAHUA",
+    "parent": "090400"
+  },
+  {
+    "code": "090404",
+    "description": "CAPILLAS",
+    "parent": "090400"
+  },
+  {
+    "code": "090405",
+    "description": "CHUPAMARCA",
+    "parent": "090400"
+  },
+  {
+    "code": "090406",
+    "description": "COCAS",
+    "parent": "090400"
+  },
+  {
+    "code": "090407",
+    "description": "HUACHOS",
+    "parent": "090400"
+  },
+  {
+    "code": "090408",
+    "description": "HUAMATAMBO",
+    "parent": "090400"
+  },
+  {
+    "code": "090409",
+    "description": "MOLLEPAMPA",
+    "parent": "090400"
+  },
+  {
+    "code": "090410",
+    "description": "SAN JUAN",
+    "parent": "090400"
+  },
+  {
+    "code": "090411",
+    "description": "SANTA ANA",
+    "parent": "090400"
+  },
+  {
+    "code": "090412",
+    "description": "TANTARA",
+    "parent": "090400"
+  },
+  {
+    "code": "090413",
+    "description": "TICRAPO",
+    "parent": "090400"
+  },
+  {
+    "code": "090500",
+    "description": "CHURCAMPA",
+    "parent": "090000"
+  },
+  {
+    "code": "090501",
+    "description": "CHURCAMPA",
+    "parent": "090500"
+  },
+  {
+    "code": "090502",
+    "description": "ANCO",
+    "parent": "090500"
+  },
+  {
+    "code": "090503",
+    "description": "CHINCHIHUASI",
+    "parent": "090500"
+  },
+  {
+    "code": "090504",
+    "description": "EL CARMEN",
+    "parent": "090500"
+  },
+  {
+    "code": "090505",
+    "description": "LA MERCED",
+    "parent": "090500"
+  },
+  {
+    "code": "090506",
+    "description": "LOCROJA",
+    "parent": "090500"
+  },
+  {
+    "code": "090507",
+    "description": "PAUCARBAMBA",
+    "parent": "090500"
+  },
+  {
+    "code": "090508",
+    "description": "SAN MIGUEL DE MAYOCC",
+    "parent": "090500"
+  },
+  {
+    "code": "090509",
+    "description": "SAN PEDRO DE CORIS",
+    "parent": "090500"
+  },
+  {
+    "code": "090510",
+    "description": "PACHAMARCA",
+    "parent": "090500"
+  },
+  {
+    "code": "090600",
+    "description": "HUAYTARA",
+    "parent": "090000"
+  },
+  {
+    "code": "090601",
+    "description": "HUAYTARA",
+    "parent": "090600"
+  },
+  {
+    "code": "090602",
+    "description": "AYAVI",
+    "parent": "090600"
+  },
+  {
+    "code": "090603",
+    "description": "CORDOVA",
+    "parent": "090600"
+  },
+  {
+    "code": "090604",
+    "description": "HUAYACUNDO ARMA",
+    "parent": "090600"
+  },
+  {
+    "code": "090605",
+    "description": "LARAMARCA",
+    "parent": "090600"
+  },
+  {
+    "code": "090606",
+    "description": "OCOYO",
+    "parent": "090600"
+  },
+  {
+    "code": "090607",
+    "description": "PILPICHACA",
+    "parent": "090600"
+  },
+  {
+    "code": "090608",
+    "description": "QUERCO",
+    "parent": "090600"
+  },
+  {
+    "code": "090609",
+    "description": "QUITO-ARMA",
+    "parent": "090600"
+  },
+  {
+    "code": "090610",
+    "description": "SAN ANTONIO DE CUSICANCHA",
+    "parent": "090600"
+  },
+  {
+    "code": "090611",
+    "description": "SAN FRANCISCO DE SANGAYAICO",
+    "parent": "090600"
+  },
+  {
+    "code": "090612",
+    "description": "SAN ISIDRO",
+    "parent": "090600"
+  },
+  {
+    "code": "090613",
+    "description": "SANTIAGO DE CHOCORVOS",
+    "parent": "090600"
+  },
+  {
+    "code": "090614",
+    "description": "SANTIAGO DE QUIRAHUARA",
+    "parent": "090600"
+  },
+  {
+    "code": "090615",
+    "description": "SANTO DOMINGO DE CAPILLAS",
+    "parent": "090600"
+  },
+  {
+    "code": "090616",
+    "description": "TAMBO",
+    "parent": "090600"
+  },
+  {
+    "code": "090700",
+    "description": "TAYACAJA",
+    "parent": "090000"
+  },
+  {
+    "code": "090701",
+    "description": "PAMPAS",
+    "parent": "090700"
+  },
+  {
+    "code": "090702",
+    "description": "ACOSTAMBO",
+    "parent": "090700"
+  },
+  {
+    "code": "090703",
+    "description": "ACRAQUIA",
+    "parent": "090700"
+  },
+  {
+    "code": "090704",
+    "description": "AHUAYCHA",
+    "parent": "090700"
+  },
+  {
+    "code": "090705",
+    "description": "COLCABAMBA",
+    "parent": "090700"
+  },
+  {
+    "code": "090706",
+    "description": "DANIEL HERNANDEZ",
+    "parent": "090700"
+  },
+  {
+    "code": "090707",
+    "description": "HUACHOCOLPA",
+    "parent": "090700"
+  },
+  {
+    "code": "090709",
+    "description": "HUARIBAMBA",
+    "parent": "090700"
+  },
+  {
+    "code": "090710",
+    "description": "ÑAHUIMPUQUIO",
+    "parent": "090700"
+  },
+  {
+    "code": "090711",
+    "description": "PAZOS",
+    "parent": "090700"
+  },
+  {
+    "code": "090713",
+    "description": "QUISHUAR",
+    "parent": "090700"
+  },
+  {
+    "code": "090714",
+    "description": "SALCABAMBA",
+    "parent": "090700"
+  },
+  {
+    "code": "090715",
+    "description": "SALCAHUASI",
+    "parent": "090700"
+  },
+  {
+    "code": "090716",
+    "description": "SAN MARCOS DE ROCCHAC",
+    "parent": "090700"
+  },
+  {
+    "code": "090717",
+    "description": "SURCUBAMBA",
+    "parent": "090700"
+  },
+  {
+    "code": "090718",
+    "description": "TINTAY PUNCU",
+    "parent": "090700"
+  },
+  {
+    "code": "100000",
+    "description": "HUANUCO",
+    "parent": ""
+  },
+  {
+    "code": "100100",
+    "description": "HUANUCO",
+    "parent": "100000"
+  },
+  {
+    "code": "100101",
+    "description": "HUANUCO",
+    "parent": "100100"
+  },
+  {
+    "code": "100102",
+    "description": "AMARILIS",
+    "parent": "100100"
+  },
+  {
+    "code": "100103",
+    "description": "CHINCHAO",
+    "parent": "100100"
+  },
+  {
+    "code": "100104",
+    "description": "CHURUBAMBA",
+    "parent": "100100"
+  },
+  {
+    "code": "100105",
+    "description": "MARGOS",
+    "parent": "100100"
+  },
+  {
+    "code": "100106",
+    "description": "QUISQUI",
+    "parent": "100100"
+  },
+  {
+    "code": "100107",
+    "description": "SAN FRANCISCO DE CAYRAN",
+    "parent": "100100"
+  },
+  {
+    "code": "100108",
+    "description": "SAN PEDRO DE CHAULAN",
+    "parent": "100100"
+  },
+  {
+    "code": "100109",
+    "description": "SANTA MARIA DEL VALLE",
+    "parent": "100100"
+  },
+  {
+    "code": "100110",
+    "description": "YARUMAYO",
+    "parent": "100100"
+  },
+  {
+    "code": "100111",
+    "description": "PILLCO MARCA",
+    "parent": "100100"
+  },
+  {
+    "code": "100200",
+    "description": "AMBO",
+    "parent": "100000"
+  },
+  {
+    "code": "100201",
+    "description": "AMBO",
+    "parent": "100200"
+  },
+  {
+    "code": "100202",
+    "description": "CAYNA",
+    "parent": "100200"
+  },
+  {
+    "code": "100203",
+    "description": "COLPAS",
+    "parent": "100200"
+  },
+  {
+    "code": "100204",
+    "description": "CONCHAMARCA",
+    "parent": "100200"
+  },
+  {
+    "code": "100205",
+    "description": "HUACAR",
+    "parent": "100200"
+  },
+  {
+    "code": "100206",
+    "description": "SAN FRANCISCO",
+    "parent": "100200"
+  },
+  {
+    "code": "100207",
+    "description": "SAN RAFAEL",
+    "parent": "100200"
+  },
+  {
+    "code": "100208",
+    "description": "TOMAY KICHWA",
+    "parent": "100200"
+  },
+  {
+    "code": "100300",
+    "description": "DOS DE MAYO",
+    "parent": "100000"
+  },
+  {
+    "code": "100301",
+    "description": "LA UNION",
+    "parent": "100300"
+  },
+  {
+    "code": "100307",
+    "description": "CHUQUIS",
+    "parent": "100300"
+  },
+  {
+    "code": "100311",
+    "description": "MARIAS",
+    "parent": "100300"
+  },
+  {
+    "code": "100313",
+    "description": "PACHAS",
+    "parent": "100300"
+  },
+  {
+    "code": "100316",
+    "description": "QUIVILLA",
+    "parent": "100300"
+  },
+  {
+    "code": "100317",
+    "description": "RIPAN",
+    "parent": "100300"
+  },
+  {
+    "code": "100321",
+    "description": "SHUNQUI",
+    "parent": "100300"
+  },
+  {
+    "code": "100322",
+    "description": "SILLAPATA",
+    "parent": "100300"
+  },
+  {
+    "code": "100323",
+    "description": "YANAS",
+    "parent": "100300"
+  },
+  {
+    "code": "100400",
+    "description": "HUACAYBAMBA",
+    "parent": "100000"
+  },
+  {
+    "code": "100401",
+    "description": "HUACAYBAMBA",
+    "parent": "100400"
+  },
+  {
+    "code": "100402",
+    "description": "CANCHABAMBA",
+    "parent": "100400"
+  },
+  {
+    "code": "100403",
+    "description": "COCHABAMBA",
+    "parent": "100400"
+  },
+  {
+    "code": "100404",
+    "description": "PINRA",
+    "parent": "100400"
+  },
+  {
+    "code": "100500",
+    "description": "HUAMALIES",
+    "parent": "100000"
+  },
+  {
+    "code": "100501",
+    "description": "LLATA",
+    "parent": "100500"
+  },
+  {
+    "code": "100502",
+    "description": "ARANCAY",
+    "parent": "100500"
+  },
+  {
+    "code": "100503",
+    "description": "CHAVIN DE PARIARCA",
+    "parent": "100500"
+  },
+  {
+    "code": "100504",
+    "description": "JACAS GRANDE",
+    "parent": "100500"
+  },
+  {
+    "code": "100505",
+    "description": "JIRCAN",
+    "parent": "100500"
+  },
+  {
+    "code": "100506",
+    "description": "MIRAFLORES",
+    "parent": "100500"
+  },
+  {
+    "code": "100507",
+    "description": "MONZON",
+    "parent": "100500"
+  },
+  {
+    "code": "100508",
+    "description": "PUNCHAO",
+    "parent": "100500"
+  },
+  {
+    "code": "100509",
+    "description": "PUÑOS",
+    "parent": "100500"
+  },
+  {
+    "code": "100510",
+    "description": "SINGA",
+    "parent": "100500"
+  },
+  {
+    "code": "100511",
+    "description": "TANTAMAYO",
+    "parent": "100500"
+  },
+  {
+    "code": "100600",
+    "description": "LEONCIO PRADO",
+    "parent": "100000"
+  },
+  {
+    "code": "100601",
+    "description": "RUPA-RUPA",
+    "parent": "100600"
+  },
+  {
+    "code": "100602",
+    "description": "DANIEL ALOMIA ROBLES",
+    "parent": "100600"
+  },
+  {
+    "code": "100603",
+    "description": "HERMILIO VALDIZAN",
+    "parent": "100600"
+  },
+  {
+    "code": "100604",
+    "description": "JOSE CRESPO Y CASTILLO",
+    "parent": "100600"
+  },
+  {
+    "code": "100605",
+    "description": "LUYANDO",
+    "parent": "100600"
+  },
+  {
+    "code": "100606",
+    "description": "MARIANO DAMASO BERAUN",
+    "parent": "100600"
+  },
+  {
+    "code": "100700",
+    "description": "MARAÑON",
+    "parent": "100000"
+  },
+  {
+    "code": "100701",
+    "description": "HUACRACHUCO",
+    "parent": "100700"
+  },
+  {
+    "code": "100702",
+    "description": "CHOLON",
+    "parent": "100700"
+  },
+  {
+    "code": "100703",
+    "description": "SAN BUENAVENTURA",
+    "parent": "100700"
+  },
+  {
+    "code": "100800",
+    "description": "PACHITEA",
+    "parent": "100000"
+  },
+  {
+    "code": "100801",
+    "description": "PANAO",
+    "parent": "100800"
+  },
+  {
+    "code": "100802",
+    "description": "CHAGLLA",
+    "parent": "100800"
+  },
+  {
+    "code": "100803",
+    "description": "MOLINO",
+    "parent": "100800"
+  },
+  {
+    "code": "100804",
+    "description": "UMARI",
+    "parent": "100800"
+  },
+  {
+    "code": "100900",
+    "description": "PUERTO INCA",
+    "parent": "100000"
+  },
+  {
+    "code": "100901",
+    "description": "PUERTO INCA",
+    "parent": "100900"
+  },
+  {
+    "code": "100902",
+    "description": "CODO DEL POZUZO",
+    "parent": "100900"
+  },
+  {
+    "code": "100903",
+    "description": "HONORIA",
+    "parent": "100900"
+  },
+  {
+    "code": "100904",
+    "description": "TOURNAVISTA",
+    "parent": "100900"
+  },
+  {
+    "code": "100905",
+    "description": "YUYAPICHIS",
+    "parent": "100900"
+  },
+  {
+    "code": "101000",
+    "description": "LAURICOCHA",
+    "parent": "100000"
+  },
+  {
+    "code": "101001",
+    "description": "JESUS",
+    "parent": "101000"
+  },
+  {
+    "code": "101002",
+    "description": "BAÑOS",
+    "parent": "101000"
+  },
+  {
+    "code": "101003",
+    "description": "JIVIA",
+    "parent": "101000"
+  },
+  {
+    "code": "101004",
+    "description": "QUEROPALCA",
+    "parent": "101000"
+  },
+  {
+    "code": "101005",
+    "description": "RONDOS",
+    "parent": "101000"
+  },
+  {
+    "code": "101006",
+    "description": "SAN FRANCISCO DE ASIS",
+    "parent": "101000"
+  },
+  {
+    "code": "101007",
+    "description": "SAN MIGUEL DE CAURI",
+    "parent": "101000"
+  },
+  {
+    "code": "101100",
+    "description": "YAROWILCA",
+    "parent": "100000"
+  },
+  {
+    "code": "101101",
+    "description": "CHAVINILLO",
+    "parent": "101100"
+  },
+  {
+    "code": "101102",
+    "description": "CAHUAC",
+    "parent": "101100"
+  },
+  {
+    "code": "101103",
+    "description": "CHACABAMBA",
+    "parent": "101100"
+  },
+  {
+    "code": "101104",
+    "description": "APARICIO POMARES",
+    "parent": "101100"
+  },
+  {
+    "code": "101105",
+    "description": "JACAS CHICO",
+    "parent": "101100"
+  },
+  {
+    "code": "101106",
+    "description": "OBAS",
+    "parent": "101100"
+  },
+  {
+    "code": "101107",
+    "description": "PAMPAMARCA",
+    "parent": "101100"
+  },
+  {
+    "code": "101108",
+    "description": "CHORAS",
+    "parent": "101100"
+  },
+  {
+    "code": "110000",
+    "description": "ICA",
+    "parent": ""
+  },
+  {
+    "code": "110100",
+    "description": "ICA",
+    "parent": "110000"
+  },
+  {
+    "code": "110101",
+    "description": "ICA",
+    "parent": "110100"
+  },
+  {
+    "code": "110102",
+    "description": "LA TINGUIÑA",
+    "parent": "110100"
+  },
+  {
+    "code": "110103",
+    "description": "LOS AQUIJES",
+    "parent": "110100"
+  },
+  {
+    "code": "110104",
+    "description": "OCUCAJE",
+    "parent": "110100"
+  },
+  {
+    "code": "110105",
+    "description": "PACHACUTEC",
+    "parent": "110100"
+  },
+  {
+    "code": "110106",
+    "description": "PARCONA",
+    "parent": "110100"
+  },
+  {
+    "code": "110107",
+    "description": "PUEBLO NUEVO",
+    "parent": "110100"
+  },
+  {
+    "code": "110108",
+    "description": "SALAS",
+    "parent": "110100"
+  },
+  {
+    "code": "110109",
+    "description": "SAN JOSE DE LOS MOLINOS",
+    "parent": "110100"
+  },
+  {
+    "code": "110110",
+    "description": "SAN JUAN BAUTISTA",
+    "parent": "110100"
+  },
+  {
+    "code": "110111",
+    "description": "SANTIAGO",
+    "parent": "110100"
+  },
+  {
+    "code": "110112",
+    "description": "SUBTANJALLA",
+    "parent": "110100"
+  },
+  {
+    "code": "110113",
+    "description": "TATE",
+    "parent": "110100"
+  },
+  {
+    "code": "110114",
+    "description": "YAUCA DEL ROSARIO",
+    "parent": "110100"
+  },
+  {
+    "code": "110200",
+    "description": "CHINCHA",
+    "parent": "110000"
+  },
+  {
+    "code": "110201",
+    "description": "CHINCHA ALTA",
+    "parent": "110200"
+  },
+  {
+    "code": "110202",
+    "description": "ALTO LARAN",
+    "parent": "110200"
+  },
+  {
+    "code": "110203",
+    "description": "CHAVIN",
+    "parent": "110200"
+  },
+  {
+    "code": "110204",
+    "description": "CHINCHA BAJA",
+    "parent": "110200"
+  },
+  {
+    "code": "110205",
+    "description": "EL CARMEN",
+    "parent": "110200"
+  },
+  {
+    "code": "110206",
+    "description": "GROCIO PRADO",
+    "parent": "110200"
+  },
+  {
+    "code": "110207",
+    "description": "PUEBLO NUEVO",
+    "parent": "110200"
+  },
+  {
+    "code": "110208",
+    "description": "SAN JUAN DE YANAC",
+    "parent": "110200"
+  },
+  {
+    "code": "110209",
+    "description": "SAN PEDRO DE HUACARPANA",
+    "parent": "110200"
+  },
+  {
+    "code": "110210",
+    "description": "SUNAMPE",
+    "parent": "110200"
+  },
+  {
+    "code": "110211",
+    "description": "TAMBO DE MORA",
+    "parent": "110200"
+  },
+  {
+    "code": "110300",
+    "description": "NASCA",
+    "parent": "110000"
+  },
+  {
+    "code": "110301",
+    "description": "NASCA",
+    "parent": "110300"
+  },
+  {
+    "code": "110302",
+    "description": "CHANGUILLO",
+    "parent": "110300"
+  },
+  {
+    "code": "110303",
+    "description": "EL INGENIO",
+    "parent": "110300"
+  },
+  {
+    "code": "110304",
+    "description": "MARCONA",
+    "parent": "110300"
+  },
+  {
+    "code": "110305",
+    "description": "VISTA ALEGRE",
+    "parent": "110300"
+  },
+  {
+    "code": "110400",
+    "description": "PALPA",
+    "parent": "110000"
+  },
+  {
+    "code": "110401",
+    "description": "PALPA",
+    "parent": "110400"
+  },
+  {
+    "code": "110402",
+    "description": "LLIPATA",
+    "parent": "110400"
+  },
+  {
+    "code": "110403",
+    "description": "RIO GRANDE",
+    "parent": "110400"
+  },
+  {
+    "code": "110404",
+    "description": "SANTA CRUZ",
+    "parent": "110400"
+  },
+  {
+    "code": "110405",
+    "description": "TIBILLO",
+    "parent": "110400"
+  },
+  {
+    "code": "110500",
+    "description": "PISCO",
+    "parent": "110000"
+  },
+  {
+    "code": "110501",
+    "description": "PISCO",
+    "parent": "110500"
+  },
+  {
+    "code": "110502",
+    "description": "HUANCANO",
+    "parent": "110500"
+  },
+  {
+    "code": "110503",
+    "description": "HUMAY",
+    "parent": "110500"
+  },
+  {
+    "code": "110504",
+    "description": "INDEPENDENCIA",
+    "parent": "110500"
+  },
+  {
+    "code": "110505",
+    "description": "PARACAS",
+    "parent": "110500"
+  },
+  {
+    "code": "110506",
+    "description": "SAN ANDRES",
+    "parent": "110500"
+  },
+  {
+    "code": "110507",
+    "description": "SAN CLEMENTE",
+    "parent": "110500"
+  },
+  {
+    "code": "110508",
+    "description": "TUPAC AMARU INCA",
+    "parent": "110500"
+  },
+  {
+    "code": "120000",
+    "description": "JUNIN",
+    "parent": ""
+  },
+  {
+    "code": "120100",
+    "description": "HUANCAYO",
+    "parent": "120000"
+  },
+  {
+    "code": "120101",
+    "description": "HUANCAYO",
+    "parent": "120100"
+  },
+  {
+    "code": "120104",
+    "description": "CARHUACALLANGA",
+    "parent": "120100"
+  },
+  {
+    "code": "120105",
+    "description": "CHACAPAMPA",
+    "parent": "120100"
+  },
+  {
+    "code": "120106",
+    "description": "CHICCHE",
+    "parent": "120100"
+  },
+  {
+    "code": "120107",
+    "description": "CHILCA",
+    "parent": "120100"
+  },
+  {
+    "code": "120108",
+    "description": "CHONGOS ALTO",
+    "parent": "120100"
+  },
+  {
+    "code": "120111",
+    "description": "CHUPURO",
+    "parent": "120100"
+  },
+  {
+    "code": "120112",
+    "description": "COLCA",
+    "parent": "120100"
+  },
+  {
+    "code": "120113",
+    "description": "CULLHUAS",
+    "parent": "120100"
+  },
+  {
+    "code": "120114",
+    "description": "EL TAMBO",
+    "parent": "120100"
+  },
+  {
+    "code": "120116",
+    "description": "HUACRAPUQUIO",
+    "parent": "120100"
+  },
+  {
+    "code": "120117",
+    "description": "HUALHUAS",
+    "parent": "120100"
+  },
+  {
+    "code": "120119",
+    "description": "HUANCAN",
+    "parent": "120100"
+  },
+  {
+    "code": "120120",
+    "description": "HUASICANCHA",
+    "parent": "120100"
+  },
+  {
+    "code": "120121",
+    "description": "HUAYUCACHI",
+    "parent": "120100"
+  },
+  {
+    "code": "120122",
+    "description": "INGENIO",
+    "parent": "120100"
+  },
+  {
+    "code": "120124",
+    "description": "PARIAHUANCA",
+    "parent": "120100"
+  },
+  {
+    "code": "120125",
+    "description": "PILCOMAYO",
+    "parent": "120100"
+  },
+  {
+    "code": "120126",
+    "description": "PUCARA",
+    "parent": "120100"
+  },
+  {
+    "code": "120127",
+    "description": "QUICHUAY",
+    "parent": "120100"
+  },
+  {
+    "code": "120128",
+    "description": "QUILCAS",
+    "parent": "120100"
+  },
+  {
+    "code": "120129",
+    "description": "SAN AGUSTIN",
+    "parent": "120100"
+  },
+  {
+    "code": "120130",
+    "description": "SAN JERONIMO DE TUNAN",
+    "parent": "120100"
+  },
+  {
+    "code": "120132",
+    "description": "SAÑO",
+    "parent": "120100"
+  },
+  {
+    "code": "120133",
+    "description": "SAPALLANGA",
+    "parent": "120100"
+  },
+  {
+    "code": "120134",
+    "description": "SICAYA",
+    "parent": "120100"
+  },
+  {
+    "code": "120135",
+    "description": "SANTO DOMINGO DE ACOBAMBA",
+    "parent": "120100"
+  },
+  {
+    "code": "120136",
+    "description": "VIQUES",
+    "parent": "120100"
+  },
+  {
+    "code": "120200",
+    "description": "CONCEPCION",
+    "parent": "120000"
+  },
+  {
+    "code": "120201",
+    "description": "CONCEPCION",
+    "parent": "120200"
+  },
+  {
+    "code": "120202",
+    "description": "ACO",
+    "parent": "120200"
+  },
+  {
+    "code": "120203",
+    "description": "ANDAMARCA",
+    "parent": "120200"
+  },
+  {
+    "code": "120204",
+    "description": "CHAMBARA",
+    "parent": "120200"
+  },
+  {
+    "code": "120205",
+    "description": "COCHAS",
+    "parent": "120200"
+  },
+  {
+    "code": "120206",
+    "description": "COMAS",
+    "parent": "120200"
+  },
+  {
+    "code": "120207",
+    "description": "HEROINAS TOLEDO",
+    "parent": "120200"
+  },
+  {
+    "code": "120208",
+    "description": "MANZANARES",
+    "parent": "120200"
+  },
+  {
+    "code": "120209",
+    "description": "MARISCAL CASTILLA",
+    "parent": "120200"
+  },
+  {
+    "code": "120210",
+    "description": "MATAHUASI",
+    "parent": "120200"
+  },
+  {
+    "code": "120211",
+    "description": "MITO",
+    "parent": "120200"
+  },
+  {
+    "code": "120212",
+    "description": "NUEVE DE JULIO",
+    "parent": "120200"
+  },
+  {
+    "code": "120213",
+    "description": "ORCOTUNA",
+    "parent": "120200"
+  },
+  {
+    "code": "120214",
+    "description": "SAN JOSE DE QUERO",
+    "parent": "120200"
+  },
+  {
+    "code": "120215",
+    "description": "SANTA ROSA DE OCOPA",
+    "parent": "120200"
+  },
+  {
+    "code": "120300",
+    "description": "CHANCHAMAYO",
+    "parent": "120000"
+  },
+  {
+    "code": "120301",
+    "description": "CHANCHAMAYO",
+    "parent": "120300"
+  },
+  {
+    "code": "120302",
+    "description": "PERENE",
+    "parent": "120300"
+  },
+  {
+    "code": "120303",
+    "description": "PICHANAQUI",
+    "parent": "120300"
+  },
+  {
+    "code": "120304",
+    "description": "SAN LUIS DE SHUARO",
+    "parent": "120300"
+  },
+  {
+    "code": "120305",
+    "description": "SAN RAMON",
+    "parent": "120300"
+  },
+  {
+    "code": "120306",
+    "description": "VITOC",
+    "parent": "120300"
+  },
+  {
+    "code": "120400",
+    "description": "JAUJA",
+    "parent": "120000"
+  },
+  {
+    "code": "120401",
+    "description": "JAUJA",
+    "parent": "120400"
+  },
+  {
+    "code": "120402",
+    "description": "ACOLLA",
+    "parent": "120400"
+  },
+  {
+    "code": "120403",
+    "description": "APATA",
+    "parent": "120400"
+  },
+  {
+    "code": "120404",
+    "description": "ATAURA",
+    "parent": "120400"
+  },
+  {
+    "code": "120405",
+    "description": "CANCHAYLLO",
+    "parent": "120400"
+  },
+  {
+    "code": "120406",
+    "description": "CURICACA",
+    "parent": "120400"
+  },
+  {
+    "code": "120407",
+    "description": "EL MANTARO",
+    "parent": "120400"
+  },
+  {
+    "code": "120408",
+    "description": "HUAMALI",
+    "parent": "120400"
+  },
+  {
+    "code": "120409",
+    "description": "HUARIPAMPA",
+    "parent": "120400"
+  },
+  {
+    "code": "120410",
+    "description": "HUERTAS",
+    "parent": "120400"
+  },
+  {
+    "code": "120411",
+    "description": "JANJAILLO",
+    "parent": "120400"
+  },
+  {
+    "code": "120412",
+    "description": "JULCAN",
+    "parent": "120400"
+  },
+  {
+    "code": "120413",
+    "description": "LEONOR ORDOÑEZ",
+    "parent": "120400"
+  },
+  {
+    "code": "120414",
+    "description": "LLOCLLAPAMPA",
+    "parent": "120400"
+  },
+  {
+    "code": "120415",
+    "description": "MARCO",
+    "parent": "120400"
+  },
+  {
+    "code": "120416",
+    "description": "MASMA",
+    "parent": "120400"
+  },
+  {
+    "code": "120417",
+    "description": "MASMA CHICCHE",
+    "parent": "120400"
+  },
+  {
+    "code": "120418",
+    "description": "MOLINOS",
+    "parent": "120400"
+  },
+  {
+    "code": "120419",
+    "description": "MONOBAMBA",
+    "parent": "120400"
+  },
+  {
+    "code": "120420",
+    "description": "MUQUI",
+    "parent": "120400"
+  },
+  {
+    "code": "120421",
+    "description": "MUQUIYAUYO",
+    "parent": "120400"
+  },
+  {
+    "code": "120422",
+    "description": "PACA",
+    "parent": "120400"
+  },
+  {
+    "code": "120423",
+    "description": "PACCHA",
+    "parent": "120400"
+  },
+  {
+    "code": "120424",
+    "description": "PANCAN",
+    "parent": "120400"
+  },
+  {
+    "code": "120425",
+    "description": "PARCO",
+    "parent": "120400"
+  },
+  {
+    "code": "120426",
+    "description": "POMACANCHA",
+    "parent": "120400"
+  },
+  {
+    "code": "120427",
+    "description": "RICRAN",
+    "parent": "120400"
+  },
+  {
+    "code": "120428",
+    "description": "SAN LORENZO",
+    "parent": "120400"
+  },
+  {
+    "code": "120429",
+    "description": "SAN PEDRO DE CHUNAN",
+    "parent": "120400"
+  },
+  {
+    "code": "120430",
+    "description": "SAUSA",
+    "parent": "120400"
+  },
+  {
+    "code": "120431",
+    "description": "SINCOS",
+    "parent": "120400"
+  },
+  {
+    "code": "120432",
+    "description": "TUNAN MARCA",
+    "parent": "120400"
+  },
+  {
+    "code": "120433",
+    "description": "YAULI",
+    "parent": "120400"
+  },
+  {
+    "code": "120434",
+    "description": "YAUYOS",
+    "parent": "120400"
+  },
+  {
+    "code": "120500",
+    "description": "JUNIN",
+    "parent": "120000"
+  },
+  {
+    "code": "120501",
+    "description": "JUNIN",
+    "parent": "120500"
+  },
+  {
+    "code": "120502",
+    "description": "CARHUAMAYO",
+    "parent": "120500"
+  },
+  {
+    "code": "120503",
+    "description": "ONDORES",
+    "parent": "120500"
+  },
+  {
+    "code": "120504",
+    "description": "ULCUMAYO",
+    "parent": "120500"
+  },
+  {
+    "code": "120600",
+    "description": "SATIPO",
+    "parent": "120000"
+  },
+  {
+    "code": "120601",
+    "description": "SATIPO",
+    "parent": "120600"
+  },
+  {
+    "code": "120602",
+    "description": "COVIRIALI",
+    "parent": "120600"
+  },
+  {
+    "code": "120603",
+    "description": "LLAYLLA",
+    "parent": "120600"
+  },
+  {
+    "code": "120604",
+    "description": "MAZAMARI",
+    "parent": "120600"
+  },
+  {
+    "code": "120605",
+    "description": "PAMPA HERMOSA",
+    "parent": "120600"
+  },
+  {
+    "code": "120606",
+    "description": "PANGOA",
+    "parent": "120600"
+  },
+  {
+    "code": "120607",
+    "description": "RIO NEGRO",
+    "parent": "120600"
+  },
+  {
+    "code": "120608",
+    "description": "RIO TAMBO",
+    "parent": "120600"
+  },
+  {
+    "code": "120700",
+    "description": "TARMA",
+    "parent": "120000"
+  },
+  {
+    "code": "120701",
+    "description": "TARMA",
+    "parent": "120700"
+  },
+  {
+    "code": "120702",
+    "description": "ACOBAMBA",
+    "parent": "120700"
+  },
+  {
+    "code": "120703",
+    "description": "HUARICOLCA",
+    "parent": "120700"
+  },
+  {
+    "code": "120704",
+    "description": "HUASAHUASI",
+    "parent": "120700"
+  },
+  {
+    "code": "120705",
+    "description": "LA UNION",
+    "parent": "120700"
+  },
+  {
+    "code": "120706",
+    "description": "PALCA",
+    "parent": "120700"
+  },
+  {
+    "code": "120707",
+    "description": "PALCAMAYO",
+    "parent": "120700"
+  },
+  {
+    "code": "120708",
+    "description": "SAN PEDRO DE CAJAS",
+    "parent": "120700"
+  },
+  {
+    "code": "120709",
+    "description": "TAPO",
+    "parent": "120700"
+  },
+  {
+    "code": "120800",
+    "description": "YAULI",
+    "parent": "120000"
+  },
+  {
+    "code": "120801",
+    "description": "LA OROYA",
+    "parent": "120800"
+  },
+  {
+    "code": "120802",
+    "description": "CHACAPALPA",
+    "parent": "120800"
+  },
+  {
+    "code": "120803",
+    "description": "HUAY-HUAY",
+    "parent": "120800"
+  },
+  {
+    "code": "120804",
+    "description": "MARCAPOMACOCHA",
+    "parent": "120800"
+  },
+  {
+    "code": "120805",
+    "description": "MOROCOCHA",
+    "parent": "120800"
+  },
+  {
+    "code": "120806",
+    "description": "PACCHA",
+    "parent": "120800"
+  },
+  {
+    "code": "120807",
+    "description": "SANTA BARBARA DE CARHUACAYAN",
+    "parent": "120800"
+  },
+  {
+    "code": "120808",
+    "description": "SANTA ROSA DE SACCO",
+    "parent": "120800"
+  },
+  {
+    "code": "120809",
+    "description": "SUITUCANCHA",
+    "parent": "120800"
+  },
+  {
+    "code": "120810",
+    "description": "YAULI",
+    "parent": "120800"
+  },
+  {
+    "code": "120900",
+    "description": "CHUPACA",
+    "parent": "120000"
+  },
+  {
+    "code": "120901",
+    "description": "CHUPACA",
+    "parent": "120900"
+  },
+  {
+    "code": "120902",
+    "description": "AHUAC",
+    "parent": "120900"
+  },
+  {
+    "code": "120903",
+    "description": "CHONGOS BAJO",
+    "parent": "120900"
+  },
+  {
+    "code": "120904",
+    "description": "HUACHAC",
+    "parent": "120900"
+  },
+  {
+    "code": "120905",
+    "description": "HUAMANCACA CHICO",
+    "parent": "120900"
+  },
+  {
+    "code": "120906",
+    "description": "SAN JUAN DE ISCOS",
+    "parent": "120900"
+  },
+  {
+    "code": "120907",
+    "description": "SAN JUAN DE JARPA",
+    "parent": "120900"
+  },
+  {
+    "code": "120908",
+    "description": "TRES DE DICIEMBRE",
+    "parent": "120900"
+  },
+  {
+    "code": "120909",
+    "description": "YANACANCHA",
+    "parent": "120900"
+  },
+  {
+    "code": "130000",
+    "description": "LA LIBERTAD",
+    "parent": ""
+  },
+  {
+    "code": "130100",
+    "description": "TRUJILLO",
+    "parent": "130000"
+  },
+  {
+    "code": "130101",
+    "description": "TRUJILLO",
+    "parent": "130100"
+  },
+  {
+    "code": "130102",
+    "description": "EL PORVENIR",
+    "parent": "130100"
+  },
+  {
+    "code": "130103",
+    "description": "FLORENCIA DE MORA",
+    "parent": "130100"
+  },
+  {
+    "code": "130104",
+    "description": "HUANCHACO",
+    "parent": "130100"
+  },
+  {
+    "code": "130105",
+    "description": "LA ESPERANZA",
+    "parent": "130100"
+  },
+  {
+    "code": "130106",
+    "description": "LAREDO",
+    "parent": "130100"
+  },
+  {
+    "code": "130107",
+    "description": "MOCHE",
+    "parent": "130100"
+  },
+  {
+    "code": "130108",
+    "description": "POROTO",
+    "parent": "130100"
+  },
+  {
+    "code": "130109",
+    "description": "SALAVERRY",
+    "parent": "130100"
+  },
+  {
+    "code": "130110",
+    "description": "SIMBAL",
+    "parent": "130100"
+  },
+  {
+    "code": "130111",
+    "description": "VICTOR LARCO HERRERA",
+    "parent": "130100"
+  },
+  {
+    "code": "130200",
+    "description": "ASCOPE",
+    "parent": "130000"
+  },
+  {
+    "code": "130201",
+    "description": "ASCOPE",
+    "parent": "130200"
+  },
+  {
+    "code": "130202",
+    "description": "CHICAMA",
+    "parent": "130200"
+  },
+  {
+    "code": "130203",
+    "description": "CHOCOPE",
+    "parent": "130200"
+  },
+  {
+    "code": "130204",
+    "description": "MAGDALENA DE CAO",
+    "parent": "130200"
+  },
+  {
+    "code": "130205",
+    "description": "PAIJAN",
+    "parent": "130200"
+  },
+  {
+    "code": "130206",
+    "description": "RAZURI",
+    "parent": "130200"
+  },
+  {
+    "code": "130207",
+    "description": "SANTIAGO DE CAO",
+    "parent": "130200"
+  },
+  {
+    "code": "130208",
+    "description": "CASA GRANDE",
+    "parent": "130200"
+  },
+  {
+    "code": "130300",
+    "description": "BOLIVAR",
+    "parent": "130000"
+  },
+  {
+    "code": "130301",
+    "description": "BOLIVAR",
+    "parent": "130300"
+  },
+  {
+    "code": "130302",
+    "description": "BAMBAMARCA",
+    "parent": "130300"
+  },
+  {
+    "code": "130303",
+    "description": "CONDORMARCA",
+    "parent": "130300"
+  },
+  {
+    "code": "130304",
+    "description": "LONGOTEA",
+    "parent": "130300"
+  },
+  {
+    "code": "130305",
+    "description": "UCHUMARCA",
+    "parent": "130300"
+  },
+  {
+    "code": "130306",
+    "description": "UCUNCHA",
+    "parent": "130300"
+  },
+  {
+    "code": "130400",
+    "description": "CHEPEN",
+    "parent": "130000"
+  },
+  {
+    "code": "130401",
+    "description": "CHEPEN",
+    "parent": "130400"
+  },
+  {
+    "code": "130402",
+    "description": "PACANGA",
+    "parent": "130400"
+  },
+  {
+    "code": "130403",
+    "description": "PUEBLO NUEVO",
+    "parent": "130400"
+  },
+  {
+    "code": "130500",
+    "description": "JULCAN",
+    "parent": "130000"
+  },
+  {
+    "code": "130501",
+    "description": "JULCAN",
+    "parent": "130500"
+  },
+  {
+    "code": "130502",
+    "description": "CALAMARCA",
+    "parent": "130500"
+  },
+  {
+    "code": "130503",
+    "description": "CARABAMBA",
+    "parent": "130500"
+  },
+  {
+    "code": "130504",
+    "description": "HUASO",
+    "parent": "130500"
+  },
+  {
+    "code": "130600",
+    "description": "OTUZCO",
+    "parent": "130000"
+  },
+  {
+    "code": "130601",
+    "description": "OTUZCO",
+    "parent": "130600"
+  },
+  {
+    "code": "130602",
+    "description": "AGALLPAMPA",
+    "parent": "130600"
+  },
+  {
+    "code": "130604",
+    "description": "CHARAT",
+    "parent": "130600"
+  },
+  {
+    "code": "130605",
+    "description": "HUARANCHAL",
+    "parent": "130600"
+  },
+  {
+    "code": "130606",
+    "description": "LA CUESTA",
+    "parent": "130600"
+  },
+  {
+    "code": "130608",
+    "description": "MACHE",
+    "parent": "130600"
+  },
+  {
+    "code": "130610",
+    "description": "PARANDAY",
+    "parent": "130600"
+  },
+  {
+    "code": "130611",
+    "description": "SALPO",
+    "parent": "130600"
+  },
+  {
+    "code": "130613",
+    "description": "SINSICAP",
+    "parent": "130600"
+  },
+  {
+    "code": "130614",
+    "description": "USQUIL",
+    "parent": "130600"
+  },
+  {
+    "code": "130700",
+    "description": "PACASMAYO",
+    "parent": "130000"
+  },
+  {
+    "code": "130701",
+    "description": "SAN PEDRO DE LLOC",
+    "parent": "130700"
+  },
+  {
+    "code": "130702",
+    "description": "GUADALUPE",
+    "parent": "130700"
+  },
+  {
+    "code": "130703",
+    "description": "JEQUETEPEQUE",
+    "parent": "130700"
+  },
+  {
+    "code": "130704",
+    "description": "PACASMAYO",
+    "parent": "130700"
+  },
+  {
+    "code": "130705",
+    "description": "SAN JOSE",
+    "parent": "130700"
+  },
+  {
+    "code": "130800",
+    "description": "PATAZ",
+    "parent": "130000"
+  },
+  {
+    "code": "130801",
+    "description": "TAYABAMBA",
+    "parent": "130800"
+  },
+  {
+    "code": "130802",
+    "description": "BULDIBUYO",
+    "parent": "130800"
+  },
+  {
+    "code": "130803",
+    "description": "CHILLIA",
+    "parent": "130800"
+  },
+  {
+    "code": "130804",
+    "description": "HUANCASPATA",
+    "parent": "130800"
+  },
+  {
+    "code": "130805",
+    "description": "HUAYLILLAS",
+    "parent": "130800"
+  },
+  {
+    "code": "130806",
+    "description": "HUAYO",
+    "parent": "130800"
+  },
+  {
+    "code": "130807",
+    "description": "ONGON",
+    "parent": "130800"
+  },
+  {
+    "code": "130808",
+    "description": "PARCOY",
+    "parent": "130800"
+  },
+  {
+    "code": "130809",
+    "description": "PATAZ",
+    "parent": "130800"
+  },
+  {
+    "code": "130810",
+    "description": "PIAS",
+    "parent": "130800"
+  },
+  {
+    "code": "130811",
+    "description": "SANTIAGO DE CHALLAS",
+    "parent": "130800"
+  },
+  {
+    "code": "130812",
+    "description": "TAURIJA",
+    "parent": "130800"
+  },
+  {
+    "code": "130813",
+    "description": "URPAY",
+    "parent": "130800"
+  },
+  {
+    "code": "130900",
+    "description": "SANCHEZ CARRION",
+    "parent": "130000"
+  },
+  {
+    "code": "130901",
+    "description": "HUAMACHUCO",
+    "parent": "130900"
+  },
+  {
+    "code": "130902",
+    "description": "CHUGAY",
+    "parent": "130900"
+  },
+  {
+    "code": "130903",
+    "description": "COCHORCO",
+    "parent": "130900"
+  },
+  {
+    "code": "130904",
+    "description": "CURGOS",
+    "parent": "130900"
+  },
+  {
+    "code": "130905",
+    "description": "MARCABAL",
+    "parent": "130900"
+  },
+  {
+    "code": "130906",
+    "description": "SANAGORAN",
+    "parent": "130900"
+  },
+  {
+    "code": "130907",
+    "description": "SARIN",
+    "parent": "130900"
+  },
+  {
+    "code": "130908",
+    "description": "SARTIMBAMBA",
+    "parent": "130900"
+  },
+  {
+    "code": "131000",
+    "description": "SANTIAGO DE CHUCO",
+    "parent": "130000"
+  },
+  {
+    "code": "131001",
+    "description": "SANTIAGO DE CHUCO",
+    "parent": "131000"
+  },
+  {
+    "code": "131002",
+    "description": "ANGASMARCA",
+    "parent": "131000"
+  },
+  {
+    "code": "131003",
+    "description": "CACHICADAN",
+    "parent": "131000"
+  },
+  {
+    "code": "131004",
+    "description": "MOLLEBAMBA",
+    "parent": "131000"
+  },
+  {
+    "code": "131005",
+    "description": "MOLLEPATA",
+    "parent": "131000"
+  },
+  {
+    "code": "131006",
+    "description": "QUIRUVILCA",
+    "parent": "131000"
+  },
+  {
+    "code": "131007",
+    "description": "SANTA CRUZ DE CHUCA",
+    "parent": "131000"
+  },
+  {
+    "code": "131008",
+    "description": "SITABAMBA",
+    "parent": "131000"
+  },
+  {
+    "code": "131100",
+    "description": "GRAN CHIMU",
+    "parent": "130000"
+  },
+  {
+    "code": "131101",
+    "description": "CASCAS",
+    "parent": "131100"
+  },
+  {
+    "code": "131102",
+    "description": "LUCMA",
+    "parent": "131100"
+  },
+  {
+    "code": "131103",
+    "description": "MARMOT",
+    "parent": "131100"
+  },
+  {
+    "code": "131104",
+    "description": "SAYAPULLO",
+    "parent": "131100"
+  },
+  {
+    "code": "131200",
+    "description": "VIRU",
+    "parent": "130000"
+  },
+  {
+    "code": "131201",
+    "description": "VIRU",
+    "parent": "131200"
+  },
+  {
+    "code": "131202",
+    "description": "CHAO",
+    "parent": "131200"
+  },
+  {
+    "code": "131203",
+    "description": "GUADALUPITO",
+    "parent": "131200"
+  },
+  {
+    "code": "140000",
+    "description": "LAMBAYEQUE",
+    "parent": ""
+  },
+  {
+    "code": "140100",
+    "description": "CHICLAYO",
+    "parent": "140000"
+  },
+  {
+    "code": "140101",
+    "description": "CHICLAYO",
+    "parent": "140100"
+  },
+  {
+    "code": "140102",
+    "description": "CHONGOYAPE",
+    "parent": "140100"
+  },
+  {
+    "code": "140103",
+    "description": "ETEN",
+    "parent": "140100"
+  },
+  {
+    "code": "140104",
+    "description": "ETEN PUERTO",
+    "parent": "140100"
+  },
+  {
+    "code": "140105",
+    "description": "JOSE LEONARDO ORTIZ",
+    "parent": "140100"
+  },
+  {
+    "code": "140106",
+    "description": "LA VICTORIA",
+    "parent": "140100"
+  },
+  {
+    "code": "140107",
+    "description": "LAGUNAS",
+    "parent": "140100"
+  },
+  {
+    "code": "140108",
+    "description": "MONSEFU",
+    "parent": "140100"
+  },
+  {
+    "code": "140109",
+    "description": "NUEVA ARICA",
+    "parent": "140100"
+  },
+  {
+    "code": "140110",
+    "description": "OYOTUN",
+    "parent": "140100"
+  },
+  {
+    "code": "140111",
+    "description": "PICSI",
+    "parent": "140100"
+  },
+  {
+    "code": "140112",
+    "description": "PIMENTEL",
+    "parent": "140100"
+  },
+  {
+    "code": "140113",
+    "description": "REQUE",
+    "parent": "140100"
+  },
+  {
+    "code": "140114",
+    "description": "SANTA ROSA",
+    "parent": "140100"
+  },
+  {
+    "code": "140115",
+    "description": "SAÑA",
+    "parent": "140100"
+  },
+  {
+    "code": "140116",
+    "description": "CAYALTÍ",
+    "parent": "140100"
+  },
+  {
+    "code": "140117",
+    "description": "PATAPO",
+    "parent": "140100"
+  },
+  {
+    "code": "140118",
+    "description": "POMALCA",
+    "parent": "140100"
+  },
+  {
+    "code": "140119",
+    "description": "PUCALÁ",
+    "parent": "140100"
+  },
+  {
+    "code": "140120",
+    "description": "TUMÁN",
+    "parent": "140100"
+  },
+  {
+    "code": "140200",
+    "description": "FERREÑAFE",
+    "parent": "140000"
+  },
+  {
+    "code": "140201",
+    "description": "FERREÑAFE",
+    "parent": "140200"
+  },
+  {
+    "code": "140202",
+    "description": "CAÑARIS",
+    "parent": "140200"
+  },
+  {
+    "code": "140203",
+    "description": "INCAHUASI",
+    "parent": "140200"
+  },
+  {
+    "code": "140204",
+    "description": "MANUEL ANTONIO MESONES MURO",
+    "parent": "140200"
+  },
+  {
+    "code": "140205",
+    "description": "PITIPO",
+    "parent": "140200"
+  },
+  {
+    "code": "140206",
+    "description": "PUEBLO NUEVO",
+    "parent": "140200"
+  },
+  {
+    "code": "140300",
+    "description": "LAMBAYEQUE",
+    "parent": "140000"
+  },
+  {
+    "code": "140301",
+    "description": "LAMBAYEQUE",
+    "parent": "140300"
+  },
+  {
+    "code": "140302",
+    "description": "CHOCHOPE",
+    "parent": "140300"
+  },
+  {
+    "code": "140303",
+    "description": "ILLIMO",
+    "parent": "140300"
+  },
+  {
+    "code": "140304",
+    "description": "JAYANCA",
+    "parent": "140300"
+  },
+  {
+    "code": "140305",
+    "description": "MOCHUMI",
+    "parent": "140300"
+  },
+  {
+    "code": "140306",
+    "description": "MORROPE",
+    "parent": "140300"
+  },
+  {
+    "code": "140307",
+    "description": "MOTUPE",
+    "parent": "140300"
+  },
+  {
+    "code": "140308",
+    "description": "OLMOS",
+    "parent": "140300"
+  },
+  {
+    "code": "140309",
+    "description": "PACORA",
+    "parent": "140300"
+  },
+  {
+    "code": "140310",
+    "description": "SALAS",
+    "parent": "140300"
+  },
+  {
+    "code": "140311",
+    "description": "SAN JOSE",
+    "parent": "140300"
+  },
+  {
+    "code": "140312",
+    "description": "TUCUME",
+    "parent": "140300"
+  },
+  {
+    "code": "150000",
+    "description": "LIMA",
+    "parent": ""
+  },
+  {
+    "code": "150100",
+    "description": "LIMA",
+    "parent": "150000"
+  },
+  {
+    "code": "150101",
+    "description": "LIMA",
+    "parent": "150100"
+  },
+  {
+    "code": "150102",
+    "description": "ANCON",
+    "parent": "150100"
+  },
+  {
+    "code": "150103",
+    "description": "ATE",
+    "parent": "150100"
+  },
+  {
+    "code": "150104",
+    "description": "BARRANCO",
+    "parent": "150100"
+  },
+  {
+    "code": "150105",
+    "description": "BREÑA",
+    "parent": "150100"
+  },
+  {
+    "code": "150106",
+    "description": "CARABAYLLO",
+    "parent": "150100"
+  },
+  {
+    "code": "150107",
+    "description": "CHACLACAYO",
+    "parent": "150100"
+  },
+  {
+    "code": "150108",
+    "description": "CHORRILLOS",
+    "parent": "150100"
+  },
+  {
+    "code": "150109",
+    "description": "CIENEGUILLA",
+    "parent": "150100"
+  },
+  {
+    "code": "150110",
+    "description": "COMAS",
+    "parent": "150100"
+  },
+  {
+    "code": "150111",
+    "description": "EL AGUSTINO",
+    "parent": "150100"
+  },
+  {
+    "code": "150112",
+    "description": "INDEPENDENCIA",
+    "parent": "150100"
+  },
+  {
+    "code": "150113",
+    "description": "JESUS MARIA",
+    "parent": "150100"
+  },
+  {
+    "code": "150114",
+    "description": "LA MOLINA",
+    "parent": "150100"
+  },
+  {
+    "code": "150115",
+    "description": "LA VICTORIA",
+    "parent": "150100"
+  },
+  {
+    "code": "150116",
+    "description": "LINCE",
+    "parent": "150100"
+  },
+  {
+    "code": "150117",
+    "description": "LOS OLIVOS",
+    "parent": "150100"
+  },
+  {
+    "code": "150118",
+    "description": "LURIGANCHO",
+    "parent": "150100"
+  },
+  {
+    "code": "150119",
+    "description": "LURIN",
+    "parent": "150100"
+  },
+  {
+    "code": "150120",
+    "description": "MAGDALENA DEL MAR",
+    "parent": "150100"
+  },
+  {
+    "code": "150121",
+    "description": "PUEBLO LIBRE",
+    "parent": "150100"
+  },
+  {
+    "code": "150122",
+    "description": "MIRAFLORES",
+    "parent": "150100"
+  },
+  {
+    "code": "150123",
+    "description": "PACHACAMAC",
+    "parent": "150100"
+  },
+  {
+    "code": "150124",
+    "description": "PUCUSANA",
+    "parent": "150100"
+  },
+  {
+    "code": "150125",
+    "description": "PUENTE PIEDRA",
+    "parent": "150100"
+  },
+  {
+    "code": "150126",
+    "description": "PUNTA HERMOSA",
+    "parent": "150100"
+  },
+  {
+    "code": "150127",
+    "description": "PUNTA NEGRA",
+    "parent": "150100"
+  },
+  {
+    "code": "150128",
+    "description": "RIMAC",
+    "parent": "150100"
+  },
+  {
+    "code": "150129",
+    "description": "SAN BARTOLO",
+    "parent": "150100"
+  },
+  {
+    "code": "150130",
+    "description": "SAN BORJA",
+    "parent": "150100"
+  },
+  {
+    "code": "150131",
+    "description": "SAN ISIDRO",
+    "parent": "150100"
+  },
+  {
+    "code": "150132",
+    "description": "SAN JUAN DE LURIGANCHO",
+    "parent": "150100"
+  },
+  {
+    "code": "150133",
+    "description": "SAN JUAN DE MIRAFLORES",
+    "parent": "150100"
+  },
+  {
+    "code": "150134",
+    "description": "SAN LUIS",
+    "parent": "150100"
+  },
+  {
+    "code": "150135",
+    "description": "SAN MARTIN DE PORRES",
+    "parent": "150100"
+  },
+  {
+    "code": "150136",
+    "description": "SAN MIGUEL",
+    "parent": "150100"
+  },
+  {
+    "code": "150137",
+    "description": "SANTA ANITA",
+    "parent": "150100"
+  },
+  {
+    "code": "150138",
+    "description": "SANTA MARIA DEL MAR",
+    "parent": "150100"
+  },
+  {
+    "code": "150139",
+    "description": "SANTA ROSA",
+    "parent": "150100"
+  },
+  {
+    "code": "150140",
+    "description": "SANTIAGO DE SURCO",
+    "parent": "150100"
+  },
+  {
+    "code": "150141",
+    "description": "SURQUILLO",
+    "parent": "150100"
+  },
+  {
+    "code": "150142",
+    "description": "VILLA EL SALVADOR",
+    "parent": "150100"
+  },
+  {
+    "code": "150143",
+    "description": "VILLA MARIA DEL TRIUNFO",
+    "parent": "150100"
+  },
+  {
+    "code": "150200",
+    "description": "BARRANCA",
+    "parent": "150000"
+  },
+  {
+    "code": "150201",
+    "description": "BARRANCA",
+    "parent": "150200"
+  },
+  {
+    "code": "150202",
+    "description": "PARAMONGA",
+    "parent": "150200"
+  },
+  {
+    "code": "150203",
+    "description": "PATIVILCA",
+    "parent": "150200"
+  },
+  {
+    "code": "150204",
+    "description": "SUPE",
+    "parent": "150200"
+  },
+  {
+    "code": "150205",
+    "description": "SUPE PUERTO",
+    "parent": "150200"
+  },
+  {
+    "code": "150300",
+    "description": "CAJATAMBO",
+    "parent": "150000"
+  },
+  {
+    "code": "150301",
+    "description": "CAJATAMBO",
+    "parent": "150300"
+  },
+  {
+    "code": "150302",
+    "description": "COPA",
+    "parent": "150300"
+  },
+  {
+    "code": "150303",
+    "description": "GORGOR",
+    "parent": "150300"
+  },
+  {
+    "code": "150304",
+    "description": "HUANCAPON",
+    "parent": "150300"
+  },
+  {
+    "code": "150305",
+    "description": "MANAS",
+    "parent": "150300"
+  },
+  {
+    "code": "150400",
+    "description": "CANTA",
+    "parent": "150000"
+  },
+  {
+    "code": "150401",
+    "description": "CANTA",
+    "parent": "150400"
+  },
+  {
+    "code": "150402",
+    "description": "ARAHUAY",
+    "parent": "150400"
+  },
+  {
+    "code": "150403",
+    "description": "HUAMANTANGA",
+    "parent": "150400"
+  },
+  {
+    "code": "150404",
+    "description": "HUAROS",
+    "parent": "150400"
+  },
+  {
+    "code": "150405",
+    "description": "LACHAQUI",
+    "parent": "150400"
+  },
+  {
+    "code": "150406",
+    "description": "SAN BUENAVENTURA",
+    "parent": "150400"
+  },
+  {
+    "code": "150407",
+    "description": "SANTA ROSA DE QUIVES",
+    "parent": "150400"
+  },
+  {
+    "code": "150500",
+    "description": "CAÑETE",
+    "parent": "150000"
+  },
+  {
+    "code": "150501",
+    "description": "SAN VICENTE DE CAÑETE",
+    "parent": "150500"
+  },
+  {
+    "code": "150502",
+    "description": "ASIA",
+    "parent": "150500"
+  },
+  {
+    "code": "150503",
+    "description": "CALANGO",
+    "parent": "150500"
+  },
+  {
+    "code": "150504",
+    "description": "CERRO AZUL",
+    "parent": "150500"
+  },
+  {
+    "code": "150505",
+    "description": "CHILCA",
+    "parent": "150500"
+  },
+  {
+    "code": "150506",
+    "description": "COAYLLO",
+    "parent": "150500"
+  },
+  {
+    "code": "150507",
+    "description": "IMPERIAL",
+    "parent": "150500"
+  },
+  {
+    "code": "150508",
+    "description": "LUNAHUANA",
+    "parent": "150500"
+  },
+  {
+    "code": "150509",
+    "description": "MALA",
+    "parent": "150500"
+  },
+  {
+    "code": "150510",
+    "description": "NUEVO IMPERIAL",
+    "parent": "150500"
+  },
+  {
+    "code": "150511",
+    "description": "PACARAN",
+    "parent": "150500"
+  },
+  {
+    "code": "150512",
+    "description": "QUILMANA",
+    "parent": "150500"
+  },
+  {
+    "code": "150513",
+    "description": "SAN ANTONIO",
+    "parent": "150500"
+  },
+  {
+    "code": "150514",
+    "description": "SAN LUIS",
+    "parent": "150500"
+  },
+  {
+    "code": "150515",
+    "description": "SANTA CRUZ DE FLORES",
+    "parent": "150500"
+  },
+  {
+    "code": "150516",
+    "description": "ZUÑIGA",
+    "parent": "150500"
+  },
+  {
+    "code": "150600",
+    "description": "HUARAL",
+    "parent": "150000"
+  },
+  {
+    "code": "150601",
+    "description": "HUARAL",
+    "parent": "150600"
+  },
+  {
+    "code": "150602",
+    "description": "ATAVILLOS ALTO",
+    "parent": "150600"
+  },
+  {
+    "code": "150603",
+    "description": "ATAVILLOS BAJO",
+    "parent": "150600"
+  },
+  {
+    "code": "150604",
+    "description": "AUCALLAMA",
+    "parent": "150600"
+  },
+  {
+    "code": "150605",
+    "description": "CHANCAY",
+    "parent": "150600"
+  },
+  {
+    "code": "150606",
+    "description": "IHUARI",
+    "parent": "150600"
+  },
+  {
+    "code": "150607",
+    "description": "LAMPIAN",
+    "parent": "150600"
+  },
+  {
+    "code": "150608",
+    "description": "PACARAOS",
+    "parent": "150600"
+  },
+  {
+    "code": "150609",
+    "description": "SAN MIGUEL DE ACOS",
+    "parent": "150600"
+  },
+  {
+    "code": "150610",
+    "description": "SANTA CRUZ DE ANDAMARCA",
+    "parent": "150600"
+  },
+  {
+    "code": "150611",
+    "description": "SUMBILCA",
+    "parent": "150600"
+  },
+  {
+    "code": "150612",
+    "description": "VEINTISIETE DE NOVIEMBRE",
+    "parent": "150600"
+  },
+  {
+    "code": "150700",
+    "description": "HUAROCHIRI",
+    "parent": "150000"
+  },
+  {
+    "code": "150701",
+    "description": "MATUCANA",
+    "parent": "150700"
+  },
+  {
+    "code": "150702",
+    "description": "ANTIOQUIA",
+    "parent": "150700"
+  },
+  {
+    "code": "150703",
+    "description": "CALLAHUANCA",
+    "parent": "150700"
+  },
+  {
+    "code": "150704",
+    "description": "CARAMPOMA",
+    "parent": "150700"
+  },
+  {
+    "code": "150705",
+    "description": "CHICLA",
+    "parent": "150700"
+  },
+  {
+    "code": "150706",
+    "description": "CUENCA",
+    "parent": "150700"
+  },
+  {
+    "code": "150707",
+    "description": "HUACHUPAMPA",
+    "parent": "150700"
+  },
+  {
+    "code": "150708",
+    "description": "HUANZA",
+    "parent": "150700"
+  },
+  {
+    "code": "150709",
+    "description": "HUAROCHIRI",
+    "parent": "150700"
+  },
+  {
+    "code": "150710",
+    "description": "LAHUAYTAMBO",
+    "parent": "150700"
+  },
+  {
+    "code": "150711",
+    "description": "LANGA",
+    "parent": "150700"
+  },
+  {
+    "code": "150712",
+    "description": "LARAOS",
+    "parent": "150700"
+  },
+  {
+    "code": "150713",
+    "description": "MARIATANA",
+    "parent": "150700"
+  },
+  {
+    "code": "150714",
+    "description": "RICARDO PALMA",
+    "parent": "150700"
+  },
+  {
+    "code": "150715",
+    "description": "SAN ANDRES DE TUPICOCHA",
+    "parent": "150700"
+  },
+  {
+    "code": "150716",
+    "description": "SAN ANTONIO",
+    "parent": "150700"
+  },
+  {
+    "code": "150717",
+    "description": "SAN BARTOLOME",
+    "parent": "150700"
+  },
+  {
+    "code": "150718",
+    "description": "SAN DAMIAN",
+    "parent": "150700"
+  },
+  {
+    "code": "150719",
+    "description": "SAN JUAN DE IRIS",
+    "parent": "150700"
+  },
+  {
+    "code": "150720",
+    "description": "SAN JUAN DE TANTARANCHE",
+    "parent": "150700"
+  },
+  {
+    "code": "150721",
+    "description": "SAN LORENZO DE QUINTI",
+    "parent": "150700"
+  },
+  {
+    "code": "150722",
+    "description": "SAN MATEO",
+    "parent": "150700"
+  },
+  {
+    "code": "150723",
+    "description": "SAN MATEO DE OTAO",
+    "parent": "150700"
+  },
+  {
+    "code": "150724",
+    "description": "SAN PEDRO DE CASTA",
+    "parent": "150700"
+  },
+  {
+    "code": "150725",
+    "description": "SAN PEDRO DE HUANCAYRE",
+    "parent": "150700"
+  },
+  {
+    "code": "150726",
+    "description": "SANGALLAYA",
+    "parent": "150700"
+  },
+  {
+    "code": "150727",
+    "description": "SANTA CRUZ DE COCACHACRA",
+    "parent": "150700"
+  },
+  {
+    "code": "150728",
+    "description": "SANTA EULALIA",
+    "parent": "150700"
+  },
+  {
+    "code": "150729",
+    "description": "SANTIAGO DE ANCHUCAYA",
+    "parent": "150700"
+  },
+  {
+    "code": "150730",
+    "description": "SANTIAGO DE TUNA",
+    "parent": "150700"
+  },
+  {
+    "code": "150731",
+    "description": "SANTO DOMINGO DE LOS OLLEROS",
+    "parent": "150700"
+  },
+  {
+    "code": "150732",
+    "description": "SURCO",
+    "parent": "150700"
+  },
+  {
+    "code": "150800",
+    "description": "HUAURA",
+    "parent": "150000"
+  },
+  {
+    "code": "150801",
+    "description": "HUACHO",
+    "parent": "150800"
+  },
+  {
+    "code": "150802",
+    "description": "AMBAR",
+    "parent": "150800"
+  },
+  {
+    "code": "150803",
+    "description": "CALETA DE CARQUIN",
+    "parent": "150800"
+  },
+  {
+    "code": "150804",
+    "description": "CHECRAS",
+    "parent": "150800"
+  },
+  {
+    "code": "150805",
+    "description": "HUALMAY",
+    "parent": "150800"
+  },
+  {
+    "code": "150806",
+    "description": "HUAURA",
+    "parent": "150800"
+  },
+  {
+    "code": "150807",
+    "description": "LEONCIO PRADO",
+    "parent": "150800"
+  },
+  {
+    "code": "150808",
+    "description": "PACCHO",
+    "parent": "150800"
+  },
+  {
+    "code": "150809",
+    "description": "SANTA LEONOR",
+    "parent": "150800"
+  },
+  {
+    "code": "150810",
+    "description": "SANTA MARIA",
+    "parent": "150800"
+  },
+  {
+    "code": "150811",
+    "description": "SAYAN",
+    "parent": "150800"
+  },
+  {
+    "code": "150812",
+    "description": "VEGUETA",
+    "parent": "150800"
+  },
+  {
+    "code": "150900",
+    "description": "OYON",
+    "parent": "150000"
+  },
+  {
+    "code": "150901",
+    "description": "OYON",
+    "parent": "150900"
+  },
+  {
+    "code": "150902",
+    "description": "ANDAJES",
+    "parent": "150900"
+  },
+  {
+    "code": "150903",
+    "description": "CAUJUL",
+    "parent": "150900"
+  },
+  {
+    "code": "150904",
+    "description": "COCHAMARCA",
+    "parent": "150900"
+  },
+  {
+    "code": "150905",
+    "description": "NAVAN",
+    "parent": "150900"
+  },
+  {
+    "code": "150906",
+    "description": "PACHANGARA",
+    "parent": "150900"
+  },
+  {
+    "code": "151000",
+    "description": "YAUYOS",
+    "parent": "150000"
+  },
+  {
+    "code": "151001",
+    "description": "YAUYOS",
+    "parent": "151000"
+  },
+  {
+    "code": "151002",
+    "description": "ALIS",
+    "parent": "151000"
+  },
+  {
+    "code": "151003",
+    "description": "ALLAUCA",
+    "parent": "151000"
+  },
+  {
+    "code": "151004",
+    "description": "AYAVIRI",
+    "parent": "151000"
+  },
+  {
+    "code": "151005",
+    "description": "AZANGARO",
+    "parent": "151000"
+  },
+  {
+    "code": "151006",
+    "description": "CACRA",
+    "parent": "151000"
+  },
+  {
+    "code": "151007",
+    "description": "CARANIA",
+    "parent": "151000"
+  },
+  {
+    "code": "151008",
+    "description": "CATAHUASI",
+    "parent": "151000"
+  },
+  {
+    "code": "151009",
+    "description": "CHOCOS",
+    "parent": "151000"
+  },
+  {
+    "code": "151010",
+    "description": "COCHAS",
+    "parent": "151000"
+  },
+  {
+    "code": "151011",
+    "description": "COLONIA",
+    "parent": "151000"
+  },
+  {
+    "code": "151012",
+    "description": "HONGOS",
+    "parent": "151000"
+  },
+  {
+    "code": "151013",
+    "description": "HUAMPARA",
+    "parent": "151000"
+  },
+  {
+    "code": "151014",
+    "description": "HUANCAYA",
+    "parent": "151000"
+  },
+  {
+    "code": "151015",
+    "description": "HUANGASCAR",
+    "parent": "151000"
+  },
+  {
+    "code": "151016",
+    "description": "HUANTAN",
+    "parent": "151000"
+  },
+  {
+    "code": "151017",
+    "description": "HUAÑEC",
+    "parent": "151000"
+  },
+  {
+    "code": "151018",
+    "description": "LARAOS",
+    "parent": "151000"
+  },
+  {
+    "code": "151019",
+    "description": "LINCHA",
+    "parent": "151000"
+  },
+  {
+    "code": "151020",
+    "description": "MADEAN",
+    "parent": "151000"
+  },
+  {
+    "code": "151021",
+    "description": "MIRAFLORES",
+    "parent": "151000"
+  },
+  {
+    "code": "151022",
+    "description": "OMAS",
+    "parent": "151000"
+  },
+  {
+    "code": "151023",
+    "description": "PUTINZA",
+    "parent": "151000"
+  },
+  {
+    "code": "151024",
+    "description": "QUINCHES",
+    "parent": "151000"
+  },
+  {
+    "code": "151025",
+    "description": "QUINOCAY",
+    "parent": "151000"
+  },
+  {
+    "code": "151026",
+    "description": "SAN JOAQUIN",
+    "parent": "151000"
+  },
+  {
+    "code": "151027",
+    "description": "SAN PEDRO DE PILAS",
+    "parent": "151000"
+  },
+  {
+    "code": "151028",
+    "description": "TANTA",
+    "parent": "151000"
+  },
+  {
+    "code": "151029",
+    "description": "TAURIPAMPA",
+    "parent": "151000"
+  },
+  {
+    "code": "151030",
+    "description": "TOMAS",
+    "parent": "151000"
+  },
+  {
+    "code": "151031",
+    "description": "TUPE",
+    "parent": "151000"
+  },
+  {
+    "code": "151032",
+    "description": "VIÑAC",
+    "parent": "151000"
+  },
+  {
+    "code": "151033",
+    "description": "VITIS",
+    "parent": "151000"
+  },
+  {
+    "code": "160000",
+    "description": "LORETO",
+    "parent": ""
+  },
+  {
+    "code": "160100",
+    "description": "MAYNAS",
+    "parent": "160000"
+  },
+  {
+    "code": "160101",
+    "description": "IQUITOS",
+    "parent": "160100"
+  },
+  {
+    "code": "160102",
+    "description": "ALTO NANAY",
+    "parent": "160100"
+  },
+  {
+    "code": "160103",
+    "description": "FERNANDO LORES",
+    "parent": "160100"
+  },
+  {
+    "code": "160104",
+    "description": "INDIANA",
+    "parent": "160100"
+  },
+  {
+    "code": "160105",
+    "description": "LAS AMAZONAS",
+    "parent": "160100"
+  },
+  {
+    "code": "160106",
+    "description": "MAZAN",
+    "parent": "160100"
+  },
+  {
+    "code": "160107",
+    "description": "NAPO",
+    "parent": "160100"
+  },
+  {
+    "code": "160108",
+    "description": "PUNCHANA",
+    "parent": "160100"
+  },
+  {
+    "code": "160109",
+    "description": "PUTUMAYO",
+    "parent": "160100"
+  },
+  {
+    "code": "160110",
+    "description": "TORRES CAUSANA",
+    "parent": "160100"
+  },
+  {
+    "code": "160112",
+    "description": "BELÓN",
+    "parent": "160100"
+  },
+  {
+    "code": "160113",
+    "description": "SAN JUAN BAUTISTA",
+    "parent": "160100"
+  },
+  {
+    "code": "160200",
+    "description": "ALTO AMAZONAS",
+    "parent": "160000"
+  },
+  {
+    "code": "160201",
+    "description": "YURIMAGUAS",
+    "parent": "160200"
+  },
+  {
+    "code": "160202",
+    "description": "BALSAPUERTO",
+    "parent": "160200"
+  },
+  {
+    "code": "160205",
+    "description": "JEBEROS",
+    "parent": "160200"
+  },
+  {
+    "code": "160206",
+    "description": "LAGUNAS",
+    "parent": "160200"
+  },
+  {
+    "code": "160210",
+    "description": "SANTA CRUZ",
+    "parent": "160200"
+  },
+  {
+    "code": "160211",
+    "description": "TENIENTE CESAR LOPEZ ROJAS",
+    "parent": "160200"
+  },
+  {
+    "code": "160300",
+    "description": "LORETO",
+    "parent": "160000"
+  },
+  {
+    "code": "160301",
+    "description": "NAUTA",
+    "parent": "160300"
+  },
+  {
+    "code": "160302",
+    "description": "PARINARI",
+    "parent": "160300"
+  },
+  {
+    "code": "160303",
+    "description": "TIGRE",
+    "parent": "160300"
+  },
+  {
+    "code": "160304",
+    "description": "TROMPETEROS",
+    "parent": "160300"
+  },
+  {
+    "code": "160305",
+    "description": "URARINAS",
+    "parent": "160300"
+  },
+  {
+    "code": "160400",
+    "description": "MARISCAL RAMON CASTILLA",
+    "parent": "160000"
+  },
+  {
+    "code": "160401",
+    "description": "RAMON CASTILLA",
+    "parent": "160400"
+  },
+  {
+    "code": "160402",
+    "description": "PEBAS",
+    "parent": "160400"
+  },
+  {
+    "code": "160403",
+    "description": "YAVARI",
+    "parent": "160400"
+  },
+  {
+    "code": "160404",
+    "description": "SAN PABLO",
+    "parent": "160400"
+  },
+  {
+    "code": "160500",
+    "description": "REQUENA",
+    "parent": "160000"
+  },
+  {
+    "code": "160501",
+    "description": "REQUENA",
+    "parent": "160500"
+  },
+  {
+    "code": "160502",
+    "description": "ALTO TAPICHE",
+    "parent": "160500"
+  },
+  {
+    "code": "160503",
+    "description": "CAPELO",
+    "parent": "160500"
+  },
+  {
+    "code": "160504",
+    "description": "EMILIO SAN MARTIN",
+    "parent": "160500"
+  },
+  {
+    "code": "160505",
+    "description": "MAQUIA",
+    "parent": "160500"
+  },
+  {
+    "code": "160506",
+    "description": "PUINAHUA",
+    "parent": "160500"
+  },
+  {
+    "code": "160507",
+    "description": "SAQUENA",
+    "parent": "160500"
+  },
+  {
+    "code": "160508",
+    "description": "SOPLIN",
+    "parent": "160500"
+  },
+  {
+    "code": "160509",
+    "description": "TAPICHE",
+    "parent": "160500"
+  },
+  {
+    "code": "160510",
+    "description": "JENARO HERRERA",
+    "parent": "160500"
+  },
+  {
+    "code": "160600",
+    "description": "UCAYALI",
+    "parent": "160000"
+  },
+  {
+    "code": "160601",
+    "description": "CONTAMANA",
+    "parent": "160600"
+  },
+  {
+    "code": "160602",
+    "description": "INAHUAYA",
+    "parent": "160600"
+  },
+  {
+    "code": "160603",
+    "description": "PADRE MARQUEZ",
+    "parent": "160600"
+  },
+  {
+    "code": "160604",
+    "description": "PAMPA HERMOSA",
+    "parent": "160600"
+  },
+  {
+    "code": "160605",
+    "description": "SARAYACU",
+    "parent": "160600"
+  },
+  {
+    "code": "160606",
+    "description": "VARGAS GUERRA",
+    "parent": "160600"
+  },
+  {
+    "code": "170000",
+    "description": "MADRE DE DIOS",
+    "parent": ""
+  },
+  {
+    "code": "170100",
+    "description": "TAMBOPATA",
+    "parent": "170000"
+  },
+  {
+    "code": "170101",
+    "description": "TAMBOPATA",
+    "parent": "170100"
+  },
+  {
+    "code": "170102",
+    "description": "INAMBARI",
+    "parent": "170100"
+  },
+  {
+    "code": "170103",
+    "description": "LAS PIEDRAS",
+    "parent": "170100"
+  },
+  {
+    "code": "170104",
+    "description": "LABERINTO",
+    "parent": "170100"
+  },
+  {
+    "code": "170200",
+    "description": "MANU",
+    "parent": "170000"
+  },
+  {
+    "code": "170201",
+    "description": "MANU",
+    "parent": "170200"
+  },
+  {
+    "code": "170202",
+    "description": "FITZCARRALD",
+    "parent": "170200"
+  },
+  {
+    "code": "170203",
+    "description": "MADRE DE DIOS",
+    "parent": "170200"
+  },
+  {
+    "code": "170204",
+    "description": "HUEPETUHE",
+    "parent": "170200"
+  },
+  {
+    "code": "170300",
+    "description": "TAHUAMANU",
+    "parent": "170000"
+  },
+  {
+    "code": "170301",
+    "description": "IÑAPARI",
+    "parent": "170300"
+  },
+  {
+    "code": "170302",
+    "description": "IBERIA",
+    "parent": "170300"
+  },
+  {
+    "code": "170303",
+    "description": "TAHUAMANU",
+    "parent": "170300"
+  },
+  {
+    "code": "180000",
+    "description": "MOQUEGUA",
+    "parent": ""
+  },
+  {
+    "code": "180100",
+    "description": "MARISCAL NIETO",
+    "parent": "180000"
+  },
+  {
+    "code": "180101",
+    "description": "MOQUEGUA",
+    "parent": "180100"
+  },
+  {
+    "code": "180102",
+    "description": "CARUMAS",
+    "parent": "180100"
+  },
+  {
+    "code": "180103",
+    "description": "CUCHUMBAYA",
+    "parent": "180100"
+  },
+  {
+    "code": "180104",
+    "description": "SAMEGUA",
+    "parent": "180100"
+  },
+  {
+    "code": "180105",
+    "description": "SAN CRISTOBAL",
+    "parent": "180100"
+  },
+  {
+    "code": "180106",
+    "description": "TORATA",
+    "parent": "180100"
+  },
+  {
+    "code": "180200",
+    "description": "GENERAL SANCHEZ CERRO",
+    "parent": "180000"
+  },
+  {
+    "code": "180201",
+    "description": "OMATE",
+    "parent": "180200"
+  },
+  {
+    "code": "180202",
+    "description": "CHOJATA",
+    "parent": "180200"
+  },
+  {
+    "code": "180203",
+    "description": "COALAQUE",
+    "parent": "180200"
+  },
+  {
+    "code": "180204",
+    "description": "ICHUÑA",
+    "parent": "180200"
+  },
+  {
+    "code": "180205",
+    "description": "LA CAPILLA",
+    "parent": "180200"
+  },
+  {
+    "code": "180206",
+    "description": "LLOQUE",
+    "parent": "180200"
+  },
+  {
+    "code": "180207",
+    "description": "MATALAQUE",
+    "parent": "180200"
+  },
+  {
+    "code": "180208",
+    "description": "PUQUINA",
+    "parent": "180200"
+  },
+  {
+    "code": "180209",
+    "description": "QUINISTAQUILLAS",
+    "parent": "180200"
+  },
+  {
+    "code": "180210",
+    "description": "UBINAS",
+    "parent": "180200"
+  },
+  {
+    "code": "180211",
+    "description": "YUNGA",
+    "parent": "180200"
+  },
+  {
+    "code": "180300",
+    "description": "ILO",
+    "parent": "180000"
+  },
+  {
+    "code": "180301",
+    "description": "ILO",
+    "parent": "180300"
+  },
+  {
+    "code": "180302",
+    "description": "EL ALGARROBAL",
+    "parent": "180300"
+  },
+  {
+    "code": "180303",
+    "description": "PACOCHA",
+    "parent": "180300"
+  },
+  {
+    "code": "190000",
+    "description": "PASCO",
+    "parent": ""
+  },
+  {
+    "code": "190100",
+    "description": "PASCO",
+    "parent": "190000"
+  },
+  {
+    "code": "190101",
+    "description": "CHAUPIMARCA",
+    "parent": "190100"
+  },
+  {
+    "code": "190102",
+    "description": "HUACHON",
+    "parent": "190100"
+  },
+  {
+    "code": "190103",
+    "description": "HUARIACA",
+    "parent": "190100"
+  },
+  {
+    "code": "190104",
+    "description": "HUAYLLAY",
+    "parent": "190100"
+  },
+  {
+    "code": "190105",
+    "description": "NINACACA",
+    "parent": "190100"
+  },
+  {
+    "code": "190106",
+    "description": "PALLANCHACRA",
+    "parent": "190100"
+  },
+  {
+    "code": "190107",
+    "description": "PAUCARTAMBO",
+    "parent": "190100"
+  },
+  {
+    "code": "190108",
+    "description": "SAN FRANCISCO DE ASIS DE YARUSYACAN",
+    "parent": "190100"
+  },
+  {
+    "code": "190109",
+    "description": "SIMON BOLIVAR",
+    "parent": "190100"
+  },
+  {
+    "code": "190110",
+    "description": "TICLACAYAN",
+    "parent": "190100"
+  },
+  {
+    "code": "190111",
+    "description": "TINYAHUARCO",
+    "parent": "190100"
+  },
+  {
+    "code": "190112",
+    "description": "VICCO",
+    "parent": "190100"
+  },
+  {
+    "code": "190113",
+    "description": "YANACANCHA",
+    "parent": "190100"
+  },
+  {
+    "code": "190200",
+    "description": "DANIEL ALCIDES CARRION",
+    "parent": "190000"
+  },
+  {
+    "code": "190201",
+    "description": "YANAHUANCA",
+    "parent": "190200"
+  },
+  {
+    "code": "190202",
+    "description": "CHACAYAN",
+    "parent": "190200"
+  },
+  {
+    "code": "190203",
+    "description": "GOYLLARISQUIZGA",
+    "parent": "190200"
+  },
+  {
+    "code": "190204",
+    "description": "PAUCAR",
+    "parent": "190200"
+  },
+  {
+    "code": "190205",
+    "description": "SAN PEDRO DE PILLAO",
+    "parent": "190200"
+  },
+  {
+    "code": "190206",
+    "description": "SANTA ANA DE TUSI",
+    "parent": "190200"
+  },
+  {
+    "code": "190207",
+    "description": "TAPUC",
+    "parent": "190200"
+  },
+  {
+    "code": "190208",
+    "description": "VILCABAMBA",
+    "parent": "190200"
+  },
+  {
+    "code": "190300",
+    "description": "OXAPAMPA",
+    "parent": "190000"
+  },
+  {
+    "code": "190301",
+    "description": "OXAPAMPA",
+    "parent": "190300"
+  },
+  {
+    "code": "190302",
+    "description": "CHONTABAMBA",
+    "parent": "190300"
+  },
+  {
+    "code": "190303",
+    "description": "HUANCABAMBA",
+    "parent": "190300"
+  },
+  {
+    "code": "190304",
+    "description": "PALCAZU",
+    "parent": "190300"
+  },
+  {
+    "code": "190305",
+    "description": "POZUZO",
+    "parent": "190300"
+  },
+  {
+    "code": "190306",
+    "description": "PUERTO BERMUDEZ",
+    "parent": "190300"
+  },
+  {
+    "code": "190307",
+    "description": "VILLA RICA",
+    "parent": "190300"
+  },
+  {
+    "code": "200000",
+    "description": "PIURA",
+    "parent": ""
+  },
+  {
+    "code": "200100",
+    "description": "PIURA",
+    "parent": "200000"
+  },
+  {
+    "code": "200101",
+    "description": "PIURA",
+    "parent": "200100"
+  },
+  {
+    "code": "200104",
+    "description": "CASTILLA",
+    "parent": "200100"
+  },
+  {
+    "code": "200105",
+    "description": "CATACAOS",
+    "parent": "200100"
+  },
+  {
+    "code": "200107",
+    "description": "CURA MORI",
+    "parent": "200100"
+  },
+  {
+    "code": "200108",
+    "description": "EL TALLAN",
+    "parent": "200100"
+  },
+  {
+    "code": "200109",
+    "description": "LA ARENA",
+    "parent": "200100"
+  },
+  {
+    "code": "200110",
+    "description": "LA UNION",
+    "parent": "200100"
+  },
+  {
+    "code": "200111",
+    "description": "LAS LOMAS",
+    "parent": "200100"
+  },
+  {
+    "code": "200114",
+    "description": "TAMBO GRANDE",
+    "parent": "200100"
+  },
+  {
+    "code": "200200",
+    "description": "AYABACA",
+    "parent": "200000"
+  },
+  {
+    "code": "200201",
+    "description": "AYABACA",
+    "parent": "200200"
+  },
+  {
+    "code": "200202",
+    "description": "FRIAS",
+    "parent": "200200"
+  },
+  {
+    "code": "200203",
+    "description": "JILILI",
+    "parent": "200200"
+  },
+  {
+    "code": "200204",
+    "description": "LAGUNAS",
+    "parent": "200200"
+  },
+  {
+    "code": "200205",
+    "description": "MONTERO",
+    "parent": "200200"
+  },
+  {
+    "code": "200206",
+    "description": "PACAIPAMPA",
+    "parent": "200200"
+  },
+  {
+    "code": "200207",
+    "description": "PAIMAS",
+    "parent": "200200"
+  },
+  {
+    "code": "200208",
+    "description": "SAPILLICA",
+    "parent": "200200"
+  },
+  {
+    "code": "200209",
+    "description": "SICCHEZ",
+    "parent": "200200"
+  },
+  {
+    "code": "200210",
+    "description": "SUYO",
+    "parent": "200200"
+  },
+  {
+    "code": "200300",
+    "description": "HUANCABAMBA",
+    "parent": "200000"
+  },
+  {
+    "code": "200301",
+    "description": "HUANCABAMBA",
+    "parent": "200300"
+  },
+  {
+    "code": "200302",
+    "description": "CANCHAQUE",
+    "parent": "200300"
+  },
+  {
+    "code": "200303",
+    "description": "EL CARMEN DE LA FRONTERA",
+    "parent": "200300"
+  },
+  {
+    "code": "200304",
+    "description": "HUARMACA",
+    "parent": "200300"
+  },
+  {
+    "code": "200305",
+    "description": "LALAQUIZ",
+    "parent": "200300"
+  },
+  {
+    "code": "200306",
+    "description": "SAN MIGUEL DE EL FAIQUE",
+    "parent": "200300"
+  },
+  {
+    "code": "200307",
+    "description": "SONDOR",
+    "parent": "200300"
+  },
+  {
+    "code": "200308",
+    "description": "SONDORILLO",
+    "parent": "200300"
+  },
+  {
+    "code": "200400",
+    "description": "MORROPON",
+    "parent": "200000"
+  },
+  {
+    "code": "200401",
+    "description": "CHULUCANAS",
+    "parent": "200400"
+  },
+  {
+    "code": "200402",
+    "description": "BUENOS AIRES",
+    "parent": "200400"
+  },
+  {
+    "code": "200403",
+    "description": "CHALACO",
+    "parent": "200400"
+  },
+  {
+    "code": "200404",
+    "description": "LA MATANZA",
+    "parent": "200400"
+  },
+  {
+    "code": "200405",
+    "description": "MORROPON",
+    "parent": "200400"
+  },
+  {
+    "code": "200406",
+    "description": "SALITRAL",
+    "parent": "200400"
+  },
+  {
+    "code": "200407",
+    "description": "SAN JUAN DE BIGOTE",
+    "parent": "200400"
+  },
+  {
+    "code": "200408",
+    "description": "SANTA CATALINA DE MOSSA",
+    "parent": "200400"
+  },
+  {
+    "code": "200409",
+    "description": "SANTO DOMINGO",
+    "parent": "200400"
+  },
+  {
+    "code": "200410",
+    "description": "YAMANGO",
+    "parent": "200400"
+  },
+  {
+    "code": "200500",
+    "description": "PAITA",
+    "parent": "200000"
+  },
+  {
+    "code": "200501",
+    "description": "PAITA",
+    "parent": "200500"
+  },
+  {
+    "code": "200502",
+    "description": "AMOTAPE",
+    "parent": "200500"
+  },
+  {
+    "code": "200503",
+    "description": "ARENAL",
+    "parent": "200500"
+  },
+  {
+    "code": "200504",
+    "description": "COLAN",
+    "parent": "200500"
+  },
+  {
+    "code": "200505",
+    "description": "LA HUACA",
+    "parent": "200500"
+  },
+  {
+    "code": "200506",
+    "description": "TAMARINDO",
+    "parent": "200500"
+  },
+  {
+    "code": "200507",
+    "description": "VICHAYAL",
+    "parent": "200500"
+  },
+  {
+    "code": "200600",
+    "description": "SULLANA",
+    "parent": "200000"
+  },
+  {
+    "code": "200601",
+    "description": "SULLANA",
+    "parent": "200600"
+  },
+  {
+    "code": "200602",
+    "description": "BELLAVISTA",
+    "parent": "200600"
+  },
+  {
+    "code": "200603",
+    "description": "IGNACIO ESCUDERO",
+    "parent": "200600"
+  },
+  {
+    "code": "200604",
+    "description": "LANCONES",
+    "parent": "200600"
+  },
+  {
+    "code": "200605",
+    "description": "MARCAVELICA",
+    "parent": "200600"
+  },
+  {
+    "code": "200606",
+    "description": "MIGUEL CHECA",
+    "parent": "200600"
+  },
+  {
+    "code": "200607",
+    "description": "QUERECOTILLO",
+    "parent": "200600"
+  },
+  {
+    "code": "200608",
+    "description": "SALITRAL",
+    "parent": "200600"
+  },
+  {
+    "code": "200700",
+    "description": "TALARA",
+    "parent": "200000"
+  },
+  {
+    "code": "200701",
+    "description": "PARIÑAS",
+    "parent": "200700"
+  },
+  {
+    "code": "200702",
+    "description": "EL ALTO",
+    "parent": "200700"
+  },
+  {
+    "code": "200703",
+    "description": "LA BREA",
+    "parent": "200700"
+  },
+  {
+    "code": "200704",
+    "description": "LOBITOS",
+    "parent": "200700"
+  },
+  {
+    "code": "200705",
+    "description": "LOS ORGANOS",
+    "parent": "200700"
+  },
+  {
+    "code": "200706",
+    "description": "MANCORA",
+    "parent": "200700"
+  },
+  {
+    "code": "200800",
+    "description": "SECHURA",
+    "parent": "200000"
+  },
+  {
+    "code": "200801",
+    "description": "SECHURA",
+    "parent": "200800"
+  },
+  {
+    "code": "200802",
+    "description": "BELLAVISTA DE LA UNION",
+    "parent": "200800"
+  },
+  {
+    "code": "200803",
+    "description": "BERNAL",
+    "parent": "200800"
+  },
+  {
+    "code": "200804",
+    "description": "CRISTO NOS VALGA",
+    "parent": "200800"
+  },
+  {
+    "code": "200805",
+    "description": "VICE",
+    "parent": "200800"
+  },
+  {
+    "code": "200806",
+    "description": "RINCONADA LLICUAR",
+    "parent": "200800"
+  },
+  {
+    "code": "210000",
+    "description": "PUNO",
+    "parent": ""
+  },
+  {
+    "code": "210100",
+    "description": "PUNO",
+    "parent": "210000"
+  },
+  {
+    "code": "210101",
+    "description": "PUNO",
+    "parent": "210100"
+  },
+  {
+    "code": "210102",
+    "description": "ACORA",
+    "parent": "210100"
+  },
+  {
+    "code": "210103",
+    "description": "AMANTANI",
+    "parent": "210100"
+  },
+  {
+    "code": "210104",
+    "description": "ATUNCOLLA",
+    "parent": "210100"
+  },
+  {
+    "code": "210105",
+    "description": "CAPACHICA",
+    "parent": "210100"
+  },
+  {
+    "code": "210106",
+    "description": "CHUCUITO",
+    "parent": "210100"
+  },
+  {
+    "code": "210107",
+    "description": "COATA",
+    "parent": "210100"
+  },
+  {
+    "code": "210108",
+    "description": "HUATA",
+    "parent": "210100"
+  },
+  {
+    "code": "210109",
+    "description": "MAÑAZO",
+    "parent": "210100"
+  },
+  {
+    "code": "210110",
+    "description": "PAUCARCOLLA",
+    "parent": "210100"
+  },
+  {
+    "code": "210111",
+    "description": "PICHACANI",
+    "parent": "210100"
+  },
+  {
+    "code": "210112",
+    "description": "PLATERIA",
+    "parent": "210100"
+  },
+  {
+    "code": "210113",
+    "description": "SAN ANTONIO",
+    "parent": "210100"
+  },
+  {
+    "code": "210114",
+    "description": "TIQUILLACA",
+    "parent": "210100"
+  },
+  {
+    "code": "210115",
+    "description": "VILQUE",
+    "parent": "210100"
+  },
+  {
+    "code": "210200",
+    "description": "AZANGARO",
+    "parent": "210000"
+  },
+  {
+    "code": "210201",
+    "description": "AZANGARO",
+    "parent": "210200"
+  },
+  {
+    "code": "210202",
+    "description": "ACHAYA",
+    "parent": "210200"
+  },
+  {
+    "code": "210203",
+    "description": "ARAPA",
+    "parent": "210200"
+  },
+  {
+    "code": "210204",
+    "description": "ASILLO",
+    "parent": "210200"
+  },
+  {
+    "code": "210205",
+    "description": "CAMINACA",
+    "parent": "210200"
+  },
+  {
+    "code": "210206",
+    "description": "CHUPA",
+    "parent": "210200"
+  },
+  {
+    "code": "210207",
+    "description": "JOSE DOMINGO CHOQUEHUANCA",
+    "parent": "210200"
+  },
+  {
+    "code": "210208",
+    "description": "MUÑANI",
+    "parent": "210200"
+  },
+  {
+    "code": "210209",
+    "description": "POTONI",
+    "parent": "210200"
+  },
+  {
+    "code": "210210",
+    "description": "SAMAN",
+    "parent": "210200"
+  },
+  {
+    "code": "210211",
+    "description": "SAN ANTON",
+    "parent": "210200"
+  },
+  {
+    "code": "210212",
+    "description": "SAN JOSE",
+    "parent": "210200"
+  },
+  {
+    "code": "210213",
+    "description": "SAN JUAN DE SALINAS",
+    "parent": "210200"
+  },
+  {
+    "code": "210214",
+    "description": "SANTIAGO DE PUPUJA",
+    "parent": "210200"
+  },
+  {
+    "code": "210215",
+    "description": "TIRAPATA",
+    "parent": "210200"
+  },
+  {
+    "code": "210300",
+    "description": "CARABAYA",
+    "parent": "210000"
+  },
+  {
+    "code": "210301",
+    "description": "MACUSANI",
+    "parent": "210300"
+  },
+  {
+    "code": "210302",
+    "description": "AJOYANI",
+    "parent": "210300"
+  },
+  {
+    "code": "210303",
+    "description": "AYAPATA",
+    "parent": "210300"
+  },
+  {
+    "code": "210304",
+    "description": "COASA",
+    "parent": "210300"
+  },
+  {
+    "code": "210305",
+    "description": "CORANI",
+    "parent": "210300"
+  },
+  {
+    "code": "210306",
+    "description": "CRUCERO",
+    "parent": "210300"
+  },
+  {
+    "code": "210307",
+    "description": "ITUATA",
+    "parent": "210300"
+  },
+  {
+    "code": "210308",
+    "description": "OLLACHEA",
+    "parent": "210300"
+  },
+  {
+    "code": "210309",
+    "description": "SAN GABAN",
+    "parent": "210300"
+  },
+  {
+    "code": "210310",
+    "description": "USICAYOS",
+    "parent": "210300"
+  },
+  {
+    "code": "210400",
+    "description": "CHUCUITO",
+    "parent": "210000"
+  },
+  {
+    "code": "210401",
+    "description": "JULI",
+    "parent": "210400"
+  },
+  {
+    "code": "210402",
+    "description": "DESAGUADERO",
+    "parent": "210400"
+  },
+  {
+    "code": "210403",
+    "description": "HUACULLANI",
+    "parent": "210400"
+  },
+  {
+    "code": "210404",
+    "description": "KELLUYO",
+    "parent": "210400"
+  },
+  {
+    "code": "210405",
+    "description": "PISACOMA",
+    "parent": "210400"
+  },
+  {
+    "code": "210406",
+    "description": "POMATA",
+    "parent": "210400"
+  },
+  {
+    "code": "210407",
+    "description": "ZEPITA",
+    "parent": "210400"
+  },
+  {
+    "code": "210500",
+    "description": "EL COLLAO",
+    "parent": "210000"
+  },
+  {
+    "code": "210501",
+    "description": "ILAVE",
+    "parent": "210500"
+  },
+  {
+    "code": "210502",
+    "description": "CAPAZO",
+    "parent": "210500"
+  },
+  {
+    "code": "210503",
+    "description": "PILCUYO",
+    "parent": "210500"
+  },
+  {
+    "code": "210504",
+    "description": "SANTA ROSA",
+    "parent": "210500"
+  },
+  {
+    "code": "210505",
+    "description": "CONDURIRI",
+    "parent": "210500"
+  },
+  {
+    "code": "210600",
+    "description": "HUANCANE",
+    "parent": "210000"
+  },
+  {
+    "code": "210601",
+    "description": "HUANCANE",
+    "parent": "210600"
+  },
+  {
+    "code": "210602",
+    "description": "COJATA",
+    "parent": "210600"
+  },
+  {
+    "code": "210603",
+    "description": "HUATASANI",
+    "parent": "210600"
+  },
+  {
+    "code": "210604",
+    "description": "INCHUPALLA",
+    "parent": "210600"
+  },
+  {
+    "code": "210605",
+    "description": "PUSI",
+    "parent": "210600"
+  },
+  {
+    "code": "210606",
+    "description": "ROSASPATA",
+    "parent": "210600"
+  },
+  {
+    "code": "210607",
+    "description": "TARACO",
+    "parent": "210600"
+  },
+  {
+    "code": "210608",
+    "description": "VILQUE CHICO",
+    "parent": "210600"
+  },
+  {
+    "code": "210700",
+    "description": "LAMPA",
+    "parent": "210000"
+  },
+  {
+    "code": "210701",
+    "description": "LAMPA",
+    "parent": "210700"
+  },
+  {
+    "code": "210702",
+    "description": "CABANILLA",
+    "parent": "210700"
+  },
+  {
+    "code": "210703",
+    "description": "CALAPUJA",
+    "parent": "210700"
+  },
+  {
+    "code": "210704",
+    "description": "NICASIO",
+    "parent": "210700"
+  },
+  {
+    "code": "210705",
+    "description": "OCUVIRI",
+    "parent": "210700"
+  },
+  {
+    "code": "210706",
+    "description": "PALCA",
+    "parent": "210700"
+  },
+  {
+    "code": "210707",
+    "description": "PARATIA",
+    "parent": "210700"
+  },
+  {
+    "code": "210708",
+    "description": "PUCARA",
+    "parent": "210700"
+  },
+  {
+    "code": "210709",
+    "description": "SANTA LUCIA",
+    "parent": "210700"
+  },
+  {
+    "code": "210710",
+    "description": "VILAVILA",
+    "parent": "210700"
+  },
+  {
+    "code": "210800",
+    "description": "MELGAR",
+    "parent": "210000"
+  },
+  {
+    "code": "210801",
+    "description": "AYAVIRI",
+    "parent": "210800"
+  },
+  {
+    "code": "210802",
+    "description": "ANTAUTA",
+    "parent": "210800"
+  },
+  {
+    "code": "210803",
+    "description": "CUPI",
+    "parent": "210800"
+  },
+  {
+    "code": "210804",
+    "description": "LLALLI",
+    "parent": "210800"
+  },
+  {
+    "code": "210805",
+    "description": "MACARI",
+    "parent": "210800"
+  },
+  {
+    "code": "210806",
+    "description": "NUÑOA",
+    "parent": "210800"
+  },
+  {
+    "code": "210807",
+    "description": "ORURILLO",
+    "parent": "210800"
+  },
+  {
+    "code": "210808",
+    "description": "SANTA ROSA",
+    "parent": "210800"
+  },
+  {
+    "code": "210809",
+    "description": "UMACHIRI",
+    "parent": "210800"
+  },
+  {
+    "code": "210900",
+    "description": "MOHO",
+    "parent": "210000"
+  },
+  {
+    "code": "210901",
+    "description": "MOHO",
+    "parent": "210900"
+  },
+  {
+    "code": "210902",
+    "description": "CONIMA",
+    "parent": "210900"
+  },
+  {
+    "code": "210903",
+    "description": "HUAYRAPATA",
+    "parent": "210900"
+  },
+  {
+    "code": "210904",
+    "description": "TILALI",
+    "parent": "210900"
+  },
+  {
+    "code": "211000",
+    "description": "SAN ANTONIO DE PUTINA",
+    "parent": "210000"
+  },
+  {
+    "code": "211001",
+    "description": "PUTINA",
+    "parent": "211000"
+  },
+  {
+    "code": "211002",
+    "description": "ANANEA",
+    "parent": "211000"
+  },
+  {
+    "code": "211003",
+    "description": "PEDRO VILCA APAZA",
+    "parent": "211000"
+  },
+  {
+    "code": "211004",
+    "description": "QUILCAPUNCU",
+    "parent": "211000"
+  },
+  {
+    "code": "211005",
+    "description": "SINA",
+    "parent": "211000"
+  },
+  {
+    "code": "211100",
+    "description": "SAN ROMAN",
+    "parent": "210000"
+  },
+  {
+    "code": "211101",
+    "description": "JULIACA",
+    "parent": "211100"
+  },
+  {
+    "code": "211102",
+    "description": "CABANA",
+    "parent": "211100"
+  },
+  {
+    "code": "211103",
+    "description": "CABANILLAS",
+    "parent": "211100"
+  },
+  {
+    "code": "211104",
+    "description": "CARACOTO",
+    "parent": "211100"
+  },
+  {
+    "code": "211200",
+    "description": "SANDIA",
+    "parent": "210000"
+  },
+  {
+    "code": "211201",
+    "description": "SANDIA",
+    "parent": "211200"
+  },
+  {
+    "code": "211202",
+    "description": "CUYOCUYO",
+    "parent": "211200"
+  },
+  {
+    "code": "211203",
+    "description": "LIMBANI",
+    "parent": "211200"
+  },
+  {
+    "code": "211204",
+    "description": "PATAMBUCO",
+    "parent": "211200"
+  },
+  {
+    "code": "211205",
+    "description": "PHARA",
+    "parent": "211200"
+  },
+  {
+    "code": "211206",
+    "description": "QUIACA",
+    "parent": "211200"
+  },
+  {
+    "code": "211207",
+    "description": "SAN JUAN DEL ORO",
+    "parent": "211200"
+  },
+  {
+    "code": "211208",
+    "description": "YANAHUAYA",
+    "parent": "211200"
+  },
+  {
+    "code": "211209",
+    "description": "ALTO INAMBARI",
+    "parent": "211200"
+  },
+  {
+    "code": "211300",
+    "description": "YUNGUYO",
+    "parent": "210000"
+  },
+  {
+    "code": "211301",
+    "description": "YUNGUYO",
+    "parent": "211300"
+  },
+  {
+    "code": "211302",
+    "description": "ANAPIA",
+    "parent": "211300"
+  },
+  {
+    "code": "211303",
+    "description": "COPANI",
+    "parent": "211300"
+  },
+  {
+    "code": "211304",
+    "description": "CUTURAPI",
+    "parent": "211300"
+  },
+  {
+    "code": "211305",
+    "description": "OLLARAYA",
+    "parent": "211300"
+  },
+  {
+    "code": "211306",
+    "description": "TINICACHI",
+    "parent": "211300"
+  },
+  {
+    "code": "211307",
+    "description": "UNICACHI",
+    "parent": "211300"
+  },
+  {
+    "code": "220000",
+    "description": "SAN MARTIN",
+    "parent": ""
+  },
+  {
+    "code": "220100",
+    "description": "MOYOBAMBA",
+    "parent": "220000"
+  },
+  {
+    "code": "220101",
+    "description": "MOYOBAMBA",
+    "parent": "220100"
+  },
+  {
+    "code": "220102",
+    "description": "CALZADA",
+    "parent": "220100"
+  },
+  {
+    "code": "220103",
+    "description": "HABANA",
+    "parent": "220100"
+  },
+  {
+    "code": "220104",
+    "description": "JEPELACIO",
+    "parent": "220100"
+  },
+  {
+    "code": "220105",
+    "description": "SORITOR",
+    "parent": "220100"
+  },
+  {
+    "code": "220106",
+    "description": "YANTALO",
+    "parent": "220100"
+  },
+  {
+    "code": "220200",
+    "description": "BELLAVISTA",
+    "parent": "220000"
+  },
+  {
+    "code": "220201",
+    "description": "BELLAVISTA",
+    "parent": "220200"
+  },
+  {
+    "code": "220202",
+    "description": "ALTO BIAVO",
+    "parent": "220200"
+  },
+  {
+    "code": "220203",
+    "description": "BAJO BIAVO",
+    "parent": "220200"
+  },
+  {
+    "code": "220204",
+    "description": "HUALLAGA",
+    "parent": "220200"
+  },
+  {
+    "code": "220205",
+    "description": "SAN PABLO",
+    "parent": "220200"
+  },
+  {
+    "code": "220206",
+    "description": "SAN RAFAEL",
+    "parent": "220200"
+  },
+  {
+    "code": "220300",
+    "description": "EL DORADO",
+    "parent": "220000"
+  },
+  {
+    "code": "220301",
+    "description": "SAN JOSE DE SISA",
+    "parent": "220300"
+  },
+  {
+    "code": "220302",
+    "description": "AGUA BLANCA",
+    "parent": "220300"
+  },
+  {
+    "code": "220303",
+    "description": "SAN MARTIN",
+    "parent": "220300"
+  },
+  {
+    "code": "220304",
+    "description": "SANTA ROSA",
+    "parent": "220300"
+  },
+  {
+    "code": "220305",
+    "description": "SHATOJA",
+    "parent": "220300"
+  },
+  {
+    "code": "220400",
+    "description": "HUALLAGA",
+    "parent": "220000"
+  },
+  {
+    "code": "220401",
+    "description": "SAPOSOA",
+    "parent": "220400"
+  },
+  {
+    "code": "220402",
+    "description": "ALTO SAPOSOA",
+    "parent": "220400"
+  },
+  {
+    "code": "220403",
+    "description": "EL ESLABON",
+    "parent": "220400"
+  },
+  {
+    "code": "220404",
+    "description": "PISCOYACU",
+    "parent": "220400"
+  },
+  {
+    "code": "220405",
+    "description": "SACANCHE",
+    "parent": "220400"
+  },
+  {
+    "code": "220406",
+    "description": "TINGO DE SAPOSOA",
+    "parent": "220400"
+  },
+  {
+    "code": "220500",
+    "description": "LAMAS",
+    "parent": "220000"
+  },
+  {
+    "code": "220501",
+    "description": "LAMAS",
+    "parent": "220500"
+  },
+  {
+    "code": "220502",
+    "description": "ALONSO DE ALVARADO",
+    "parent": "220500"
+  },
+  {
+    "code": "220503",
+    "description": "BARRANQUITA",
+    "parent": "220500"
+  },
+  {
+    "code": "220504",
+    "description": "CAYNARACHI",
+    "parent": "220500"
+  },
+  {
+    "code": "220505",
+    "description": "CUÑUMBUQUI",
+    "parent": "220500"
+  },
+  {
+    "code": "220506",
+    "description": "PINTO RECODO",
+    "parent": "220500"
+  },
+  {
+    "code": "220507",
+    "description": "RUMISAPA",
+    "parent": "220500"
+  },
+  {
+    "code": "220508",
+    "description": "SAN ROQUE DE CUMBAZA",
+    "parent": "220500"
+  },
+  {
+    "code": "220509",
+    "description": "SHANAO",
+    "parent": "220500"
+  },
+  {
+    "code": "220510",
+    "description": "TABALOSOS",
+    "parent": "220500"
+  },
+  {
+    "code": "220511",
+    "description": "ZAPATERO",
+    "parent": "220500"
+  },
+  {
+    "code": "220600",
+    "description": "MARISCAL CACERES",
+    "parent": "220000"
+  },
+  {
+    "code": "220601",
+    "description": "JUANJUI",
+    "parent": "220600"
+  },
+  {
+    "code": "220602",
+    "description": "CAMPANILLA",
+    "parent": "220600"
+  },
+  {
+    "code": "220603",
+    "description": "HUICUNGO",
+    "parent": "220600"
+  },
+  {
+    "code": "220604",
+    "description": "PACHIZA",
+    "parent": "220600"
+  },
+  {
+    "code": "220605",
+    "description": "PAJARILLO",
+    "parent": "220600"
+  },
+  {
+    "code": "220700",
+    "description": "PICOTA",
+    "parent": "220000"
+  },
+  {
+    "code": "220701",
+    "description": "PICOTA",
+    "parent": "220700"
+  },
+  {
+    "code": "220702",
+    "description": "BUENOS AIRES",
+    "parent": "220700"
+  },
+  {
+    "code": "220703",
+    "description": "CASPISAPA",
+    "parent": "220700"
+  },
+  {
+    "code": "220704",
+    "description": "PILLUANA",
+    "parent": "220700"
+  },
+  {
+    "code": "220705",
+    "description": "PUCACACA",
+    "parent": "220700"
+  },
+  {
+    "code": "220706",
+    "description": "SAN CRISTOBAL",
+    "parent": "220700"
+  },
+  {
+    "code": "220707",
+    "description": "SAN HILARION",
+    "parent": "220700"
+  },
+  {
+    "code": "220708",
+    "description": "SHAMBOYACU",
+    "parent": "220700"
+  },
+  {
+    "code": "220709",
+    "description": "TINGO DE PONASA",
+    "parent": "220700"
+  },
+  {
+    "code": "220710",
+    "description": "TRES UNIDOS",
+    "parent": "220700"
+  },
+  {
+    "code": "220800",
+    "description": "RIOJA",
+    "parent": "220000"
+  },
+  {
+    "code": "220801",
+    "description": "RIOJA",
+    "parent": "220800"
+  },
+  {
+    "code": "220802",
+    "description": "AWAJUN",
+    "parent": "220800"
+  },
+  {
+    "code": "220803",
+    "description": "ELIAS SOPLIN VARGAS",
+    "parent": "220800"
+  },
+  {
+    "code": "220804",
+    "description": "NUEVA CAJAMARCA",
+    "parent": "220800"
+  },
+  {
+    "code": "220805",
+    "description": "PARDO MIGUEL",
+    "parent": "220800"
+  },
+  {
+    "code": "220806",
+    "description": "POSIC",
+    "parent": "220800"
+  },
+  {
+    "code": "220807",
+    "description": "SAN FERNANDO",
+    "parent": "220800"
+  },
+  {
+    "code": "220808",
+    "description": "YORONGOS",
+    "parent": "220800"
+  },
+  {
+    "code": "220809",
+    "description": "YURACYACU",
+    "parent": "220800"
+  },
+  {
+    "code": "220900",
+    "description": "SAN MARTIN",
+    "parent": "220000"
+  },
+  {
+    "code": "220901",
+    "description": "TARAPOTO",
+    "parent": "220900"
+  },
+  {
+    "code": "220902",
+    "description": "ALBERTO LEVEAU",
+    "parent": "220900"
+  },
+  {
+    "code": "220903",
+    "description": "CACATACHI",
+    "parent": "220900"
+  },
+  {
+    "code": "220904",
+    "description": "CHAZUTA",
+    "parent": "220900"
+  },
+  {
+    "code": "220905",
+    "description": "CHIPURANA",
+    "parent": "220900"
+  },
+  {
+    "code": "220906",
+    "description": "EL PORVENIR",
+    "parent": "220900"
+  },
+  {
+    "code": "220907",
+    "description": "HUIMBAYOC",
+    "parent": "220900"
+  },
+  {
+    "code": "220908",
+    "description": "JUAN GUERRA",
+    "parent": "220900"
+  },
+  {
+    "code": "220909",
+    "description": "LA BANDA DE SHILCAYO",
+    "parent": "220900"
+  },
+  {
+    "code": "220910",
+    "description": "MORALES",
+    "parent": "220900"
+  },
+  {
+    "code": "220911",
+    "description": "PAPAPLAYA",
+    "parent": "220900"
+  },
+  {
+    "code": "220912",
+    "description": "SAN ANTONIO",
+    "parent": "220900"
+  },
+  {
+    "code": "220913",
+    "description": "SAUCE",
+    "parent": "220900"
+  },
+  {
+    "code": "220914",
+    "description": "SHAPAJA",
+    "parent": "220900"
+  },
+  {
+    "code": "221000",
+    "description": "TOCACHE",
+    "parent": "220000"
+  },
+  {
+    "code": "221001",
+    "description": "TOCACHE",
+    "parent": "221000"
+  },
+  {
+    "code": "221002",
+    "description": "NUEVO PROGRESO",
+    "parent": "221000"
+  },
+  {
+    "code": "221003",
+    "description": "POLVORA",
+    "parent": "221000"
+  },
+  {
+    "code": "221004",
+    "description": "SHUNTE",
+    "parent": "221000"
+  },
+  {
+    "code": "221005",
+    "description": "UCHIZA",
+    "parent": "221000"
+  },
+  {
+    "code": "230000",
+    "description": "TACNA",
+    "parent": ""
+  },
+  {
+    "code": "230100",
+    "description": "TACNA",
+    "parent": "230000"
+  },
+  {
+    "code": "230101",
+    "description": "TACNA",
+    "parent": "230100"
+  },
+  {
+    "code": "230102",
+    "description": "ALTO DE LA ALIANZA",
+    "parent": "230100"
+  },
+  {
+    "code": "230103",
+    "description": "CALANA",
+    "parent": "230100"
+  },
+  {
+    "code": "230104",
+    "description": "CIUDAD NUEVA",
+    "parent": "230100"
+  },
+  {
+    "code": "230105",
+    "description": "INCLAN",
+    "parent": "230100"
+  },
+  {
+    "code": "230106",
+    "description": "PACHIA",
+    "parent": "230100"
+  },
+  {
+    "code": "230107",
+    "description": "PALCA",
+    "parent": "230100"
+  },
+  {
+    "code": "230108",
+    "description": "POCOLLAY",
+    "parent": "230100"
+  },
+  {
+    "code": "230109",
+    "description": "SAMA",
+    "parent": "230100"
+  },
+  {
+    "code": "230110",
+    "description": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
+    "parent": "230100"
+  },
+  {
+    "code": "230200",
+    "description": "CANDARAVE",
+    "parent": "230000"
+  },
+  {
+    "code": "230201",
+    "description": "CANDARAVE",
+    "parent": "230200"
+  },
+  {
+    "code": "230202",
+    "description": "CAIRANI",
+    "parent": "230200"
+  },
+  {
+    "code": "230203",
+    "description": "CAMILACA",
+    "parent": "230200"
+  },
+  {
+    "code": "230204",
+    "description": "CURIBAYA",
+    "parent": "230200"
+  },
+  {
+    "code": "230205",
+    "description": "HUANUARA",
+    "parent": "230200"
+  },
+  {
+    "code": "230206",
+    "description": "QUILAHUANI",
+    "parent": "230200"
+  },
+  {
+    "code": "230300",
+    "description": "JORGE BASADRE",
+    "parent": "230000"
+  },
+  {
+    "code": "230301",
+    "description": "LOCUMBA",
+    "parent": "230300"
+  },
+  {
+    "code": "230302",
+    "description": "ILABAYA",
+    "parent": "230300"
+  },
+  {
+    "code": "230303",
+    "description": "ITE",
+    "parent": "230300"
+  },
+  {
+    "code": "230400",
+    "description": "TARATA",
+    "parent": "230000"
+  },
+  {
+    "code": "230401",
+    "description": "TARATA",
+    "parent": "230400"
+  },
+  {
+    "code": "230402",
+    "description": "HEROES ALBARRACIN",
+    "parent": "230400"
+  },
+  {
+    "code": "230403",
+    "description": "ESTIQUE",
+    "parent": "230400"
+  },
+  {
+    "code": "230404",
+    "description": "ESTIQUE-PAMPA",
+    "parent": "230400"
+  },
+  {
+    "code": "230405",
+    "description": "SITAJARA",
+    "parent": "230400"
+  },
+  {
+    "code": "230406",
+    "description": "SUSAPAYA",
+    "parent": "230400"
+  },
+  {
+    "code": "230407",
+    "description": "TARUCACHI",
+    "parent": "230400"
+  },
+  {
+    "code": "230408",
+    "description": "TICACO",
+    "parent": "230400"
+  },
+  {
+    "code": "240000",
+    "description": "TUMBES",
+    "parent": ""
+  },
+  {
+    "code": "240100",
+    "description": "TUMBES",
+    "parent": "240000"
+  },
+  {
+    "code": "240101",
+    "description": "TUMBES",
+    "parent": "240100"
+  },
+  {
+    "code": "240102",
+    "description": "CORRALES",
+    "parent": "240100"
+  },
+  {
+    "code": "240103",
+    "description": "LA CRUZ",
+    "parent": "240100"
+  },
+  {
+    "code": "240104",
+    "description": "PAMPAS DE HOSPITAL",
+    "parent": "240100"
+  },
+  {
+    "code": "240105",
+    "description": "SAN JACINTO",
+    "parent": "240100"
+  },
+  {
+    "code": "240106",
+    "description": "SAN JUAN DE LA VIRGEN",
+    "parent": "240100"
+  },
+  {
+    "code": "240200",
+    "description": "CONTRALMIRANTE VILLAR",
+    "parent": "240000"
+  },
+  {
+    "code": "240201",
+    "description": "ZORRITOS",
+    "parent": "240200"
+  },
+  {
+    "code": "240202",
+    "description": "CASITAS",
+    "parent": "240200"
+  },
+  {
+    "code": "240300",
+    "description": "ZARUMILLA",
+    "parent": "240000"
+  },
+  {
+    "code": "240301",
+    "description": "ZARUMILLA",
+    "parent": "240300"
+  },
+  {
+    "code": "240302",
+    "description": "AGUAS VERDES",
+    "parent": "240300"
+  },
+  {
+    "code": "240303",
+    "description": "MATAPALO",
+    "parent": "240300"
+  },
+  {
+    "code": "240304",
+    "description": "PAPAYAL",
+    "parent": "240300"
+  },
+  {
+    "code": "250000",
+    "description": "UCAYALI",
+    "parent": ""
+  },
+  {
+    "code": "250100",
+    "description": "CORONEL PORTILLO",
+    "parent": "250000"
+  },
+  {
+    "code": "250101",
+    "description": "CALLERIA",
+    "parent": "250100"
+  },
+  {
+    "code": "250102",
+    "description": "CAMPOVERDE",
+    "parent": "250100"
+  },
+  {
+    "code": "250103",
+    "description": "IPARIA",
+    "parent": "250100"
+  },
+  {
+    "code": "250104",
+    "description": "MASISEA",
+    "parent": "250100"
+  },
+  {
+    "code": "250105",
+    "description": "YARINACOCHA",
+    "parent": "250100"
+  },
+  {
+    "code": "250106",
+    "description": "NUEVA REQUENA",
+    "parent": "250100"
+  },
+  {
+    "code": "250200",
+    "description": "ATALAYA",
+    "parent": "250000"
+  },
+  {
+    "code": "250201",
+    "description": "RAYMONDI",
+    "parent": "250200"
+  },
+  {
+    "code": "250202",
+    "description": "SEPAHUA",
+    "parent": "250200"
+  },
+  {
+    "code": "250203",
+    "description": "TAHUANIA",
+    "parent": "250200"
+  },
+  {
+    "code": "250204",
+    "description": "YURUA",
+    "parent": "250200"
+  },
+  {
+    "code": "250300",
+    "description": "PADRE ABAD",
+    "parent": "250000"
+  },
+  {
+    "code": "250301",
+    "description": "PADRE ABAD",
+    "parent": "250300"
+  },
+  {
+    "code": "250302",
+    "description": "IRAZOLA",
+    "parent": "250300"
+  },
+  {
+    "code": "250303",
+    "description": "CURIMANA",
+    "parent": "250300"
+  },
+  {
+    "code": "250400",
+    "description": "PURUS",
+    "parent": "250000"
+  },
+  {
+    "code": "250401",
+    "description": "PURUS",
+    "parent": "250400"
+  },
+  {
+    "code": "070100",
+    "description": "CALLAO",
+    "parent": "070000"
+  },
+  {
+    "code": "090511",
+    "description": "COSME",
+    "parent": "090500"
+  },
+  {
+    "code": "100112",
+    "description": "YACUS",
+    "parent": "100100"
+  },
+  {
+    "code": "120699",
+    "description": "MAZAMARI-PANGOA",
+    "parent": "120600"
+  },
+  {
+    "code": "160700",
+    "description": "DATEM DEL MARAÑÓN",
+    "parent": "160000"
+  },
+  {
+    "code": "200115",
+    "description": "VEINTISÉIS DE OCTUBRE",
+    "parent": "200100"
+  },
+  {
+    "code": "240203",
+    "description": "CANOAS DE PUNTA SAL",
+    "parent": "240200"
+  },
+  {
+    "code": "160114",
+    "description": "TENIENTE MANUEL CLAVERO",
+    "parent": "160100"
+  },
+  {
+    "code": "050116",
+    "description": "ANDRES AVELINO CACERES DORREGARAY",
+    "parent": "050100"
+  },
+  {
+    "code": "250107",
+    "description": "MANANTAY",
+    "parent": "250100"
+  },
+  {
+    "code": "010206",
+    "description": "BAGUA",
+    "parent": "010200"
+  },
+  {
+    "code": "050509",
+    "description": "SAMUGARI",
+    "parent": "050500"
+  },
+  {
+    "code": "190308",
+    "description": "CONSTITUCION",
+    "parent": "190300"
+  },
+  {
+    "code": "160706",
+    "description": "ANDOAS",
+    "parent": "160700"
+  },
+  {
+    "code": "211210",
+    "description": "SAN PEDRO DE PUTINA PUNCO",
+    "parent": "211200"
+  },
+  {
+    "code": "160701",
+    "description": "BARRANCA",
+    "parent": "160700"
+  },
+  {
+    "code": "160702",
+    "description": "CAHUAPANAS",
+    "parent": "160700"
+  },
+  {
+    "code": "160703",
+    "description": "MANSERICHE",
+    "parent": "160700"
+  },
+  {
+    "code": "160704",
+    "description": "MORONA",
+    "parent": "160700"
+  },
+  {
+    "code": "160705",
+    "description": "PASTAZA",
+    "parent": "160700"
+  },
+  {
+    "code": "090119",
+    "description": "HUANDO",
+    "parent": "090100"
+  },
+  {
+    "code": "160511",
+    "description": "YAQUERANA",
+    "parent": "160500"
+  },
+  {
+    "code": "050409",
+    "description": "CANAYRE",
+    "parent": "050400"
+  },
+  {
+    "code": "050410",
+    "description": "UCHURACCAY",
+    "parent": "050400"
+  },
+  {
+    "code": "050510",
+    "description": "ANCHIHUAY",
+    "parent": "050500"
+  },
+  {
+    "code": "070107",
+    "description": "MI PERU",
+    "parent": "070100"
+  },
+  {
+    "code": "160801",
+    "description": "PUTUMAYO",
+    "parent": "160800"
+  },
+  {
+    "code": "160802",
+    "description": "ROSA PANDURO",
+    "parent": "160800"
+  },
+  {
+    "code": "160803",
+    "description": "TENIENTE MANUEL CLAVERO",
+    "parent": "160800"
+  },
+  {
+    "code": "160804",
+    "description": "YAGUAS",
+    "parent": "160800"
+  },
+  {
+    "code": "160800",
+    "description": "PUTUMAYO",
+    "parent": "160000"
+  },
+  {
+    "code": "030220",
+    "description": "JOSE MARIA ARGUEDAS",
+    "parent": "030200"
+  },
+  {
+    "code": "030609",
+    "description": "ROCCHACC",
+    "parent": "030600"
+  },
+  {
+    "code": "030610",
+    "description": "EL PORVENIR",
+    "parent": "030600"
+  },
+  {
+    "code": "030611",
+    "description": "LOS CHANKAS",
+    "parent": "030600"
+  },
+  {
+    "code": "050411",
+    "description": "PUCACOLPA",
+    "parent": "050400"
+  },
+  {
+    "code": "050412",
+    "description": "CHACA",
+    "parent": "050400"
+  },
+  {
+    "code": "050511",
+    "description": "ORONCCOY",
+    "parent": "050500"
+  },
+  {
+    "code": "080911",
+    "description": "INKAWASI",
+    "parent": "080900"
+  },
+  {
+    "code": "080912",
+    "description": "VILLA VIRGEN",
+    "parent": "080900"
+  },
+  {
+    "code": "080913",
+    "description": "VILLA KINTIARINA",
+    "parent": "080900"
+  },
+  {
+    "code": "080914",
+    "description": "MEGANTONI",
+    "parent": "080900"
+  },
+  {
+    "code": "090719",
+    "description": "QUICHUAS",
+    "parent": "090700"
+  },
+  {
+    "code": "090720",
+    "description": "ANDAYMARCA",
+    "parent": "090700"
+  },
+  {
+    "code": "090721",
+    "description": "ROBLE",
+    "parent": "090700"
+  },
+  {
+    "code": "090722",
+    "description": "PICHOS",
+    "parent": "090700"
+  },
+  {
+    "code": "090723",
+    "description": "SANTIAGO DE TUCUMA",
+    "parent": "090700"
+  },
+  {
+    "code": "100113",
+    "description": "SAN PABLO DE PILLAO",
+    "parent": "100100"
+  },
+  {
+    "code": "100607",
+    "description": "PUCAYACU",
+    "parent": "100600"
+  },
+  {
+    "code": "100608",
+    "description": "CASTILLO GRANDE",
+    "parent": "100600"
+  },
+  {
+    "code": "100609",
+    "description": "PUEBLO NUEVO",
+    "parent": "100600"
+  },
+  {
+    "code": "100610",
+    "description": "SANTO DOMINGO DE ANDA",
+    "parent": "100600"
+  },
+  {
+    "code": "100704",
+    "description": "LA MORADA",
+    "parent": "100700"
+  },
+  {
+    "code": "100705",
+    "description": "SANTA ROSA DE ALTO YANAJANCA",
+    "parent": "100700"
+  },
+  {
+    "code": "120609",
+    "description": "VIZCATAN DEL ENE",
+    "parent": "120600"
+  },
+  {
+    "code": "211105",
+    "description": "SAN MIGUEL",
+    "parent": "211100"
+  },
+  {
+    "code": "230111",
+    "description": "LA YARADA LOS PALOS",
+    "parent": "230100"
+  },
+  {
+    "code": "250304",
+    "description": "NESHUYA",
+    "parent": "250300"
+  },
+  {
+    "code": "250305",
+    "description": "ALEXANDER VON HUMBOLDT",
+    "parent": "250300"
+  }
+]

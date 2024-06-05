@@ -1,0 +1,11 @@
+//
+//  Staging.xcconfig
+//  matrix
+//
+//  Created by Josue Farfan on 3/2/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = iO - Staging
+#include? "tmp.xcconfig"
