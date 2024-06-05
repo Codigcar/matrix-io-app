@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing en <CRenderList /> debe hacer match con el snapshot 1`] = `
+<RCTScrollView
+  ListEmptyComponent={[Function]}
+  contentContainerStyle={
+    Object {
+      "flexGrow": 1,
+    }
+  }
+  data={
+    Array [
+      Object {
+        "body": "body",
+        "id": 1,
+        "title": "title",
+        "userId": 1,
+      },
+      Object {
+        "body": "body",
+        "id": 2,
+        "title": "title",
+        "userId": 1,
+      },
+      Object {
+        "body": "body",
+        "id": 3,
+        "title": "title",
+        "userId": 1,
+      },
+    ]
+  }
+  getItem={[Function]}
+  getItemCount={[Function]}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onEndReached={[MockFunction]}
+  onEndReachedThreshold={0.2}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  refreshControl={
+    <RefreshControlMock
+      colors={
+        Array [
+          "red",
+        ]
+      }
+      onRefresh={[MockFunction]}
+      refreshing={false}
+      testID="refresh-control"
+      tintColor="red"
+    />
+  }
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  stickyHeaderIndices={Array []}
+  testID="flat-list"
+  viewabilityConfigCallbackPairs={Array []}
+>
+  <RCTRefreshControl />
+  <View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        accessibilityRole="menuitem"
+        style={
+          Object {
+            "borderBottomColor": "#8BA0AB",
+            "borderBottomWidth": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 20,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          title
+        </Text>
+        <Text>
+          body
+        </Text>
+        <Text>
+          User: 
+          1
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        accessibilityRole="menuitem"
+        style={
+          Object {
+            "borderBottomColor": "#8BA0AB",
+            "borderBottomWidth": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 20,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          title
+        </Text>
+        <Text>
+          body
+        </Text>
+        <Text>
+          User: 
+          1
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        accessibilityRole="menuitem"
+        style={
+          Object {
+            "borderBottomColor": "#8BA0AB",
+            "borderBottomWidth": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 20,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          title
+        </Text>
+        <Text>
+          body
+        </Text>
+        <Text>
+          User: 
+          1
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

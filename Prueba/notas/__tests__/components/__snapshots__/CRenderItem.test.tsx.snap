@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing en <CRenderItem /> debe hacer match con el snapshot 1`] = `
+<View
+  accessibilityRole="menuitem"
+  style={
+    Object {
+      "borderBottomColor": "#8BA0AB",
+      "borderBottomWidth": 1,
+      "padding": 10,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "fontWeight": "bold",
+      }
+    }
+  >
+    title
+  </Text>
+  <Text>
+    body
+  </Text>
+  <Text>
+    User: 
+    1
+  </Text>
+</View>
+`;
